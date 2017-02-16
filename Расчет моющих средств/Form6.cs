@@ -191,16 +191,17 @@ namespace Расчет_моющих_средств
                     }
 
                     double penaob = Convert.ToDouble(con.Controls[tb6].Text);
-                    con.Controls[tb10].Text = Math.Round((penaob / 3), 0).ToString();
-
+                    double resTb10 = penaob / 3;
                     double ob50 = Convert.ToDouble(con.Controls[tb3].Text);
-                    con.Controls[tb9].Text = Math.Round((ob50 / 14), 0).ToString();
-
+                    double resTb9 = ob50 / 14;
                     double cena = Convert.ToDouble(con.Controls[tb8].Text);
-                    double rashodPenogen = Convert.ToDouble(con.Controls[tb9].Text);
-                    con.Controls[tb11].Text = Math.Round((1 * cena / 20000 * rashodPenogen), 0).ToString();
+                    double resTb11 = 1 * cena / 20000 * resTb9;
+                    double resTb12 = 20000 / resTb9;
 
-                    con.Controls[tb12].Text = Math.Round((20000 / rashodPenogen), 0).ToString();
+                    con.Controls[tb10].Text = Math.Round(resTb10, 0).ToString();
+                    con.Controls[tb9].Text = Math.Round(resTb9, 0).ToString();
+                    con.Controls[tb11].Text = Math.Round(resTb11, 0).ToString();
+                    con.Controls[tb12].Text = Math.Round(resTb12, 0).ToString();
                     i++;
 
                    
@@ -249,12 +250,12 @@ namespace Расчет_моющих_средств
                 double res1 = ob50 / 14;
                 double res2 = ob1 / 3;
                 double res3 = 1 * cena / 20000 * res1;
-                double res4 = 20000 / Math.Round(res1, 0);
+                double res4 = 20000 / res1;
 
                 textBox9.Text = Math.Round(res1, 0).ToString();
                 textBox10.Text = Math.Round(res2, 0).ToString();
                 textBox11.Text = Math.Round(res3, 0).ToString();
-                textBox12.Text = Math.Round(res4, 0).ToString();
+                textBox12.Text = Math.Round(Math.Round(res4), 0).ToString();
 
                 double avtoClient = Convert.ToDouble(textBox12.Text.Replace('.', ','));
                 int mashinbolshe =  max - (int)avtoClient;
