@@ -34,6 +34,7 @@ namespace Расчет_моющих_средств
             img = Image.FromFile("avto/DIY.jpg");
             pictureBox5.Image = img;
 
+            #region Отображение картинок АПК
 
             img = Image.FromFile("apk/algalit.jpg");
             pictureBox10.Image = img;
@@ -82,6 +83,7 @@ namespace Расчет_моющих_средств
             img = Image.FromFile("apk/desimix.jpg");
             pictureBox32.Image = img;
 
+            #endregion
 
 
             img = Image.FromFile("klining/antistick_0.5 (1).jpg");
@@ -95,22 +97,6 @@ namespace Расчет_моющих_средств
             img = Image.FromFile("klining/daze_0.5.jpg");
             pictureBox11.Image = img;
 
-
-            ToolTip toolTip1 = new ToolTip();
-
-            // Set up the delays for the ToolTip.
-            toolTip1.AutoPopDelay = 5000;
-            toolTip1.InitialDelay = 100;
-            toolTip1.ReshowDelay = 5000;
-            // Force the ToolTip text to be displayed whether or not the form is active.
-            toolTip1.ShowAlways = true;
-
-            // Set up the ToolTip text for the Button and Checkbox.
-            toolTip1.SetToolTip(this.pictureBox1, "Высококонцентрированное средство для бесконтактной мойки класс суперпремиум, для воды высокой жесткости");
-            toolTip1.SetToolTip(this.pictureBox2, "Жидкость незамерзающая для стеклоомывателей");
-            toolTip1.SetToolTip(this.pictureBox3, "Средство для удаления мошек, тополиных почек, смол деревьев");
-            toolTip1.SetToolTip(this.pictureBox4, "Концентрированное слабощелочное средство для профессиональной деликатной мойки автотранспорта");
-            toolTip1.SetToolTip(this.pictureBox5, "Высокопенное средство для бесконтактной мойки автомобиля на мойках самообслуживания");
         }
 
         private void pictureBox1_DoubleClick(object sender, EventArgs e)
@@ -159,6 +145,7 @@ namespace Расчет_моющих_средств
             vortex.Show();
         }
 
+        #region Увеличение картинок АПК
         private void pictureBox10_Click(object sender, EventArgs e)
         {
             Images imgForm = new Images(pictureBox10.Image);
@@ -296,5 +283,7 @@ namespace Расчет_моющих_средств
             Images imgForm = new Images(pictureBox32.Image);
             imgForm.ShowDialog();
         }
+
+        #endregion
     }
 }
