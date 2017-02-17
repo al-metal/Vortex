@@ -37,14 +37,51 @@ namespace Расчет_моющих_средств
 
             img = Image.FromFile("apk/algalit.jpg");
             pictureBox10.Image = img;
+            img = Image.FromFile("apk/algalit_50.jpg");
+            pictureBox16.Image = img;
             img = Image.FromFile("apk/algavit_25.jpg");
-            pictureBox9.Image = img;
-            img = Image.FromFile("apk/biotec.jpg");
-            pictureBox8.Image = img;
-            img = Image.FromFile("apk/desimix.jpg");
             pictureBox7.Image = img;
-            img = Image.FromFile("apk/desitub.jpg");
+            img = Image.FromFile("apk/algavit_50.jpg");
             pictureBox6.Image = img;
+            img = Image.FromFile("apk/biotec.jpg");
+            pictureBox9.Image = img;
+            img = Image.FromFile("apk/biotec-m.jpg");
+            pictureBox8.Image = img;
+            img = Image.FromFile("apk/biotec-c.jpg");
+            pictureBox18.Image = img;
+            img = Image.FromFile("apk/biotec-super.jpg");
+            pictureBox17.Image = img;
+            img = Image.FromFile("apk/desimix.jpg");
+            pictureBox20.Image = img;
+            img = Image.FromFile("apk/desitub.jpg");
+            pictureBox19.Image = img;
+            img = Image.FromFile("apk/ecovit.jpg");
+            pictureBox30.Image = img;
+            img = Image.FromFile("apk/elovit.jpg");
+            pictureBox29.Image = img;
+            img = Image.FromFile("apk/fitolit.jpg");
+            pictureBox28.Image = img;
+            img = Image.FromFile("apk/forbicid.jpg");
+            pictureBox27.Image = img;
+            img = Image.FromFile("apk/kliovit.jpg");
+            pictureBox26.Image = img;
+            img = Image.FromFile("apk/ksilan.jpg");
+            pictureBox25.Image = img;
+            img = Image.FromFile("apk/ksilan-k.jpg");
+            pictureBox24.Image = img;
+            img = Image.FromFile("apk/ksilan-m.jpg");
+            pictureBox23.Image = img;
+            img = Image.FromFile("apk/ksilan-super.jpg");
+            pictureBox22.Image = img;
+            img = Image.FromFile("apk/lactovit.jpg");
+            pictureBox21.Image = img;
+            img = Image.FromFile("apk/priolit.jpg");
+            pictureBox34.Image = img;
+            img = Image.FromFile("apk/violit.jpg");
+            pictureBox33.Image = img;
+            img = Image.FromFile("apk/desimix.jpg");
+            pictureBox32.Image = img;
+
 
 
             img = Image.FromFile("klining/antistick_0.5 (1).jpg");
@@ -125,6 +162,138 @@ namespace Расчет_моющих_средств
         private void pictureBox10_Click(object sender, EventArgs e)
         {
             Images imgForm = new Images(pictureBox10.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox16_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox16.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox7_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox7.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox6_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox6.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox9_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox9.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox8_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox8.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox18_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox18.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox17_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox17.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox20_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox20.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox19_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox19.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox30_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox30.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox29_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox29.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox28_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox28.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox27_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox27.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox26_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox26.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox25_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox25.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox24_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox24.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox23_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox23.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox22_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox22.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox21_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox21.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox34_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox34.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox33_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox33.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox32_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox32.Image);
             imgForm.ShowDialog();
         }
     }
