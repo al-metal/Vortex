@@ -78,9 +78,9 @@ namespace Расчет_моющих_средств
             pictureBox21.Image = img;
             img = Image.FromFile("apk/priolit.jpg");
             pictureBox34.Image = img;
-            img = Image.FromFile("apk/violit.jpg");
+            img = Image.FromFile("apk/somatest.jpg");
             pictureBox33.Image = img;
-            img = Image.FromFile("apk/desimix.jpg");
+            img = Image.FromFile("apk/violit.jpg");
             pictureBox32.Image = img;
 
             #endregion
