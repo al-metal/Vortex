@@ -83,5 +83,12 @@ namespace Расчет_моющих_средств
             Spravka spravka = new Spravka();
             spravka.Show();
         }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Klining klining = new Klining();
+            klining.Show();
+        }
     }
 }
