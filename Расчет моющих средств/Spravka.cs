@@ -121,5 +121,11 @@ namespace Расчет_моющих_средств
             Vortex vortex = new Vortex();
             vortex.Show();
         }
+
+        private void pictureBox10_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox10.Image);
+            imgForm.ShowDialog();
+        }
     }
 }
