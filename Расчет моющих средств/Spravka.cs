@@ -160,6 +160,39 @@ namespace Расчет_моющих_средств
 
             #endregion
 
+            #region Клининг
+
+            img = Image.FromFile("pishe/CA_27.jpg");
+            pictureBox74.Image = img;
+            img = Image.FromFile("pishe/CAD_1415_3.jpg");
+            pictureBox75.Image = img;
+            img = Image.FromFile("pishe/CB_23.jpg");
+            pictureBox76.Image = img;
+            img = Image.FromFile("pishe/CB_46.jpg");
+            pictureBox77.Image = img;
+            img = Image.FromFile("pishe/CBD_2401_1.jpg");
+            pictureBox78.Image = img;
+            img = Image.FromFile("pishe/FA_18.jpg");
+            pictureBox79.Image = img;
+            img = Image.FromFile("pishe/FB_17.jpg");
+            pictureBox73.Image = img;
+            img = Image.FromFile("pishe/FB_36.jpg");
+            pictureBox72.Image = img;
+            img = Image.FromFile("pishe/FBD_0402_1.jpg");
+            pictureBox80.Image = img;
+            img = Image.FromFile("pishe/FBD_0803_1.jpg");
+            pictureBox81.Image = img;
+            img = Image.FromFile("pishe/FBD_0902_2.jpg");
+            pictureBox82.Image = img;
+            img = Image.FromFile("pishe/FN.jpg");
+            pictureBox83.Image = img;
+            img = Image.FromFile("pishe/LBD_0107_1.jpg");
+            pictureBox71.Image = img;
+            img = Image.FromFile("pishe/LBD_1002_2.jpg");
+            pictureBox70.Image = img;
+
+            #endregion
+            
             img = Image.FromFile("klining/antistick_0.5 (1).jpg");
             pictureBox15.Image = img;
             img = Image.FromFile("klining/blank_1.jpg");
@@ -569,5 +602,89 @@ namespace Расчет_моющих_средств
         }
 
         #endregion
+
+        private void pictureBox74_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox74.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox75_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox75.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox76_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox76.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox77_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox77.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox78_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox78.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox79_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox79.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox73_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox73.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox72_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox72.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox80_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox80.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox81_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox81.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox82_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox82.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox83_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox83.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox71_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox71.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox70_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox70.Image);
+            imgForm.ShowDialog();
+        }
     }
 }
