@@ -23,17 +23,92 @@ namespace Расчет_моющих_средств
 
         private void Spravka_Load(object sender, EventArgs e)
         {
+            #region Автохимия
             Image img = Image.FromFile("avto/ace.jpg");
-            pictureBox1.Image = img;
-            img = Image.FromFile("avto/apex-10.jpg");
-            pictureBox2.Image = img;
-            img = Image.FromFile("avto/debug_5.jpg");
-            pictureBox3.Image = img;
-            img = Image.FromFile("avto/delicate_5.jpg");
-            pictureBox4.Image = img;
-            img = Image.FromFile("avto/DIY.jpg");
             pictureBox5.Image = img;
+            img = Image.FromFile("avto/apex-10.jpg");
+            pictureBox11.Image = img;
+            img = Image.FromFile("avto/debug_5.jpg");
+            pictureBox12.Image = img;
+            img = Image.FromFile("avto/defstroy.jpg");
+            pictureBox13.Image = img;
+            img = Image.FromFile("avto/delicate_5.jpg");
+            pictureBox14.Image = img;
+            img = Image.FromFile("avto/DIY.jpg");
+            pictureBox15.Image = img;
+            img = Image.FromFile("avto/dozex.jpg");
+            pictureBox4.Image = img;
+            img = Image.FromFile("avto/guru.jpg");
+            pictureBox3.Image = img;
+            img = Image.FromFile("avto/hands_5.jpg");
+            pictureBox31.Image = img;
+            img = Image.FromFile("avto/hands_nm.jpg");
+            pictureBox35.Image = img;
+            img = Image.FromFile("avto/hands-shine_5.jpg");
+            pictureBox36.Image = img;
+            img = Image.FromFile("avto/loco.jpg");
+            pictureBox37.Image = img;
+            img = Image.FromFile("avto/magnat.jpg");
+            pictureBox2.Image = img;
+            img = Image.FromFile("avto/master.jpg");
+            pictureBox1.Image = img;
+            img = Image.FromFile("avto/master-tone.jpg");
+            pictureBox38.Image = img;
+            img = Image.FromFile("avto/mobile.jpg");
+            pictureBox39.Image = img;
+            img = Image.FromFile("avto/nanex.jpg");
+            pictureBox40.Image = img;
+            //img = Image.FromFile("");
+            //pictureBox41.Image = img;
+            //img = Image.FromFile("");
+            //pictureBox42.Image = img;
+            img = Image.FromFile("avto/novice_5.jpg");
+            pictureBox43.Image = img;
+            img = Image.FromFile("avto/orbis_5.jpg");
+            pictureBox44.Image = img;
+            img = Image.FromFile("avto/politura_5.jpg");
+            pictureBox45.Image = img;
+            img = Image.FromFile("avto/politura-gloss_5.jpg");
+            pictureBox46.Image = img;
+            img = Image.FromFile("avto/profy.jpg");
+            pictureBox111.Image = img;
+            img = Image.FromFile("avto/propella_5.jpg");
+            pictureBox108.Image = img;
+            img = Image.FromFile("avto/rotae_5.jpg");
+            pictureBox109.Image = img;
+            img = Image.FromFile("avto/rotaevis_5.jpg");
+            pictureBox110.Image = img;
+            //img = Image.FromFile("");
+            //pictureBox107.Image = img;
+            img = Image.FromFile("avto/senza.jpg");
+            pictureBox106.Image = img;
+            img = Image.FromFile("avto/silicone_5.jpg");
+            pictureBox105.Image = img;
+            img = Image.FromFile("avto/solo.jpg");
+            pictureBox103.Image = img;
+            img = Image.FromFile("avto/tantum.jpg");
+            pictureBox104.Image = img;
+            img = Image.FromFile("avto/tiro.jpg");
+            pictureBox102.Image = img;
+            img = Image.FromFile("avto/tiro-tone.jpg");
+            pictureBox99.Image = img;
+            img = Image.FromFile("avto/tutela_cherry.jpg");
+            pictureBox100.Image = img;
+            img = Image.FromFile("avto/tutela-fast_5.jpg");
+            pictureBox101.Image = img;
+            img = Image.FromFile("avto/tutor.jpg");
+            pictureBox98.Image = img;
+            img = Image.FromFile("avto/twin.jpg");
+            pictureBox97.Image = img;
+            img = Image.FromFile("avto/unior.jpg");
+            pictureBox96.Image = img;
+            img = Image.FromFile("avto/witrum_5.jpg");
+            pictureBox93.Image = img;
+            //img = Image.FromFile("");
+            //pictureBox94.Image = img;
 
+            #endregion
+            
             #region Отображение картинок АПК
 
             img = Image.FromFile("apk/algalit.jpg");
@@ -85,7 +160,6 @@ namespace Расчет_моющих_средств
 
             #endregion
 
-
             img = Image.FromFile("klining/antistick_0.5 (1).jpg");
             pictureBox15.Image = img;
             img = Image.FromFile("klining/blank_1.jpg");
@@ -97,46 +171,6 @@ namespace Расчет_моющих_средств
             img = Image.FromFile("klining/daze_0.5.jpg");
             pictureBox11.Image = img;
 
-        }
-
-        private void pictureBox1_DoubleClick(object sender, EventArgs e)
-        {
-            MessageBox.Show("Высококонцентрированное средство для бесконтактной мойки класс суперпремиум, для воды высокой жесткости", "ACE", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void pictureBox15_Click(object sender, EventArgs e)
-        {
-            Images imgForm = new Images(pictureBox15.Image);
-            imgForm.ShowDialog();
-        }
-
-        private void pictureBox14_Click(object sender, EventArgs e)
-        {
-            Images imgForm = new Images(pictureBox14.Image);
-            imgForm.ShowDialog();
-        }
-
-        private void pictureBox13_Click(object sender, EventArgs e)
-        {
-            Images imgForm = new Images(pictureBox13.Image);
-            imgForm.ShowDialog();
-        }
-
-        private void pictureBox12_Click(object sender, EventArgs e)
-        {
-            Images imgForm = new Images(pictureBox12.Image);
-            imgForm.ShowDialog();
-        }
-
-        private void pictureBox11_Click(object sender, EventArgs e)
-        {
-            Images imgForm = new Images(pictureBox11.Image);
-            imgForm.ShowDialog();
         }
 
         private void Spravka_FormClosing(object sender, FormClosingEventArgs e)
@@ -284,29 +318,256 @@ namespace Расчет_моющих_средств
             imgForm.ShowDialog();
         }
 
-        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
-        {
+        #endregion
 
+        #region Увеличение картинок автохимия
+
+        private void pictureBox5_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox5.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox11_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox11.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox12_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox12.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox13_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox13.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox14_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox14.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox15_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox15.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox4_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox4.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox3.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox31_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox31.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox35_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox35.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox36_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox36.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox37_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox37.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox2.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox1.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox38_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox38.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox39_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox39.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox40_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox40.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox41_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox41.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox42_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox42.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox43_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox43.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox44_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox44.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox45_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox45.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox46_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox46.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox111_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox111.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox108_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox108.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox109_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox109.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox110_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox110.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox107_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox107.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox106_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox106.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox105_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox105.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox103_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox103.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox104_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox104.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox102_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox102.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox99_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox99.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox100_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox100.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox101_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox101.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox98_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox98.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox97_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox97.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox96_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox96.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox93_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox93.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox94_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox94.Image);
+            imgForm.ShowDialog();
         }
 
         #endregion
-
-        /* private void Spravka_ResizeEnd(object sender, EventArgs e)
-         {
-             Spravka form = new Spravka();
-             int widthForm = this.Width;
-             int countColumn = widthForm / 338;
-             tableLayoutPanel2.RowCount += 1;
-             tableLayoutPanel2.ColumnCount = countColumn;
-             for(int i = 0; countColumn> i; i++)
-             {
-                 tableLayoutPanel2.Controls.Add(new Label() { Text = "Type: " + i, Anchor = AnchorStyles.Left, AutoSize = true,BackColor = Color.Aquamarine }, i, 0);
-             }
-             for(int t = 0; tableLayoutPanel2.ColumnCount -1 > t; t++)
-             {
-                 tableLayoutPanel2.ColumnStyles[t].SizeType = SizeType.AutoSize;
-             }
-         }
-     */
     }
 }

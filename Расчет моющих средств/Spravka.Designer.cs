@@ -30,103 +30,75 @@
         {
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
-            this.tabPage3 = new System.Windows.Forms.TabPage();
-            this.tabPage4 = new System.Windows.Forms.TabPage();
-            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
-            this.panel23 = new System.Windows.Forms.Panel();
-            this.textBox44 = new System.Windows.Forms.TextBox();
-            this.textBox43 = new System.Windows.Forms.TextBox();
-            this.pictureBox32 = new System.Windows.Forms.PictureBox();
-            this.panel22 = new System.Windows.Forms.Panel();
-            this.textBox45 = new System.Windows.Forms.TextBox();
-            this.textBox46 = new System.Windows.Forms.TextBox();
-            this.pictureBox33 = new System.Windows.Forms.PictureBox();
-            this.panel21 = new System.Windows.Forms.Panel();
-            this.textBox47 = new System.Windows.Forms.TextBox();
-            this.textBox48 = new System.Windows.Forms.TextBox();
-            this.pictureBox34 = new System.Windows.Forms.PictureBox();
-            this.panel20 = new System.Windows.Forms.Panel();
-            this.textBox21 = new System.Windows.Forms.TextBox();
-            this.textBox22 = new System.Windows.Forms.TextBox();
-            this.pictureBox21 = new System.Windows.Forms.PictureBox();
-            this.panel19 = new System.Windows.Forms.Panel();
-            this.textBox23 = new System.Windows.Forms.TextBox();
-            this.textBox24 = new System.Windows.Forms.TextBox();
-            this.pictureBox22 = new System.Windows.Forms.PictureBox();
-            this.panel18 = new System.Windows.Forms.Panel();
-            this.textBox25 = new System.Windows.Forms.TextBox();
-            this.textBox26 = new System.Windows.Forms.TextBox();
-            this.pictureBox23 = new System.Windows.Forms.PictureBox();
-            this.panel17 = new System.Windows.Forms.Panel();
-            this.textBox27 = new System.Windows.Forms.TextBox();
-            this.textBox28 = new System.Windows.Forms.TextBox();
-            this.pictureBox24 = new System.Windows.Forms.PictureBox();
-            this.panel16 = new System.Windows.Forms.Panel();
-            this.textBox29 = new System.Windows.Forms.TextBox();
-            this.textBox30 = new System.Windows.Forms.TextBox();
-            this.pictureBox25 = new System.Windows.Forms.PictureBox();
-            this.panel15 = new System.Windows.Forms.Panel();
-            this.textBox31 = new System.Windows.Forms.TextBox();
-            this.textBox32 = new System.Windows.Forms.TextBox();
-            this.pictureBox26 = new System.Windows.Forms.PictureBox();
-            this.panel12 = new System.Windows.Forms.Panel();
-            this.textBox37 = new System.Windows.Forms.TextBox();
-            this.textBox38 = new System.Windows.Forms.TextBox();
-            this.pictureBox29 = new System.Windows.Forms.PictureBox();
-            this.panel11 = new System.Windows.Forms.Panel();
-            this.textBox39 = new System.Windows.Forms.TextBox();
-            this.textBox40 = new System.Windows.Forms.TextBox();
-            this.pictureBox30 = new System.Windows.Forms.PictureBox();
-            this.panel10 = new System.Windows.Forms.Panel();
-            this.textBox17 = new System.Windows.Forms.TextBox();
-            this.textBox18 = new System.Windows.Forms.TextBox();
-            this.pictureBox19 = new System.Windows.Forms.PictureBox();
-            this.panel9 = new System.Windows.Forms.Panel();
-            this.textBox19 = new System.Windows.Forms.TextBox();
-            this.textBox20 = new System.Windows.Forms.TextBox();
-            this.pictureBox20 = new System.Windows.Forms.PictureBox();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.textBox10 = new System.Windows.Forms.TextBox();
-            this.pictureBox8 = new System.Windows.Forms.PictureBox();
-            this.panel5 = new System.Windows.Forms.Panel();
-            this.textBox11 = new System.Windows.Forms.TextBox();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.pictureBox9 = new System.Windows.Forms.PictureBox();
-            this.panel4 = new System.Windows.Forms.Panel();
-            this.textBox5 = new System.Windows.Forms.TextBox();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.pictureBox6 = new System.Windows.Forms.PictureBox();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.pictureBox7 = new System.Windows.Forms.PictureBox();
-            this.panel2 = new System.Windows.Forms.Panel();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.pictureBox16 = new System.Windows.Forms.PictureBox();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.pictureBox10 = new System.Windows.Forms.PictureBox();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.textBox16 = new System.Windows.Forms.TextBox();
-            this.pictureBox18 = new System.Windows.Forms.PictureBox();
-            this.panel8 = new System.Windows.Forms.Panel();
-            this.textBox13 = new System.Windows.Forms.TextBox();
-            this.textBox14 = new System.Windows.Forms.TextBox();
-            this.pictureBox17 = new System.Windows.Forms.PictureBox();
-            this.panel13 = new System.Windows.Forms.Panel();
-            this.textBox35 = new System.Windows.Forms.TextBox();
-            this.textBox36 = new System.Windows.Forms.TextBox();
-            this.pictureBox28 = new System.Windows.Forms.PictureBox();
-            this.panel14 = new System.Windows.Forms.Panel();
-            this.textBox33 = new System.Windows.Forms.TextBox();
-            this.textBox34 = new System.Windows.Forms.TextBox();
-            this.pictureBox27 = new System.Windows.Forms.PictureBox();
-            this.tabPage2 = new System.Windows.Forms.TabPage();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
+            this.panel111 = new System.Windows.Forms.Panel();
+            this.pictureBox111 = new System.Windows.Forms.PictureBox();
+            this.textBox221 = new System.Windows.Forms.TextBox();
+            this.textBox222 = new System.Windows.Forms.TextBox();
+            this.panel110 = new System.Windows.Forms.Panel();
+            this.pictureBox110 = new System.Windows.Forms.PictureBox();
+            this.textBox219 = new System.Windows.Forms.TextBox();
+            this.textBox220 = new System.Windows.Forms.TextBox();
+            this.panel109 = new System.Windows.Forms.Panel();
+            this.pictureBox109 = new System.Windows.Forms.PictureBox();
+            this.textBox217 = new System.Windows.Forms.TextBox();
+            this.textBox218 = new System.Windows.Forms.TextBox();
+            this.panel107 = new System.Windows.Forms.Panel();
+            this.pictureBox107 = new System.Windows.Forms.PictureBox();
+            this.textBox213 = new System.Windows.Forms.TextBox();
+            this.textBox214 = new System.Windows.Forms.TextBox();
+            this.panel106 = new System.Windows.Forms.Panel();
+            this.pictureBox106 = new System.Windows.Forms.PictureBox();
+            this.textBox211 = new System.Windows.Forms.TextBox();
+            this.textBox212 = new System.Windows.Forms.TextBox();
+            this.panel105 = new System.Windows.Forms.Panel();
+            this.pictureBox105 = new System.Windows.Forms.PictureBox();
+            this.textBox209 = new System.Windows.Forms.TextBox();
+            this.textBox210 = new System.Windows.Forms.TextBox();
+            this.panel104 = new System.Windows.Forms.Panel();
+            this.pictureBox104 = new System.Windows.Forms.PictureBox();
+            this.textBox207 = new System.Windows.Forms.TextBox();
+            this.textBox208 = new System.Windows.Forms.TextBox();
+            this.panel103 = new System.Windows.Forms.Panel();
+            this.pictureBox103 = new System.Windows.Forms.PictureBox();
+            this.textBox205 = new System.Windows.Forms.TextBox();
+            this.textBox206 = new System.Windows.Forms.TextBox();
+            this.panel102 = new System.Windows.Forms.Panel();
+            this.pictureBox102 = new System.Windows.Forms.PictureBox();
+            this.textBox203 = new System.Windows.Forms.TextBox();
+            this.textBox204 = new System.Windows.Forms.TextBox();
+            this.panel101 = new System.Windows.Forms.Panel();
+            this.pictureBox101 = new System.Windows.Forms.PictureBox();
+            this.textBox201 = new System.Windows.Forms.TextBox();
+            this.textBox202 = new System.Windows.Forms.TextBox();
+            this.panel100 = new System.Windows.Forms.Panel();
+            this.pictureBox100 = new System.Windows.Forms.PictureBox();
+            this.textBox199 = new System.Windows.Forms.TextBox();
+            this.textBox200 = new System.Windows.Forms.TextBox();
+            this.panel99 = new System.Windows.Forms.Panel();
+            this.pictureBox99 = new System.Windows.Forms.PictureBox();
+            this.textBox197 = new System.Windows.Forms.TextBox();
+            this.textBox198 = new System.Windows.Forms.TextBox();
+            this.panel98 = new System.Windows.Forms.Panel();
+            this.pictureBox98 = new System.Windows.Forms.PictureBox();
+            this.textBox195 = new System.Windows.Forms.TextBox();
+            this.textBox196 = new System.Windows.Forms.TextBox();
+            this.panel97 = new System.Windows.Forms.Panel();
+            this.pictureBox97 = new System.Windows.Forms.PictureBox();
+            this.textBox193 = new System.Windows.Forms.TextBox();
+            this.textBox194 = new System.Windows.Forms.TextBox();
+            this.panel96 = new System.Windows.Forms.Panel();
+            this.pictureBox96 = new System.Windows.Forms.PictureBox();
+            this.textBox191 = new System.Windows.Forms.TextBox();
+            this.textBox192 = new System.Windows.Forms.TextBox();
+            this.panel94 = new System.Windows.Forms.Panel();
+            this.pictureBox94 = new System.Windows.Forms.PictureBox();
+            this.textBox187 = new System.Windows.Forms.TextBox();
+            this.textBox188 = new System.Windows.Forms.TextBox();
+            this.panel93 = new System.Windows.Forms.Panel();
+            this.pictureBox93 = new System.Windows.Forms.PictureBox();
+            this.textBox185 = new System.Windows.Forms.TextBox();
+            this.textBox186 = new System.Windows.Forms.TextBox();
             this.panel24 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.textBox41 = new System.Windows.Forms.TextBox();
@@ -219,7 +191,118 @@
             this.pictureBox46 = new System.Windows.Forms.PictureBox();
             this.textBox91 = new System.Windows.Forms.TextBox();
             this.textBox92 = new System.Windows.Forms.TextBox();
+            this.panel108 = new System.Windows.Forms.Panel();
+            this.pictureBox108 = new System.Windows.Forms.PictureBox();
+            this.textBox215 = new System.Windows.Forms.TextBox();
+            this.textBox216 = new System.Windows.Forms.TextBox();
+            this.tabPage2 = new System.Windows.Forms.TabPage();
+            this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
+            this.panel14 = new System.Windows.Forms.Panel();
+            this.pictureBox27 = new System.Windows.Forms.PictureBox();
+            this.textBox34 = new System.Windows.Forms.TextBox();
+            this.textBox33 = new System.Windows.Forms.TextBox();
+            this.panel13 = new System.Windows.Forms.Panel();
+            this.pictureBox28 = new System.Windows.Forms.PictureBox();
+            this.textBox36 = new System.Windows.Forms.TextBox();
+            this.textBox35 = new System.Windows.Forms.TextBox();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.pictureBox17 = new System.Windows.Forms.PictureBox();
+            this.textBox14 = new System.Windows.Forms.TextBox();
+            this.textBox13 = new System.Windows.Forms.TextBox();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.pictureBox18 = new System.Windows.Forms.PictureBox();
+            this.textBox16 = new System.Windows.Forms.TextBox();
+            this.textBox15 = new System.Windows.Forms.TextBox();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
+            this.textBox1 = new System.Windows.Forms.TextBox();
+            this.textBox3 = new System.Windows.Forms.TextBox();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.pictureBox16 = new System.Windows.Forms.PictureBox();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.pictureBox7 = new System.Windows.Forms.PictureBox();
+            this.textBox8 = new System.Windows.Forms.TextBox();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.pictureBox6 = new System.Windows.Forms.PictureBox();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.pictureBox9 = new System.Windows.Forms.PictureBox();
+            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.textBox11 = new System.Windows.Forms.TextBox();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.pictureBox8 = new System.Windows.Forms.PictureBox();
+            this.textBox10 = new System.Windows.Forms.TextBox();
+            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.pictureBox20 = new System.Windows.Forms.PictureBox();
+            this.textBox20 = new System.Windows.Forms.TextBox();
+            this.textBox19 = new System.Windows.Forms.TextBox();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.pictureBox19 = new System.Windows.Forms.PictureBox();
+            this.textBox18 = new System.Windows.Forms.TextBox();
+            this.textBox17 = new System.Windows.Forms.TextBox();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.pictureBox30 = new System.Windows.Forms.PictureBox();
+            this.textBox40 = new System.Windows.Forms.TextBox();
+            this.textBox39 = new System.Windows.Forms.TextBox();
+            this.panel12 = new System.Windows.Forms.Panel();
+            this.pictureBox29 = new System.Windows.Forms.PictureBox();
+            this.textBox38 = new System.Windows.Forms.TextBox();
+            this.textBox37 = new System.Windows.Forms.TextBox();
+            this.panel15 = new System.Windows.Forms.Panel();
+            this.pictureBox26 = new System.Windows.Forms.PictureBox();
+            this.textBox32 = new System.Windows.Forms.TextBox();
+            this.textBox31 = new System.Windows.Forms.TextBox();
+            this.panel16 = new System.Windows.Forms.Panel();
+            this.pictureBox25 = new System.Windows.Forms.PictureBox();
+            this.textBox30 = new System.Windows.Forms.TextBox();
+            this.textBox29 = new System.Windows.Forms.TextBox();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.pictureBox24 = new System.Windows.Forms.PictureBox();
+            this.textBox28 = new System.Windows.Forms.TextBox();
+            this.textBox27 = new System.Windows.Forms.TextBox();
+            this.panel18 = new System.Windows.Forms.Panel();
+            this.pictureBox23 = new System.Windows.Forms.PictureBox();
+            this.textBox26 = new System.Windows.Forms.TextBox();
+            this.textBox25 = new System.Windows.Forms.TextBox();
+            this.panel19 = new System.Windows.Forms.Panel();
+            this.pictureBox22 = new System.Windows.Forms.PictureBox();
+            this.textBox24 = new System.Windows.Forms.TextBox();
+            this.textBox23 = new System.Windows.Forms.TextBox();
+            this.panel20 = new System.Windows.Forms.Panel();
+            this.pictureBox21 = new System.Windows.Forms.PictureBox();
+            this.textBox22 = new System.Windows.Forms.TextBox();
+            this.textBox21 = new System.Windows.Forms.TextBox();
+            this.panel21 = new System.Windows.Forms.Panel();
+            this.pictureBox34 = new System.Windows.Forms.PictureBox();
+            this.textBox48 = new System.Windows.Forms.TextBox();
+            this.textBox47 = new System.Windows.Forms.TextBox();
+            this.panel22 = new System.Windows.Forms.Panel();
+            this.pictureBox33 = new System.Windows.Forms.PictureBox();
+            this.textBox46 = new System.Windows.Forms.TextBox();
+            this.textBox45 = new System.Windows.Forms.TextBox();
+            this.panel23 = new System.Windows.Forms.Panel();
+            this.pictureBox32 = new System.Windows.Forms.PictureBox();
+            this.textBox43 = new System.Windows.Forms.TextBox();
+            this.textBox44 = new System.Windows.Forms.TextBox();
+            this.tabPage3 = new System.Windows.Forms.TabPage();
             this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
+            this.panel113 = new System.Windows.Forms.Panel();
+            this.pictureBox113 = new System.Windows.Forms.PictureBox();
+            this.textBox225 = new System.Windows.Forms.TextBox();
+            this.textBox226 = new System.Windows.Forms.TextBox();
+            this.panel112 = new System.Windows.Forms.Panel();
+            this.pictureBox112 = new System.Windows.Forms.PictureBox();
+            this.textBox223 = new System.Windows.Forms.TextBox();
+            this.textBox224 = new System.Windows.Forms.TextBox();
+            this.panel95 = new System.Windows.Forms.Panel();
+            this.pictureBox95 = new System.Windows.Forms.PictureBox();
+            this.textBox189 = new System.Windows.Forms.TextBox();
+            this.textBox190 = new System.Windows.Forms.TextBox();
             this.panel47 = new System.Windows.Forms.Panel();
             this.pictureBox47 = new System.Windows.Forms.PictureBox();
             this.textBox93 = new System.Windows.Forms.TextBox();
@@ -312,200 +395,101 @@
             this.pictureBox69 = new System.Windows.Forms.PictureBox();
             this.textBox137 = new System.Windows.Forms.TextBox();
             this.textBox138 = new System.Windows.Forms.TextBox();
-            this.panel93 = new System.Windows.Forms.Panel();
-            this.pictureBox93 = new System.Windows.Forms.PictureBox();
-            this.textBox185 = new System.Windows.Forms.TextBox();
-            this.textBox186 = new System.Windows.Forms.TextBox();
-            this.panel94 = new System.Windows.Forms.Panel();
-            this.pictureBox94 = new System.Windows.Forms.PictureBox();
-            this.textBox187 = new System.Windows.Forms.TextBox();
-            this.textBox188 = new System.Windows.Forms.TextBox();
-            this.panel96 = new System.Windows.Forms.Panel();
-            this.pictureBox96 = new System.Windows.Forms.PictureBox();
-            this.textBox191 = new System.Windows.Forms.TextBox();
-            this.textBox192 = new System.Windows.Forms.TextBox();
-            this.panel97 = new System.Windows.Forms.Panel();
-            this.pictureBox97 = new System.Windows.Forms.PictureBox();
-            this.textBox193 = new System.Windows.Forms.TextBox();
-            this.textBox194 = new System.Windows.Forms.TextBox();
-            this.panel98 = new System.Windows.Forms.Panel();
-            this.pictureBox98 = new System.Windows.Forms.PictureBox();
-            this.textBox195 = new System.Windows.Forms.TextBox();
-            this.textBox196 = new System.Windows.Forms.TextBox();
-            this.panel99 = new System.Windows.Forms.Panel();
-            this.pictureBox99 = new System.Windows.Forms.PictureBox();
-            this.textBox197 = new System.Windows.Forms.TextBox();
-            this.textBox198 = new System.Windows.Forms.TextBox();
-            this.panel100 = new System.Windows.Forms.Panel();
-            this.pictureBox100 = new System.Windows.Forms.PictureBox();
-            this.textBox199 = new System.Windows.Forms.TextBox();
-            this.textBox200 = new System.Windows.Forms.TextBox();
-            this.panel101 = new System.Windows.Forms.Panel();
-            this.pictureBox101 = new System.Windows.Forms.PictureBox();
-            this.textBox201 = new System.Windows.Forms.TextBox();
-            this.textBox202 = new System.Windows.Forms.TextBox();
-            this.panel102 = new System.Windows.Forms.Panel();
-            this.pictureBox102 = new System.Windows.Forms.PictureBox();
-            this.textBox203 = new System.Windows.Forms.TextBox();
-            this.textBox204 = new System.Windows.Forms.TextBox();
-            this.panel103 = new System.Windows.Forms.Panel();
-            this.pictureBox103 = new System.Windows.Forms.PictureBox();
-            this.textBox205 = new System.Windows.Forms.TextBox();
-            this.textBox206 = new System.Windows.Forms.TextBox();
-            this.panel104 = new System.Windows.Forms.Panel();
-            this.pictureBox104 = new System.Windows.Forms.PictureBox();
-            this.textBox207 = new System.Windows.Forms.TextBox();
-            this.textBox208 = new System.Windows.Forms.TextBox();
-            this.panel105 = new System.Windows.Forms.Panel();
-            this.pictureBox105 = new System.Windows.Forms.PictureBox();
-            this.textBox209 = new System.Windows.Forms.TextBox();
-            this.textBox210 = new System.Windows.Forms.TextBox();
-            this.panel106 = new System.Windows.Forms.Panel();
-            this.pictureBox106 = new System.Windows.Forms.PictureBox();
-            this.textBox211 = new System.Windows.Forms.TextBox();
-            this.textBox212 = new System.Windows.Forms.TextBox();
-            this.panel107 = new System.Windows.Forms.Panel();
-            this.pictureBox107 = new System.Windows.Forms.PictureBox();
-            this.textBox213 = new System.Windows.Forms.TextBox();
-            this.textBox214 = new System.Windows.Forms.TextBox();
-            this.panel108 = new System.Windows.Forms.Panel();
-            this.pictureBox108 = new System.Windows.Forms.PictureBox();
-            this.textBox215 = new System.Windows.Forms.TextBox();
-            this.textBox216 = new System.Windows.Forms.TextBox();
-            this.panel109 = new System.Windows.Forms.Panel();
-            this.pictureBox109 = new System.Windows.Forms.PictureBox();
-            this.textBox217 = new System.Windows.Forms.TextBox();
-            this.textBox218 = new System.Windows.Forms.TextBox();
-            this.panel110 = new System.Windows.Forms.Panel();
-            this.pictureBox110 = new System.Windows.Forms.PictureBox();
-            this.textBox219 = new System.Windows.Forms.TextBox();
-            this.textBox220 = new System.Windows.Forms.TextBox();
-            this.panel111 = new System.Windows.Forms.Panel();
-            this.pictureBox111 = new System.Windows.Forms.PictureBox();
-            this.textBox221 = new System.Windows.Forms.TextBox();
-            this.textBox222 = new System.Windows.Forms.TextBox();
-            this.panel95 = new System.Windows.Forms.Panel();
-            this.pictureBox95 = new System.Windows.Forms.PictureBox();
-            this.textBox189 = new System.Windows.Forms.TextBox();
-            this.textBox190 = new System.Windows.Forms.TextBox();
-            this.panel112 = new System.Windows.Forms.Panel();
-            this.pictureBox112 = new System.Windows.Forms.PictureBox();
-            this.textBox223 = new System.Windows.Forms.TextBox();
-            this.textBox224 = new System.Windows.Forms.TextBox();
-            this.panel113 = new System.Windows.Forms.Panel();
-            this.pictureBox113 = new System.Windows.Forms.PictureBox();
-            this.textBox225 = new System.Windows.Forms.TextBox();
-            this.textBox226 = new System.Windows.Forms.TextBox();
-            this.panel83 = new System.Windows.Forms.Panel();
-            this.textBox166 = new System.Windows.Forms.TextBox();
-            this.textBox165 = new System.Windows.Forms.TextBox();
-            this.pictureBox83 = new System.Windows.Forms.PictureBox();
-            this.panel82 = new System.Windows.Forms.Panel();
-            this.textBox164 = new System.Windows.Forms.TextBox();
-            this.textBox163 = new System.Windows.Forms.TextBox();
-            this.pictureBox82 = new System.Windows.Forms.PictureBox();
-            this.panel81 = new System.Windows.Forms.Panel();
-            this.textBox162 = new System.Windows.Forms.TextBox();
-            this.textBox161 = new System.Windows.Forms.TextBox();
-            this.pictureBox81 = new System.Windows.Forms.PictureBox();
-            this.panel80 = new System.Windows.Forms.Panel();
-            this.textBox160 = new System.Windows.Forms.TextBox();
-            this.textBox159 = new System.Windows.Forms.TextBox();
-            this.pictureBox80 = new System.Windows.Forms.PictureBox();
-            this.panel79 = new System.Windows.Forms.Panel();
-            this.textBox158 = new System.Windows.Forms.TextBox();
-            this.textBox157 = new System.Windows.Forms.TextBox();
-            this.pictureBox79 = new System.Windows.Forms.PictureBox();
-            this.panel78 = new System.Windows.Forms.Panel();
-            this.textBox156 = new System.Windows.Forms.TextBox();
-            this.textBox155 = new System.Windows.Forms.TextBox();
-            this.pictureBox78 = new System.Windows.Forms.PictureBox();
-            this.panel77 = new System.Windows.Forms.Panel();
-            this.textBox154 = new System.Windows.Forms.TextBox();
-            this.textBox153 = new System.Windows.Forms.TextBox();
-            this.pictureBox77 = new System.Windows.Forms.PictureBox();
-            this.panel76 = new System.Windows.Forms.Panel();
-            this.textBox152 = new System.Windows.Forms.TextBox();
-            this.textBox151 = new System.Windows.Forms.TextBox();
-            this.pictureBox76 = new System.Windows.Forms.PictureBox();
-            this.panel75 = new System.Windows.Forms.Panel();
-            this.textBox150 = new System.Windows.Forms.TextBox();
-            this.textBox149 = new System.Windows.Forms.TextBox();
-            this.pictureBox75 = new System.Windows.Forms.PictureBox();
-            this.panel74 = new System.Windows.Forms.Panel();
-            this.textBox148 = new System.Windows.Forms.TextBox();
-            this.textBox147 = new System.Windows.Forms.TextBox();
-            this.pictureBox74 = new System.Windows.Forms.PictureBox();
-            this.panel73 = new System.Windows.Forms.Panel();
-            this.textBox146 = new System.Windows.Forms.TextBox();
-            this.textBox145 = new System.Windows.Forms.TextBox();
-            this.pictureBox73 = new System.Windows.Forms.PictureBox();
-            this.panel72 = new System.Windows.Forms.Panel();
-            this.textBox144 = new System.Windows.Forms.TextBox();
-            this.textBox143 = new System.Windows.Forms.TextBox();
-            this.pictureBox72 = new System.Windows.Forms.PictureBox();
-            this.panel71 = new System.Windows.Forms.Panel();
-            this.textBox142 = new System.Windows.Forms.TextBox();
-            this.textBox141 = new System.Windows.Forms.TextBox();
-            this.pictureBox71 = new System.Windows.Forms.PictureBox();
-            this.panel70 = new System.Windows.Forms.Panel();
-            this.textBox140 = new System.Windows.Forms.TextBox();
-            this.textBox139 = new System.Windows.Forms.TextBox();
-            this.pictureBox70 = new System.Windows.Forms.PictureBox();
+            this.tabPage4 = new System.Windows.Forms.TabPage();
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
+            this.panel70 = new System.Windows.Forms.Panel();
+            this.pictureBox70 = new System.Windows.Forms.PictureBox();
+            this.textBox139 = new System.Windows.Forms.TextBox();
+            this.textBox140 = new System.Windows.Forms.TextBox();
+            this.panel71 = new System.Windows.Forms.Panel();
+            this.pictureBox71 = new System.Windows.Forms.PictureBox();
+            this.textBox141 = new System.Windows.Forms.TextBox();
+            this.textBox142 = new System.Windows.Forms.TextBox();
+            this.panel72 = new System.Windows.Forms.Panel();
+            this.pictureBox72 = new System.Windows.Forms.PictureBox();
+            this.textBox143 = new System.Windows.Forms.TextBox();
+            this.textBox144 = new System.Windows.Forms.TextBox();
+            this.panel73 = new System.Windows.Forms.Panel();
+            this.pictureBox73 = new System.Windows.Forms.PictureBox();
+            this.textBox145 = new System.Windows.Forms.TextBox();
+            this.textBox146 = new System.Windows.Forms.TextBox();
+            this.panel74 = new System.Windows.Forms.Panel();
+            this.pictureBox74 = new System.Windows.Forms.PictureBox();
+            this.textBox147 = new System.Windows.Forms.TextBox();
+            this.textBox148 = new System.Windows.Forms.TextBox();
+            this.panel75 = new System.Windows.Forms.Panel();
+            this.pictureBox75 = new System.Windows.Forms.PictureBox();
+            this.textBox149 = new System.Windows.Forms.TextBox();
+            this.textBox150 = new System.Windows.Forms.TextBox();
+            this.panel76 = new System.Windows.Forms.Panel();
+            this.pictureBox76 = new System.Windows.Forms.PictureBox();
+            this.textBox151 = new System.Windows.Forms.TextBox();
+            this.textBox152 = new System.Windows.Forms.TextBox();
+            this.panel77 = new System.Windows.Forms.Panel();
+            this.pictureBox77 = new System.Windows.Forms.PictureBox();
+            this.textBox153 = new System.Windows.Forms.TextBox();
+            this.textBox154 = new System.Windows.Forms.TextBox();
+            this.panel78 = new System.Windows.Forms.Panel();
+            this.pictureBox78 = new System.Windows.Forms.PictureBox();
+            this.textBox155 = new System.Windows.Forms.TextBox();
+            this.textBox156 = new System.Windows.Forms.TextBox();
+            this.panel79 = new System.Windows.Forms.Panel();
+            this.pictureBox79 = new System.Windows.Forms.PictureBox();
+            this.textBox157 = new System.Windows.Forms.TextBox();
+            this.textBox158 = new System.Windows.Forms.TextBox();
+            this.panel80 = new System.Windows.Forms.Panel();
+            this.pictureBox80 = new System.Windows.Forms.PictureBox();
+            this.textBox159 = new System.Windows.Forms.TextBox();
+            this.textBox160 = new System.Windows.Forms.TextBox();
+            this.panel81 = new System.Windows.Forms.Panel();
+            this.pictureBox81 = new System.Windows.Forms.PictureBox();
+            this.textBox161 = new System.Windows.Forms.TextBox();
+            this.textBox162 = new System.Windows.Forms.TextBox();
+            this.panel82 = new System.Windows.Forms.Panel();
+            this.pictureBox82 = new System.Windows.Forms.PictureBox();
+            this.textBox163 = new System.Windows.Forms.TextBox();
+            this.textBox164 = new System.Windows.Forms.TextBox();
+            this.panel83 = new System.Windows.Forms.Panel();
+            this.pictureBox83 = new System.Windows.Forms.PictureBox();
+            this.textBox165 = new System.Windows.Forms.TextBox();
+            this.textBox166 = new System.Windows.Forms.TextBox();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
-            this.tabPage3.SuspendLayout();
-            this.tabPage4.SuspendLayout();
-            this.tableLayoutPanel1.SuspendLayout();
-            this.panel23.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox32)).BeginInit();
-            this.panel22.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox33)).BeginInit();
-            this.panel21.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox34)).BeginInit();
-            this.panel20.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).BeginInit();
-            this.panel19.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).BeginInit();
-            this.panel18.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).BeginInit();
-            this.panel17.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
-            this.panel16.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
-            this.panel15.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
-            this.panel12.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).BeginInit();
-            this.panel11.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).BeginInit();
-            this.panel10.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
-            this.panel9.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
-            this.panel6.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
-            this.panel5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
-            this.panel4.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
-            this.panel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
-            this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
-            this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
-            this.panel7.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
-            this.panel8.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
-            this.panel13.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).BeginInit();
-            this.panel14.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
-            this.tabPage2.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
+            this.panel111.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).BeginInit();
+            this.panel110.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox110)).BeginInit();
+            this.panel109.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox109)).BeginInit();
+            this.panel107.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox107)).BeginInit();
+            this.panel106.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox106)).BeginInit();
+            this.panel105.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox105)).BeginInit();
+            this.panel104.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox104)).BeginInit();
+            this.panel103.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).BeginInit();
+            this.panel102.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).BeginInit();
+            this.panel101.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox101)).BeginInit();
+            this.panel100.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).BeginInit();
+            this.panel99.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).BeginInit();
+            this.panel98.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox98)).BeginInit();
+            this.panel97.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox97)).BeginInit();
+            this.panel96.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).BeginInit();
+            this.panel94.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).BeginInit();
+            this.panel93.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox93)).BeginInit();
             this.panel24.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel25.SuspendLayout();
@@ -552,7 +536,64 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox45)).BeginInit();
             this.panel46.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox46)).BeginInit();
+            this.panel108.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox108)).BeginInit();
+            this.tabPage2.SuspendLayout();
+            this.tableLayoutPanel1.SuspendLayout();
+            this.panel14.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).BeginInit();
+            this.panel13.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).BeginInit();
+            this.panel8.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).BeginInit();
+            this.panel7.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).BeginInit();
+            this.panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
+            this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).BeginInit();
+            this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).BeginInit();
+            this.panel4.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).BeginInit();
+            this.panel5.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).BeginInit();
+            this.panel6.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).BeginInit();
+            this.panel9.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).BeginInit();
+            this.panel10.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).BeginInit();
+            this.panel11.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).BeginInit();
+            this.panel12.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).BeginInit();
+            this.panel15.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).BeginInit();
+            this.panel16.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).BeginInit();
+            this.panel17.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).BeginInit();
+            this.panel18.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).BeginInit();
+            this.panel19.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).BeginInit();
+            this.panel20.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).BeginInit();
+            this.panel21.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox34)).BeginInit();
+            this.panel22.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox33)).BeginInit();
+            this.panel23.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox32)).BeginInit();
+            this.tabPage3.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
+            this.panel113.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox113)).BeginInit();
+            this.panel112.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).BeginInit();
+            this.panel95.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).BeginInit();
             this.panel47.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox47)).BeginInit();
             this.panel48.SuspendLayout();
@@ -599,77 +640,36 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox68)).BeginInit();
             this.panel69.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox69)).BeginInit();
-            this.panel93.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox93)).BeginInit();
-            this.panel94.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).BeginInit();
-            this.panel96.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).BeginInit();
-            this.panel97.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox97)).BeginInit();
-            this.panel98.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox98)).BeginInit();
-            this.panel99.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).BeginInit();
-            this.panel100.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).BeginInit();
-            this.panel101.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox101)).BeginInit();
-            this.panel102.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).BeginInit();
-            this.panel103.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).BeginInit();
-            this.panel104.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox104)).BeginInit();
-            this.panel105.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox105)).BeginInit();
-            this.panel106.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox106)).BeginInit();
-            this.panel107.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox107)).BeginInit();
-            this.panel108.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox108)).BeginInit();
-            this.panel109.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox109)).BeginInit();
-            this.panel110.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox110)).BeginInit();
-            this.panel111.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).BeginInit();
-            this.panel95.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).BeginInit();
-            this.panel112.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).BeginInit();
-            this.panel113.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox113)).BeginInit();
-            this.panel83.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox83)).BeginInit();
-            this.panel82.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).BeginInit();
-            this.panel81.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).BeginInit();
-            this.panel80.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).BeginInit();
-            this.panel79.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).BeginInit();
-            this.panel78.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox78)).BeginInit();
-            this.panel77.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).BeginInit();
-            this.panel76.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox76)).BeginInit();
-            this.panel75.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).BeginInit();
-            this.panel74.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox74)).BeginInit();
-            this.panel73.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).BeginInit();
-            this.panel72.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox72)).BeginInit();
-            this.panel71.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).BeginInit();
+            this.tabPage4.SuspendLayout();
+            this.tableLayoutPanel4.SuspendLayout();
             this.panel70.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox70)).BeginInit();
-            this.tableLayoutPanel4.SuspendLayout();
+            this.panel71.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).BeginInit();
+            this.panel72.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox72)).BeginInit();
+            this.panel73.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).BeginInit();
+            this.panel74.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox74)).BeginInit();
+            this.panel75.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).BeginInit();
+            this.panel76.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox76)).BeginInit();
+            this.panel77.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).BeginInit();
+            this.panel78.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox78)).BeginInit();
+            this.panel79.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).BeginInit();
+            this.panel80.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).BeginInit();
+            this.panel81.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).BeginInit();
+            this.panel82.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).BeginInit();
+            this.panel83.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox83)).BeginInit();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -682,7 +682,7 @@
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(1057, 499);
+            this.tabControl1.Size = new System.Drawing.Size(1057, 635);
             this.tabControl1.TabIndex = 2;
             // 
             // tabPage1
@@ -691,1116 +691,10 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(1049, 591);
+            this.tabPage1.Size = new System.Drawing.Size(1049, 609);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Автохимия";
             this.tabPage1.UseVisualStyleBackColor = true;
-            // 
-            // tabPage3
-            // 
-            this.tabPage3.Controls.Add(this.tableLayoutPanel3);
-            this.tabPage3.Location = new System.Drawing.Point(4, 22);
-            this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(1049, 473);
-            this.tabPage3.TabIndex = 2;
-            this.tabPage3.Text = "Клининг";
-            this.tabPage3.UseVisualStyleBackColor = true;
-            // 
-            // tabPage4
-            // 
-            this.tabPage4.Controls.Add(this.tableLayoutPanel4);
-            this.tabPage4.Location = new System.Drawing.Point(4, 22);
-            this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(1049, 473);
-            this.tabPage4.TabIndex = 3;
-            this.tabPage4.Text = "Пищепром";
-            this.tabPage4.UseVisualStyleBackColor = true;
-            // 
-            // tableLayoutPanel1
-            // 
-            this.tableLayoutPanel1.AutoScroll = true;
-            this.tableLayoutPanel1.ColumnCount = 3;
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 338F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 338F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 338F));
-            this.tableLayoutPanel1.Controls.Add(this.panel14, 1, 4);
-            this.tableLayoutPanel1.Controls.Add(this.panel13, 0, 4);
-            this.tableLayoutPanel1.Controls.Add(this.panel8, 1, 2);
-            this.tableLayoutPanel1.Controls.Add(this.panel7, 0, 2);
-            this.tableLayoutPanel1.Controls.Add(this.panel1, 0, 0);
-            this.tableLayoutPanel1.Controls.Add(this.panel2, 1, 0);
-            this.tableLayoutPanel1.Controls.Add(this.panel3, 2, 0);
-            this.tableLayoutPanel1.Controls.Add(this.panel4, 0, 1);
-            this.tableLayoutPanel1.Controls.Add(this.panel5, 1, 1);
-            this.tableLayoutPanel1.Controls.Add(this.panel6, 2, 1);
-            this.tableLayoutPanel1.Controls.Add(this.panel9, 2, 2);
-            this.tableLayoutPanel1.Controls.Add(this.panel10, 0, 3);
-            this.tableLayoutPanel1.Controls.Add(this.panel11, 1, 3);
-            this.tableLayoutPanel1.Controls.Add(this.panel12, 2, 3);
-            this.tableLayoutPanel1.Controls.Add(this.panel15, 2, 4);
-            this.tableLayoutPanel1.Controls.Add(this.panel16, 0, 5);
-            this.tableLayoutPanel1.Controls.Add(this.panel17, 1, 5);
-            this.tableLayoutPanel1.Controls.Add(this.panel18, 2, 5);
-            this.tableLayoutPanel1.Controls.Add(this.panel19, 0, 6);
-            this.tableLayoutPanel1.Controls.Add(this.panel20, 1, 6);
-            this.tableLayoutPanel1.Controls.Add(this.panel21, 2, 6);
-            this.tableLayoutPanel1.Controls.Add(this.panel22, 0, 7);
-            this.tableLayoutPanel1.Controls.Add(this.panel23, 1, 7);
-            this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.tableLayoutPanel1.Location = new System.Drawing.Point(3, 3);
-            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
-            this.tableLayoutPanel1.RowCount = 8;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(1043, 585);
-            this.tableLayoutPanel1.TabIndex = 87;
-            this.tableLayoutPanel1.Paint += new System.Windows.Forms.PaintEventHandler(this.tableLayoutPanel1_Paint);
-            // 
-            // panel23
-            // 
-            this.panel23.Controls.Add(this.pictureBox32);
-            this.panel23.Controls.Add(this.textBox43);
-            this.panel23.Controls.Add(this.textBox44);
-            this.panel23.Location = new System.Drawing.Point(341, 815);
-            this.panel23.Name = "panel23";
-            this.panel23.Size = new System.Drawing.Size(332, 114);
-            this.panel23.TabIndex = 22;
-            // 
-            // textBox44
-            // 
-            this.textBox44.BackColor = System.Drawing.Color.White;
-            this.textBox44.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox44.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox44.Location = new System.Drawing.Point(115, 5);
-            this.textBox44.Name = "textBox44";
-            this.textBox44.ReadOnly = true;
-            this.textBox44.Size = new System.Drawing.Size(100, 13);
-            this.textBox44.TabIndex = 85;
-            this.textBox44.Text = "VIOLIT";
-            // 
-            // textBox43
-            // 
-            this.textBox43.BackColor = System.Drawing.Color.White;
-            this.textBox43.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox43.Location = new System.Drawing.Point(115, 24);
-            this.textBox43.Multiline = true;
-            this.textBox43.Name = "textBox43";
-            this.textBox43.ReadOnly = true;
-            this.textBox43.Size = new System.Drawing.Size(159, 81);
-            this.textBox43.TabIndex = 86;
-            this.textBox43.Text = "Средство для обработки вымени до доения на основе молочной кислоты";
-            // 
-            // pictureBox32
-            // 
-            this.pictureBox32.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox32.Name = "pictureBox32";
-            this.pictureBox32.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox32.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox32.TabIndex = 84;
-            this.pictureBox32.TabStop = false;
-            this.pictureBox32.Click += new System.EventHandler(this.pictureBox32_Click);
-            // 
-            // panel22
-            // 
-            this.panel22.Controls.Add(this.pictureBox33);
-            this.panel22.Controls.Add(this.textBox46);
-            this.panel22.Controls.Add(this.textBox45);
-            this.panel22.Location = new System.Drawing.Point(3, 815);
-            this.panel22.Name = "panel22";
-            this.panel22.Size = new System.Drawing.Size(332, 114);
-            this.panel22.TabIndex = 21;
-            // 
-            // textBox45
-            // 
-            this.textBox45.BackColor = System.Drawing.Color.White;
-            this.textBox45.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox45.Location = new System.Drawing.Point(112, 22);
-            this.textBox45.Multiline = true;
-            this.textBox45.Name = "textBox45";
-            this.textBox45.ReadOnly = true;
-            this.textBox45.Size = new System.Drawing.Size(159, 81);
-            this.textBox45.TabIndex = 83;
-            this.textBox45.Text = "Экспресс-тест для определения содержания соматических клеток в сыром молоке";
-            // 
-            // textBox46
-            // 
-            this.textBox46.BackColor = System.Drawing.Color.White;
-            this.textBox46.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox46.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox46.Location = new System.Drawing.Point(112, 3);
-            this.textBox46.Name = "textBox46";
-            this.textBox46.ReadOnly = true;
-            this.textBox46.Size = new System.Drawing.Size(100, 13);
-            this.textBox46.TabIndex = 82;
-            this.textBox46.Text = "SOMATEST";
-            // 
-            // pictureBox33
-            // 
-            this.pictureBox33.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox33.Name = "pictureBox33";
-            this.pictureBox33.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox33.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox33.TabIndex = 81;
-            this.pictureBox33.TabStop = false;
-            this.pictureBox33.Click += new System.EventHandler(this.pictureBox33_Click);
-            // 
-            // panel21
-            // 
-            this.panel21.Controls.Add(this.pictureBox34);
-            this.panel21.Controls.Add(this.textBox48);
-            this.panel21.Controls.Add(this.textBox47);
-            this.panel21.Location = new System.Drawing.Point(679, 699);
-            this.panel21.Name = "panel21";
-            this.panel21.Size = new System.Drawing.Size(344, 110);
-            this.panel21.TabIndex = 20;
-            // 
-            // textBox47
-            // 
-            this.textBox47.BackColor = System.Drawing.Color.White;
-            this.textBox47.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox47.Location = new System.Drawing.Point(112, 22);
-            this.textBox47.Multiline = true;
-            this.textBox47.Name = "textBox47";
-            this.textBox47.ReadOnly = true;
-            this.textBox47.Size = new System.Drawing.Size(159, 81);
-            this.textBox47.TabIndex = 80;
-            this.textBox47.Text = "Средство для обработки вымени до доения на основе хлоргексидина";
-            // 
-            // textBox48
-            // 
-            this.textBox48.BackColor = System.Drawing.Color.White;
-            this.textBox48.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox48.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox48.Location = new System.Drawing.Point(112, 3);
-            this.textBox48.Name = "textBox48";
-            this.textBox48.ReadOnly = true;
-            this.textBox48.Size = new System.Drawing.Size(100, 13);
-            this.textBox48.TabIndex = 79;
-            this.textBox48.Text = "PRIOLIT";
-            // 
-            // pictureBox34
-            // 
-            this.pictureBox34.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox34.Name = "pictureBox34";
-            this.pictureBox34.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox34.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox34.TabIndex = 78;
-            this.pictureBox34.TabStop = false;
-            this.pictureBox34.Click += new System.EventHandler(this.pictureBox34_Click);
-            // 
-            // panel20
-            // 
-            this.panel20.Controls.Add(this.pictureBox21);
-            this.panel20.Controls.Add(this.textBox22);
-            this.panel20.Controls.Add(this.textBox21);
-            this.panel20.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel20.Location = new System.Drawing.Point(341, 699);
-            this.panel20.Name = "panel20";
-            this.panel20.Size = new System.Drawing.Size(332, 110);
-            this.panel20.TabIndex = 19;
-            // 
-            // textBox21
-            // 
-            this.textBox21.BackColor = System.Drawing.Color.White;
-            this.textBox21.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox21.Location = new System.Drawing.Point(112, 23);
-            this.textBox21.Multiline = true;
-            this.textBox21.Name = "textBox21";
-            this.textBox21.ReadOnly = true;
-            this.textBox21.Size = new System.Drawing.Size(159, 81);
-            this.textBox21.TabIndex = 77;
-            this.textBox21.Text = "Средство для обработки вымени после доения на основе молочной кислоты";
-            // 
-            // textBox22
-            // 
-            this.textBox22.BackColor = System.Drawing.Color.White;
-            this.textBox22.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox22.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox22.Location = new System.Drawing.Point(112, 4);
-            this.textBox22.Name = "textBox22";
-            this.textBox22.ReadOnly = true;
-            this.textBox22.Size = new System.Drawing.Size(100, 13);
-            this.textBox22.TabIndex = 76;
-            this.textBox22.Text = "LACTOVIT";
-            // 
-            // pictureBox21
-            // 
-            this.pictureBox21.Location = new System.Drawing.Point(3, 4);
-            this.pictureBox21.Name = "pictureBox21";
-            this.pictureBox21.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox21.TabIndex = 75;
-            this.pictureBox21.TabStop = false;
-            this.pictureBox21.Click += new System.EventHandler(this.pictureBox21_Click);
-            // 
-            // panel19
-            // 
-            this.panel19.Controls.Add(this.pictureBox22);
-            this.panel19.Controls.Add(this.textBox24);
-            this.panel19.Controls.Add(this.textBox23);
-            this.panel19.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel19.Location = new System.Drawing.Point(3, 699);
-            this.panel19.Name = "panel19";
-            this.panel19.Size = new System.Drawing.Size(332, 110);
-            this.panel19.TabIndex = 18;
-            // 
-            // textBox23
-            // 
-            this.textBox23.BackColor = System.Drawing.Color.White;
-            this.textBox23.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox23.Location = new System.Drawing.Point(112, 23);
-            this.textBox23.Multiline = true;
-            this.textBox23.Name = "textBox23";
-            this.textBox23.ReadOnly = true;
-            this.textBox23.Size = new System.Drawing.Size(159, 81);
-            this.textBox23.TabIndex = 74;
-            this.textBox23.Text = "Кислотное моющее средство для воды любой жесткости";
-            // 
-            // textBox24
-            // 
-            this.textBox24.BackColor = System.Drawing.Color.White;
-            this.textBox24.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox24.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox24.Location = new System.Drawing.Point(112, 4);
-            this.textBox24.Name = "textBox24";
-            this.textBox24.ReadOnly = true;
-            this.textBox24.Size = new System.Drawing.Size(100, 13);
-            this.textBox24.TabIndex = 73;
-            this.textBox24.Text = "KSILAN SUPER";
-            // 
-            // pictureBox22
-            // 
-            this.pictureBox22.Location = new System.Drawing.Point(3, 4);
-            this.pictureBox22.Name = "pictureBox22";
-            this.pictureBox22.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox22.TabIndex = 72;
-            this.pictureBox22.TabStop = false;
-            this.pictureBox22.Click += new System.EventHandler(this.pictureBox22_Click);
-            // 
-            // panel18
-            // 
-            this.panel18.Controls.Add(this.pictureBox23);
-            this.panel18.Controls.Add(this.textBox26);
-            this.panel18.Controls.Add(this.textBox25);
-            this.panel18.Location = new System.Drawing.Point(679, 583);
-            this.panel18.Name = "panel18";
-            this.panel18.Size = new System.Drawing.Size(344, 110);
-            this.panel18.TabIndex = 17;
-            // 
-            // textBox25
-            // 
-            this.textBox25.BackColor = System.Drawing.Color.White;
-            this.textBox25.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox25.Location = new System.Drawing.Point(112, 23);
-            this.textBox25.Multiline = true;
-            this.textBox25.Name = "textBox25";
-            this.textBox25.ReadOnly = true;
-            this.textBox25.Size = new System.Drawing.Size(159, 81);
-            this.textBox25.TabIndex = 71;
-            this.textBox25.Text = "Кислотное моющее средство для воды мягкой и средней жесткости";
-            // 
-            // textBox26
-            // 
-            this.textBox26.BackColor = System.Drawing.Color.White;
-            this.textBox26.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox26.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox26.Location = new System.Drawing.Point(112, 4);
-            this.textBox26.Name = "textBox26";
-            this.textBox26.ReadOnly = true;
-            this.textBox26.Size = new System.Drawing.Size(100, 13);
-            this.textBox26.TabIndex = 70;
-            this.textBox26.Text = "KSILAN M";
-            // 
-            // pictureBox23
-            // 
-            this.pictureBox23.Location = new System.Drawing.Point(3, 4);
-            this.pictureBox23.Name = "pictureBox23";
-            this.pictureBox23.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox23.TabIndex = 69;
-            this.pictureBox23.TabStop = false;
-            this.pictureBox23.Click += new System.EventHandler(this.pictureBox23_Click);
-            // 
-            // panel17
-            // 
-            this.panel17.Controls.Add(this.pictureBox24);
-            this.panel17.Controls.Add(this.textBox28);
-            this.panel17.Controls.Add(this.textBox27);
-            this.panel17.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel17.Location = new System.Drawing.Point(341, 583);
-            this.panel17.Name = "panel17";
-            this.panel17.Size = new System.Drawing.Size(332, 110);
-            this.panel17.TabIndex = 16;
-            // 
-            // textBox27
-            // 
-            this.textBox27.BackColor = System.Drawing.Color.White;
-            this.textBox27.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox27.Location = new System.Drawing.Point(112, 23);
-            this.textBox27.Multiline = true;
-            this.textBox27.Name = "textBox27";
-            this.textBox27.ReadOnly = true;
-            this.textBox27.Size = new System.Drawing.Size(159, 81);
-            this.textBox27.TabIndex = 68;
-            this.textBox27.Text = "Кислотное моющее средство для воды средней жесткости";
-            // 
-            // textBox28
-            // 
-            this.textBox28.BackColor = System.Drawing.Color.White;
-            this.textBox28.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox28.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox28.Location = new System.Drawing.Point(112, 4);
-            this.textBox28.Name = "textBox28";
-            this.textBox28.ReadOnly = true;
-            this.textBox28.Size = new System.Drawing.Size(100, 13);
-            this.textBox28.TabIndex = 67;
-            this.textBox28.Text = "KSILAN K";
-            // 
-            // pictureBox24
-            // 
-            this.pictureBox24.Location = new System.Drawing.Point(3, 4);
-            this.pictureBox24.Name = "pictureBox24";
-            this.pictureBox24.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox24.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox24.TabIndex = 66;
-            this.pictureBox24.TabStop = false;
-            this.pictureBox24.Click += new System.EventHandler(this.pictureBox24_Click);
-            // 
-            // panel16
-            // 
-            this.panel16.Controls.Add(this.pictureBox25);
-            this.panel16.Controls.Add(this.textBox30);
-            this.panel16.Controls.Add(this.textBox29);
-            this.panel16.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel16.Location = new System.Drawing.Point(3, 583);
-            this.panel16.Name = "panel16";
-            this.panel16.Size = new System.Drawing.Size(332, 110);
-            this.panel16.TabIndex = 15;
-            // 
-            // textBox29
-            // 
-            this.textBox29.BackColor = System.Drawing.Color.White;
-            this.textBox29.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox29.Location = new System.Drawing.Point(112, 22);
-            this.textBox29.Multiline = true;
-            this.textBox29.Name = "textBox29";
-            this.textBox29.ReadOnly = true;
-            this.textBox29.Size = new System.Drawing.Size(159, 81);
-            this.textBox29.TabIndex = 65;
-            this.textBox29.Text = "Кислотное моющее средство для воды повышенной жесткости";
-            // 
-            // textBox30
-            // 
-            this.textBox30.BackColor = System.Drawing.Color.White;
-            this.textBox30.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox30.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox30.Location = new System.Drawing.Point(112, 3);
-            this.textBox30.Name = "textBox30";
-            this.textBox30.ReadOnly = true;
-            this.textBox30.Size = new System.Drawing.Size(100, 13);
-            this.textBox30.TabIndex = 64;
-            this.textBox30.Text = "KSILAN";
-            // 
-            // pictureBox25
-            // 
-            this.pictureBox25.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox25.Name = "pictureBox25";
-            this.pictureBox25.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox25.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox25.TabIndex = 63;
-            this.pictureBox25.TabStop = false;
-            this.pictureBox25.Click += new System.EventHandler(this.pictureBox25_Click);
-            // 
-            // panel15
-            // 
-            this.panel15.Controls.Add(this.pictureBox26);
-            this.panel15.Controls.Add(this.textBox32);
-            this.panel15.Controls.Add(this.textBox31);
-            this.panel15.Location = new System.Drawing.Point(679, 467);
-            this.panel15.Name = "panel15";
-            this.panel15.Size = new System.Drawing.Size(344, 110);
-            this.panel15.TabIndex = 14;
-            // 
-            // textBox31
-            // 
-            this.textBox31.BackColor = System.Drawing.Color.White;
-            this.textBox31.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox31.Location = new System.Drawing.Point(112, 22);
-            this.textBox31.Multiline = true;
-            this.textBox31.Name = "textBox31";
-            this.textBox31.ReadOnly = true;
-            this.textBox31.Size = new System.Drawing.Size(159, 81);
-            this.textBox31.TabIndex = 62;
-            this.textBox31.Text = "Средство для обработки вымени после доения на основе хлоргексидина 0,5%";
-            // 
-            // textBox32
-            // 
-            this.textBox32.BackColor = System.Drawing.Color.White;
-            this.textBox32.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox32.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox32.Location = new System.Drawing.Point(112, 3);
-            this.textBox32.Name = "textBox32";
-            this.textBox32.ReadOnly = true;
-            this.textBox32.Size = new System.Drawing.Size(100, 13);
-            this.textBox32.TabIndex = 61;
-            this.textBox32.Text = "KLIOVIT";
-            // 
-            // pictureBox26
-            // 
-            this.pictureBox26.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox26.Name = "pictureBox26";
-            this.pictureBox26.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox26.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox26.TabIndex = 60;
-            this.pictureBox26.TabStop = false;
-            this.pictureBox26.Click += new System.EventHandler(this.pictureBox26_Click);
-            // 
-            // panel12
-            // 
-            this.panel12.Controls.Add(this.pictureBox29);
-            this.panel12.Controls.Add(this.textBox38);
-            this.panel12.Controls.Add(this.textBox37);
-            this.panel12.Location = new System.Drawing.Point(679, 351);
-            this.panel12.Name = "panel12";
-            this.panel12.Size = new System.Drawing.Size(344, 110);
-            this.panel12.TabIndex = 11;
-            // 
-            // textBox37
-            // 
-            this.textBox37.BackColor = System.Drawing.Color.White;
-            this.textBox37.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox37.Location = new System.Drawing.Point(112, 22);
-            this.textBox37.Multiline = true;
-            this.textBox37.Name = "textBox37";
-            this.textBox37.ReadOnly = true;
-            this.textBox37.Size = new System.Drawing.Size(159, 81);
-            this.textBox37.TabIndex = 53;
-            this.textBox37.Text = "Средство для обработки вымени после доения на основе хлоргексидина 0,25%";
-            // 
-            // textBox38
-            // 
-            this.textBox38.BackColor = System.Drawing.Color.White;
-            this.textBox38.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox38.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox38.Location = new System.Drawing.Point(112, 3);
-            this.textBox38.Name = "textBox38";
-            this.textBox38.ReadOnly = true;
-            this.textBox38.Size = new System.Drawing.Size(100, 13);
-            this.textBox38.TabIndex = 52;
-            this.textBox38.Text = "ELOVIT";
-            // 
-            // pictureBox29
-            // 
-            this.pictureBox29.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox29.Name = "pictureBox29";
-            this.pictureBox29.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox29.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox29.TabIndex = 51;
-            this.pictureBox29.TabStop = false;
-            this.pictureBox29.Click += new System.EventHandler(this.pictureBox29_Click);
-            // 
-            // panel11
-            // 
-            this.panel11.Controls.Add(this.pictureBox30);
-            this.panel11.Controls.Add(this.textBox40);
-            this.panel11.Controls.Add(this.textBox39);
-            this.panel11.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel11.Location = new System.Drawing.Point(341, 351);
-            this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(332, 110);
-            this.panel11.TabIndex = 10;
-            // 
-            // textBox39
-            // 
-            this.textBox39.BackColor = System.Drawing.Color.White;
-            this.textBox39.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox39.Location = new System.Drawing.Point(112, 22);
-            this.textBox39.Multiline = true;
-            this.textBox39.Name = "textBox39";
-            this.textBox39.ReadOnly = true;
-            this.textBox39.Size = new System.Drawing.Size(159, 81);
-            this.textBox39.TabIndex = 50;
-            this.textBox39.Text = "Средство для обработки вымени после доения с экстратом ромашки";
-            // 
-            // textBox40
-            // 
-            this.textBox40.BackColor = System.Drawing.Color.White;
-            this.textBox40.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox40.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox40.Location = new System.Drawing.Point(112, 3);
-            this.textBox40.Name = "textBox40";
-            this.textBox40.ReadOnly = true;
-            this.textBox40.Size = new System.Drawing.Size(100, 13);
-            this.textBox40.TabIndex = 49;
-            this.textBox40.Text = "ECOVIT";
-            // 
-            // pictureBox30
-            // 
-            this.pictureBox30.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox30.Name = "pictureBox30";
-            this.pictureBox30.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox30.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox30.TabIndex = 48;
-            this.pictureBox30.TabStop = false;
-            this.pictureBox30.Click += new System.EventHandler(this.pictureBox30_Click);
-            // 
-            // panel10
-            // 
-            this.panel10.Controls.Add(this.pictureBox19);
-            this.panel10.Controls.Add(this.textBox18);
-            this.panel10.Controls.Add(this.textBox17);
-            this.panel10.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel10.Location = new System.Drawing.Point(3, 351);
-            this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(332, 110);
-            this.panel10.TabIndex = 9;
-            // 
-            // textBox17
-            // 
-            this.textBox17.BackColor = System.Drawing.Color.White;
-            this.textBox17.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox17.Location = new System.Drawing.Point(112, 22);
-            this.textBox17.Multiline = true;
-            this.textBox17.Name = "textBox17";
-            this.textBox17.ReadOnly = true;
-            this.textBox17.Size = new System.Drawing.Size(159, 81);
-            this.textBox17.TabIndex = 47;
-            this.textBox17.Text = "Моющее и дезинфицирующее средство для копыт";
-            // 
-            // textBox18
-            // 
-            this.textBox18.BackColor = System.Drawing.Color.White;
-            this.textBox18.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox18.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox18.Location = new System.Drawing.Point(112, 3);
-            this.textBox18.Name = "textBox18";
-            this.textBox18.ReadOnly = true;
-            this.textBox18.Size = new System.Drawing.Size(100, 13);
-            this.textBox18.TabIndex = 46;
-            this.textBox18.Text = "DESITUB";
-            // 
-            // pictureBox19
-            // 
-            this.pictureBox19.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox19.Name = "pictureBox19";
-            this.pictureBox19.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox19.TabIndex = 45;
-            this.pictureBox19.TabStop = false;
-            this.pictureBox19.Click += new System.EventHandler(this.pictureBox19_Click);
-            // 
-            // panel9
-            // 
-            this.panel9.Controls.Add(this.pictureBox20);
-            this.panel9.Controls.Add(this.textBox20);
-            this.panel9.Controls.Add(this.textBox19);
-            this.panel9.Location = new System.Drawing.Point(679, 235);
-            this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(344, 110);
-            this.panel9.TabIndex = 8;
-            // 
-            // textBox19
-            // 
-            this.textBox19.BackColor = System.Drawing.Color.White;
-            this.textBox19.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox19.Location = new System.Drawing.Point(112, 22);
-            this.textBox19.Multiline = true;
-            this.textBox19.Name = "textBox19";
-            this.textBox19.ReadOnly = true;
-            this.textBox19.Size = new System.Drawing.Size(159, 81);
-            this.textBox19.TabIndex = 44;
-            this.textBox19.Text = "Добавка к медному и цинковому купоросу для копытных ванн";
-            // 
-            // textBox20
-            // 
-            this.textBox20.BackColor = System.Drawing.Color.White;
-            this.textBox20.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox20.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox20.Location = new System.Drawing.Point(112, 3);
-            this.textBox20.Name = "textBox20";
-            this.textBox20.ReadOnly = true;
-            this.textBox20.Size = new System.Drawing.Size(100, 13);
-            this.textBox20.TabIndex = 43;
-            this.textBox20.Text = "DESIMIX";
-            // 
-            // pictureBox20
-            // 
-            this.pictureBox20.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox20.Name = "pictureBox20";
-            this.pictureBox20.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox20.TabIndex = 42;
-            this.pictureBox20.TabStop = false;
-            this.pictureBox20.Click += new System.EventHandler(this.pictureBox20_Click);
-            // 
-            // panel6
-            // 
-            this.panel6.Controls.Add(this.pictureBox8);
-            this.panel6.Controls.Add(this.textBox10);
-            this.panel6.Controls.Add(this.textBox9);
-            this.panel6.Location = new System.Drawing.Point(679, 119);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(344, 110);
-            this.panel6.TabIndex = 5;
-            // 
-            // textBox9
-            // 
-            this.textBox9.BackColor = System.Drawing.Color.White;
-            this.textBox9.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox9.Location = new System.Drawing.Point(112, 22);
-            this.textBox9.Multiline = true;
-            this.textBox9.Name = "textBox9";
-            this.textBox9.ReadOnly = true;
-            this.textBox9.Size = new System.Drawing.Size(159, 81);
-            this.textBox9.TabIndex = 35;
-            this.textBox9.Text = "Щелочное беспенное дезинфицирующее моющее средство для воды мягкой и средней жест" +
-    "кости";
-            // 
-            // textBox10
-            // 
-            this.textBox10.BackColor = System.Drawing.Color.White;
-            this.textBox10.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox10.Location = new System.Drawing.Point(112, 3);
-            this.textBox10.Name = "textBox10";
-            this.textBox10.ReadOnly = true;
-            this.textBox10.Size = new System.Drawing.Size(100, 13);
-            this.textBox10.TabIndex = 34;
-            this.textBox10.Text = "BIOTEC M";
-            // 
-            // pictureBox8
-            // 
-            this.pictureBox8.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox8.Name = "pictureBox8";
-            this.pictureBox8.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox8.TabIndex = 33;
-            this.pictureBox8.TabStop = false;
-            this.pictureBox8.Click += new System.EventHandler(this.pictureBox8_Click);
-            // 
-            // panel5
-            // 
-            this.panel5.Controls.Add(this.pictureBox9);
-            this.panel5.Controls.Add(this.textBox12);
-            this.panel5.Controls.Add(this.textBox11);
-            this.panel5.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel5.Location = new System.Drawing.Point(341, 119);
-            this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(332, 110);
-            this.panel5.TabIndex = 4;
-            // 
-            // textBox11
-            // 
-            this.textBox11.BackColor = System.Drawing.Color.White;
-            this.textBox11.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox11.Location = new System.Drawing.Point(112, 22);
-            this.textBox11.Multiline = true;
-            this.textBox11.Name = "textBox11";
-            this.textBox11.ReadOnly = true;
-            this.textBox11.Size = new System.Drawing.Size(159, 81);
-            this.textBox11.TabIndex = 32;
-            this.textBox11.Text = "Щелочное беспенное дезинфицирующее моющее средство для воды повышенной жесткости";
-            // 
-            // textBox12
-            // 
-            this.textBox12.BackColor = System.Drawing.Color.White;
-            this.textBox12.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox12.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox12.Location = new System.Drawing.Point(112, 3);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.ReadOnly = true;
-            this.textBox12.Size = new System.Drawing.Size(100, 13);
-            this.textBox12.TabIndex = 31;
-            this.textBox12.Text = "BIOTEC";
-            // 
-            // pictureBox9
-            // 
-            this.pictureBox9.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox9.Name = "pictureBox9";
-            this.pictureBox9.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox9.TabIndex = 30;
-            this.pictureBox9.TabStop = false;
-            this.pictureBox9.Click += new System.EventHandler(this.pictureBox9_Click);
-            // 
-            // panel4
-            // 
-            this.panel4.Controls.Add(this.pictureBox6);
-            this.panel4.Controls.Add(this.textBox6);
-            this.panel4.Controls.Add(this.textBox5);
-            this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel4.Location = new System.Drawing.Point(3, 119);
-            this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(332, 110);
-            this.panel4.TabIndex = 3;
-            // 
-            // textBox5
-            // 
-            this.textBox5.BackColor = System.Drawing.Color.White;
-            this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox5.Location = new System.Drawing.Point(112, 22);
-            this.textBox5.Multiline = true;
-            this.textBox5.Name = "textBox5";
-            this.textBox5.ReadOnly = true;
-            this.textBox5.Size = new System.Drawing.Size(159, 81);
-            this.textBox5.TabIndex = 29;
-            this.textBox5.Text = "Средство для обработки вымени после доения на основе йода 0,5%";
-            // 
-            // textBox6
-            // 
-            this.textBox6.BackColor = System.Drawing.Color.White;
-            this.textBox6.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox6.Location = new System.Drawing.Point(112, 3);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.ReadOnly = true;
-            this.textBox6.Size = new System.Drawing.Size(100, 13);
-            this.textBox6.TabIndex = 28;
-            this.textBox6.Text = "ALGAVIT 50";
-            // 
-            // pictureBox6
-            // 
-            this.pictureBox6.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox6.Name = "pictureBox6";
-            this.pictureBox6.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox6.TabIndex = 27;
-            this.pictureBox6.TabStop = false;
-            this.pictureBox6.Click += new System.EventHandler(this.pictureBox6_Click);
-            // 
-            // panel3
-            // 
-            this.panel3.Controls.Add(this.pictureBox7);
-            this.panel3.Controls.Add(this.textBox8);
-            this.panel3.Controls.Add(this.textBox7);
-            this.panel3.Location = new System.Drawing.Point(679, 3);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(344, 110);
-            this.panel3.TabIndex = 2;
-            // 
-            // textBox7
-            // 
-            this.textBox7.BackColor = System.Drawing.Color.White;
-            this.textBox7.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox7.Location = new System.Drawing.Point(112, 22);
-            this.textBox7.Multiline = true;
-            this.textBox7.Name = "textBox7";
-            this.textBox7.ReadOnly = true;
-            this.textBox7.Size = new System.Drawing.Size(159, 81);
-            this.textBox7.TabIndex = 26;
-            this.textBox7.Text = "Средство для обработки вымени после доения на основе йода 0,25%";
-            // 
-            // textBox8
-            // 
-            this.textBox8.BackColor = System.Drawing.Color.White;
-            this.textBox8.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox8.Location = new System.Drawing.Point(112, 3);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.ReadOnly = true;
-            this.textBox8.Size = new System.Drawing.Size(100, 13);
-            this.textBox8.TabIndex = 25;
-            this.textBox8.Text = "ALGAVIT 25";
-            // 
-            // pictureBox7
-            // 
-            this.pictureBox7.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox7.Name = "pictureBox7";
-            this.pictureBox7.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox7.TabIndex = 24;
-            this.pictureBox7.TabStop = false;
-            this.pictureBox7.Click += new System.EventHandler(this.pictureBox7_Click);
-            // 
-            // panel2
-            // 
-            this.panel2.Controls.Add(this.pictureBox16);
-            this.panel2.Controls.Add(this.textBox4);
-            this.panel2.Controls.Add(this.textBox2);
-            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel2.Location = new System.Drawing.Point(341, 3);
-            this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(332, 110);
-            this.panel2.TabIndex = 1;
-            // 
-            // textBox2
-            // 
-            this.textBox2.BackColor = System.Drawing.Color.White;
-            this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox2.Location = new System.Drawing.Point(112, 23);
-            this.textBox2.Multiline = true;
-            this.textBox2.Name = "textBox2";
-            this.textBox2.ReadOnly = true;
-            this.textBox2.Size = new System.Drawing.Size(159, 81);
-            this.textBox2.TabIndex = 23;
-            this.textBox2.Text = "Средство для обработки вымени до доения на основе йода 0,5%";
-            // 
-            // textBox4
-            // 
-            this.textBox4.BackColor = System.Drawing.Color.White;
-            this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox4.Location = new System.Drawing.Point(112, 4);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(100, 13);
-            this.textBox4.TabIndex = 22;
-            this.textBox4.Text = "ALGALIT 50";
-            // 
-            // pictureBox16
-            // 
-            this.pictureBox16.Location = new System.Drawing.Point(3, 4);
-            this.pictureBox16.Name = "pictureBox16";
-            this.pictureBox16.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox16.TabIndex = 21;
-            this.pictureBox16.TabStop = false;
-            this.pictureBox16.Click += new System.EventHandler(this.pictureBox16_Click);
-            // 
-            // panel1
-            // 
-            this.panel1.Controls.Add(this.pictureBox10);
-            this.panel1.Controls.Add(this.textBox1);
-            this.panel1.Controls.Add(this.textBox3);
-            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(3, 3);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(332, 110);
-            this.panel1.TabIndex = 0;
-            // 
-            // textBox3
-            // 
-            this.textBox3.BackColor = System.Drawing.Color.White;
-            this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox3.Location = new System.Drawing.Point(112, 23);
-            this.textBox3.Multiline = true;
-            this.textBox3.Name = "textBox3";
-            this.textBox3.ReadOnly = true;
-            this.textBox3.Size = new System.Drawing.Size(159, 56);
-            this.textBox3.TabIndex = 20;
-            this.textBox3.Text = "Средство для обработки вымени до доения на основе йода 0,25% готовый раствор";
-            // 
-            // textBox1
-            // 
-            this.textBox1.BackColor = System.Drawing.Color.White;
-            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox1.Location = new System.Drawing.Point(112, 4);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.ReadOnly = true;
-            this.textBox1.Size = new System.Drawing.Size(100, 13);
-            this.textBox1.TabIndex = 18;
-            this.textBox1.Text = "ALGALIT";
-            // 
-            // pictureBox10
-            // 
-            this.pictureBox10.Location = new System.Drawing.Point(3, 4);
-            this.pictureBox10.Name = "pictureBox10";
-            this.pictureBox10.Size = new System.Drawing.Size(100, 93);
-            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox10.TabIndex = 6;
-            this.pictureBox10.TabStop = false;
-            this.pictureBox10.Click += new System.EventHandler(this.pictureBox10_Click);
-            // 
-            // panel7
-            // 
-            this.panel7.Controls.Add(this.pictureBox18);
-            this.panel7.Controls.Add(this.textBox16);
-            this.panel7.Controls.Add(this.textBox15);
-            this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel7.Location = new System.Drawing.Point(3, 235);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(332, 110);
-            this.panel7.TabIndex = 6;
-            // 
-            // textBox15
-            // 
-            this.textBox15.BackColor = System.Drawing.Color.White;
-            this.textBox15.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox15.Location = new System.Drawing.Point(112, 22);
-            this.textBox15.Multiline = true;
-            this.textBox15.Name = "textBox15";
-            this.textBox15.ReadOnly = true;
-            this.textBox15.Size = new System.Drawing.Size(159, 81);
-            this.textBox15.TabIndex = 38;
-            this.textBox15.Text = "Щелочное беспенное дезинфицирующее моющее средство для воды средней жесткости";
-            // 
-            // textBox16
-            // 
-            this.textBox16.BackColor = System.Drawing.Color.White;
-            this.textBox16.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox16.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox16.Location = new System.Drawing.Point(112, 3);
-            this.textBox16.Name = "textBox16";
-            this.textBox16.ReadOnly = true;
-            this.textBox16.Size = new System.Drawing.Size(100, 13);
-            this.textBox16.TabIndex = 37;
-            this.textBox16.Text = "BIOTEC C";
-            // 
-            // pictureBox18
-            // 
-            this.pictureBox18.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox18.Name = "pictureBox18";
-            this.pictureBox18.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox18.TabIndex = 36;
-            this.pictureBox18.TabStop = false;
-            this.pictureBox18.Click += new System.EventHandler(this.pictureBox18_Click);
-            // 
-            // panel8
-            // 
-            this.panel8.Controls.Add(this.pictureBox17);
-            this.panel8.Controls.Add(this.textBox14);
-            this.panel8.Controls.Add(this.textBox13);
-            this.panel8.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel8.Location = new System.Drawing.Point(341, 235);
-            this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(332, 110);
-            this.panel8.TabIndex = 7;
-            // 
-            // textBox13
-            // 
-            this.textBox13.BackColor = System.Drawing.Color.White;
-            this.textBox13.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox13.Location = new System.Drawing.Point(112, 22);
-            this.textBox13.Multiline = true;
-            this.textBox13.Name = "textBox13";
-            this.textBox13.ReadOnly = true;
-            this.textBox13.Size = new System.Drawing.Size(159, 81);
-            this.textBox13.TabIndex = 41;
-            this.textBox13.Text = "Щелочное беспенное дезинфицирующее моющее средство для воды любой жесткости";
-            // 
-            // textBox14
-            // 
-            this.textBox14.BackColor = System.Drawing.Color.White;
-            this.textBox14.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox14.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox14.Location = new System.Drawing.Point(112, 3);
-            this.textBox14.Name = "textBox14";
-            this.textBox14.ReadOnly = true;
-            this.textBox14.Size = new System.Drawing.Size(100, 13);
-            this.textBox14.TabIndex = 40;
-            this.textBox14.Text = "BIOTEC SUPER";
-            // 
-            // pictureBox17
-            // 
-            this.pictureBox17.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox17.Name = "pictureBox17";
-            this.pictureBox17.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox17.TabIndex = 39;
-            this.pictureBox17.TabStop = false;
-            this.pictureBox17.Click += new System.EventHandler(this.pictureBox17_Click);
-            // 
-            // panel13
-            // 
-            this.panel13.Controls.Add(this.pictureBox28);
-            this.panel13.Controls.Add(this.textBox36);
-            this.panel13.Controls.Add(this.textBox35);
-            this.panel13.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel13.Location = new System.Drawing.Point(3, 467);
-            this.panel13.Name = "panel13";
-            this.panel13.Size = new System.Drawing.Size(332, 110);
-            this.panel13.TabIndex = 12;
-            // 
-            // textBox35
-            // 
-            this.textBox35.BackColor = System.Drawing.Color.White;
-            this.textBox35.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox35.Location = new System.Drawing.Point(112, 19);
-            this.textBox35.Multiline = true;
-            this.textBox35.Name = "textBox35";
-            this.textBox35.ReadOnly = true;
-            this.textBox35.Size = new System.Drawing.Size(159, 81);
-            this.textBox35.TabIndex = 56;
-            this.textBox35.Text = "Средство для обработки вымени до доения с экстрактом алоэ вера";
-            // 
-            // textBox36
-            // 
-            this.textBox36.BackColor = System.Drawing.Color.White;
-            this.textBox36.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox36.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox36.Location = new System.Drawing.Point(112, 0);
-            this.textBox36.Name = "textBox36";
-            this.textBox36.ReadOnly = true;
-            this.textBox36.Size = new System.Drawing.Size(100, 13);
-            this.textBox36.TabIndex = 55;
-            this.textBox36.Text = "FITOLIT";
-            // 
-            // pictureBox28
-            // 
-            this.pictureBox28.Location = new System.Drawing.Point(3, 0);
-            this.pictureBox28.Name = "pictureBox28";
-            this.pictureBox28.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox28.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox28.TabIndex = 54;
-            this.pictureBox28.TabStop = false;
-            this.pictureBox28.Click += new System.EventHandler(this.pictureBox28_Click);
-            // 
-            // panel14
-            // 
-            this.panel14.Controls.Add(this.pictureBox27);
-            this.panel14.Controls.Add(this.textBox34);
-            this.panel14.Controls.Add(this.textBox33);
-            this.panel14.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel14.Location = new System.Drawing.Point(341, 467);
-            this.panel14.Name = "panel14";
-            this.panel14.Size = new System.Drawing.Size(332, 110);
-            this.panel14.TabIndex = 13;
-            // 
-            // textBox33
-            // 
-            this.textBox33.BackColor = System.Drawing.Color.White;
-            this.textBox33.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox33.Location = new System.Drawing.Point(112, 19);
-            this.textBox33.Multiline = true;
-            this.textBox33.Name = "textBox33";
-            this.textBox33.ReadOnly = true;
-            this.textBox33.Size = new System.Drawing.Size(159, 81);
-            this.textBox33.TabIndex = 59;
-            this.textBox33.Text = "Дезинфицирующее средство для объектов ветеринароного надзора и  профилактики инфе" +
-    "кционных болезней животных";
-            // 
-            // textBox34
-            // 
-            this.textBox34.BackColor = System.Drawing.Color.White;
-            this.textBox34.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox34.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox34.Location = new System.Drawing.Point(112, 0);
-            this.textBox34.Name = "textBox34";
-            this.textBox34.ReadOnly = true;
-            this.textBox34.Size = new System.Drawing.Size(100, 13);
-            this.textBox34.TabIndex = 58;
-            this.textBox34.Text = "FORBICID";
-            // 
-            // pictureBox27
-            // 
-            this.pictureBox27.Location = new System.Drawing.Point(3, 0);
-            this.pictureBox27.Name = "pictureBox27";
-            this.pictureBox27.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox27.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox27.TabIndex = 57;
-            this.pictureBox27.TabStop = false;
-            this.pictureBox27.Click += new System.EventHandler(this.pictureBox27_Click);
-            // 
-            // tabPage2
-            // 
-            this.tabPage2.AutoScroll = true;
-            this.tabPage2.Controls.Add(this.tableLayoutPanel1);
-            this.tabPage2.Location = new System.Drawing.Point(4, 22);
-            this.tabPage2.Name = "tabPage2";
-            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(1049, 591);
-            this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "АПК";
-            this.tabPage2.UseVisualStyleBackColor = true;
             // 
             // tableLayoutPanel2
             // 
@@ -1808,7 +702,7 @@
             this.tableLayoutPanel2.ColumnCount = 3;
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 338F));
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 338F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 338F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 367F));
             this.tableLayoutPanel2.Controls.Add(this.panel111, 2, 7);
             this.tableLayoutPanel2.Controls.Add(this.panel110, 2, 8);
             this.tableLayoutPanel2.Controls.Add(this.panel109, 1, 8);
@@ -1868,8 +762,759 @@
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(1043, 585);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(1043, 603);
             this.tableLayoutPanel2.TabIndex = 88;
+            // 
+            // panel111
+            // 
+            this.panel111.Controls.Add(this.pictureBox111);
+            this.panel111.Controls.Add(this.textBox221);
+            this.panel111.Controls.Add(this.textBox222);
+            this.panel111.Location = new System.Drawing.Point(679, 815);
+            this.panel111.Name = "panel111";
+            this.panel111.Size = new System.Drawing.Size(338, 110);
+            this.panel111.TabIndex = 87;
+            // 
+            // pictureBox111
+            // 
+            this.pictureBox111.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox111.Name = "pictureBox111";
+            this.pictureBox111.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox111.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox111.TabIndex = 84;
+            this.pictureBox111.TabStop = false;
+            this.pictureBox111.Click += new System.EventHandler(this.pictureBox111_Click);
+            // 
+            // textBox221
+            // 
+            this.textBox221.BackColor = System.Drawing.Color.White;
+            this.textBox221.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox221.Location = new System.Drawing.Point(115, 24);
+            this.textBox221.Multiline = true;
+            this.textBox221.Name = "textBox221";
+            this.textBox221.ReadOnly = true;
+            this.textBox221.Size = new System.Drawing.Size(159, 81);
+            this.textBox221.TabIndex = 86;
+            this.textBox221.Text = "Средство для бесконтактной мойки класс премиум для воды средней жесткости";
+            // 
+            // textBox222
+            // 
+            this.textBox222.BackColor = System.Drawing.Color.White;
+            this.textBox222.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox222.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox222.Location = new System.Drawing.Point(115, 5);
+            this.textBox222.Name = "textBox222";
+            this.textBox222.ReadOnly = true;
+            this.textBox222.Size = new System.Drawing.Size(129, 13);
+            this.textBox222.TabIndex = 85;
+            this.textBox222.Text = "PROFY";
+            // 
+            // panel110
+            // 
+            this.panel110.Controls.Add(this.pictureBox110);
+            this.panel110.Controls.Add(this.textBox219);
+            this.panel110.Controls.Add(this.textBox220);
+            this.panel110.Location = new System.Drawing.Point(679, 931);
+            this.panel110.Name = "panel110";
+            this.panel110.Size = new System.Drawing.Size(338, 110);
+            this.panel110.TabIndex = 87;
+            // 
+            // pictureBox110
+            // 
+            this.pictureBox110.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox110.Name = "pictureBox110";
+            this.pictureBox110.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox110.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox110.TabIndex = 84;
+            this.pictureBox110.TabStop = false;
+            this.pictureBox110.Click += new System.EventHandler(this.pictureBox110_Click);
+            // 
+            // textBox219
+            // 
+            this.textBox219.BackColor = System.Drawing.Color.White;
+            this.textBox219.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox219.Location = new System.Drawing.Point(115, 24);
+            this.textBox219.Multiline = true;
+            this.textBox219.Name = "textBox219";
+            this.textBox219.ReadOnly = true;
+            this.textBox219.Size = new System.Drawing.Size(159, 81);
+            this.textBox219.TabIndex = 86;
+            this.textBox219.Text = "Чернитель резины на основе силикона";
+            // 
+            // textBox220
+            // 
+            this.textBox220.BackColor = System.Drawing.Color.White;
+            this.textBox220.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox220.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox220.Location = new System.Drawing.Point(115, 5);
+            this.textBox220.Name = "textBox220";
+            this.textBox220.ReadOnly = true;
+            this.textBox220.Size = new System.Drawing.Size(129, 13);
+            this.textBox220.TabIndex = 85;
+            this.textBox220.Text = "ROTAE VIS";
+            // 
+            // panel109
+            // 
+            this.panel109.Controls.Add(this.pictureBox109);
+            this.panel109.Controls.Add(this.textBox217);
+            this.panel109.Controls.Add(this.textBox218);
+            this.panel109.Location = new System.Drawing.Point(341, 931);
+            this.panel109.Name = "panel109";
+            this.panel109.Size = new System.Drawing.Size(332, 110);
+            this.panel109.TabIndex = 87;
+            // 
+            // pictureBox109
+            // 
+            this.pictureBox109.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox109.Name = "pictureBox109";
+            this.pictureBox109.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox109.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox109.TabIndex = 84;
+            this.pictureBox109.TabStop = false;
+            this.pictureBox109.Click += new System.EventHandler(this.pictureBox109_Click);
+            // 
+            // textBox217
+            // 
+            this.textBox217.BackColor = System.Drawing.Color.White;
+            this.textBox217.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox217.Location = new System.Drawing.Point(115, 24);
+            this.textBox217.Multiline = true;
+            this.textBox217.Name = "textBox217";
+            this.textBox217.ReadOnly = true;
+            this.textBox217.Size = new System.Drawing.Size(159, 81);
+            this.textBox217.TabIndex = 86;
+            this.textBox217.Text = "Чернитель резины";
+            // 
+            // textBox218
+            // 
+            this.textBox218.BackColor = System.Drawing.Color.White;
+            this.textBox218.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox218.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox218.Location = new System.Drawing.Point(115, 5);
+            this.textBox218.Name = "textBox218";
+            this.textBox218.ReadOnly = true;
+            this.textBox218.Size = new System.Drawing.Size(129, 13);
+            this.textBox218.TabIndex = 85;
+            this.textBox218.Text = "ROTAE";
+            // 
+            // panel107
+            // 
+            this.panel107.Controls.Add(this.pictureBox107);
+            this.panel107.Controls.Add(this.textBox213);
+            this.panel107.Controls.Add(this.textBox214);
+            this.panel107.Location = new System.Drawing.Point(3, 1047);
+            this.panel107.Name = "panel107";
+            this.panel107.Size = new System.Drawing.Size(332, 110);
+            this.panel107.TabIndex = 87;
+            // 
+            // pictureBox107
+            // 
+            this.pictureBox107.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox107.Name = "pictureBox107";
+            this.pictureBox107.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox107.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox107.TabIndex = 84;
+            this.pictureBox107.TabStop = false;
+            this.pictureBox107.Click += new System.EventHandler(this.pictureBox107_Click);
+            // 
+            // textBox213
+            // 
+            this.textBox213.BackColor = System.Drawing.Color.White;
+            this.textBox213.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox213.Location = new System.Drawing.Point(115, 24);
+            this.textBox213.Multiline = true;
+            this.textBox213.Name = "textBox213";
+            this.textBox213.ReadOnly = true;
+            this.textBox213.Size = new System.Drawing.Size(159, 81);
+            this.textBox213.TabIndex = 86;
+            this.textBox213.Text = "Очищающая паста для рук";
+            // 
+            // textBox214
+            // 
+            this.textBox214.BackColor = System.Drawing.Color.White;
+            this.textBox214.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox214.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox214.Location = new System.Drawing.Point(115, 5);
+            this.textBox214.Name = "textBox214";
+            this.textBox214.ReadOnly = true;
+            this.textBox214.Size = new System.Drawing.Size(129, 13);
+            this.textBox214.TabIndex = 85;
+            this.textBox214.Text = "SAPO";
+            // 
+            // panel106
+            // 
+            this.panel106.Controls.Add(this.pictureBox106);
+            this.panel106.Controls.Add(this.textBox211);
+            this.panel106.Controls.Add(this.textBox212);
+            this.panel106.Location = new System.Drawing.Point(341, 1047);
+            this.panel106.Name = "panel106";
+            this.panel106.Size = new System.Drawing.Size(332, 110);
+            this.panel106.TabIndex = 87;
+            // 
+            // pictureBox106
+            // 
+            this.pictureBox106.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox106.Name = "pictureBox106";
+            this.pictureBox106.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox106.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox106.TabIndex = 84;
+            this.pictureBox106.TabStop = false;
+            this.pictureBox106.Click += new System.EventHandler(this.pictureBox106_Click);
+            // 
+            // textBox211
+            // 
+            this.textBox211.BackColor = System.Drawing.Color.White;
+            this.textBox211.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox211.Location = new System.Drawing.Point(115, 24);
+            this.textBox211.Multiline = true;
+            this.textBox211.Name = "textBox211";
+            this.textBox211.ReadOnly = true;
+            this.textBox211.Size = new System.Drawing.Size(159, 81);
+            this.textBox211.TabIndex = 86;
+            this.textBox211.Text = "Средство для бесконтактной мойки класс премиум, для воды высокой жесткости";
+            // 
+            // textBox212
+            // 
+            this.textBox212.BackColor = System.Drawing.Color.White;
+            this.textBox212.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox212.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox212.Location = new System.Drawing.Point(115, 5);
+            this.textBox212.Name = "textBox212";
+            this.textBox212.ReadOnly = true;
+            this.textBox212.Size = new System.Drawing.Size(129, 13);
+            this.textBox212.TabIndex = 85;
+            this.textBox212.Text = "SENZA";
+            // 
+            // panel105
+            // 
+            this.panel105.Controls.Add(this.pictureBox105);
+            this.panel105.Controls.Add(this.textBox209);
+            this.panel105.Controls.Add(this.textBox210);
+            this.panel105.Location = new System.Drawing.Point(679, 1047);
+            this.panel105.Name = "panel105";
+            this.panel105.Size = new System.Drawing.Size(338, 110);
+            this.panel105.TabIndex = 87;
+            // 
+            // pictureBox105
+            // 
+            this.pictureBox105.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox105.Name = "pictureBox105";
+            this.pictureBox105.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox105.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox105.TabIndex = 84;
+            this.pictureBox105.TabStop = false;
+            this.pictureBox105.Click += new System.EventHandler(this.pictureBox105_Click);
+            // 
+            // textBox209
+            // 
+            this.textBox209.BackColor = System.Drawing.Color.White;
+            this.textBox209.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox209.Location = new System.Drawing.Point(115, 24);
+            this.textBox209.Multiline = true;
+            this.textBox209.Name = "textBox209";
+            this.textBox209.ReadOnly = true;
+            this.textBox209.Size = new System.Drawing.Size(159, 81);
+            this.textBox209.TabIndex = 86;
+            this.textBox209.Text = "Силиконовая смазка";
+            // 
+            // textBox210
+            // 
+            this.textBox210.BackColor = System.Drawing.Color.White;
+            this.textBox210.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox210.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox210.Location = new System.Drawing.Point(115, 5);
+            this.textBox210.Name = "textBox210";
+            this.textBox210.ReadOnly = true;
+            this.textBox210.Size = new System.Drawing.Size(129, 13);
+            this.textBox210.TabIndex = 85;
+            this.textBox210.Text = "SILICONE";
+            // 
+            // panel104
+            // 
+            this.panel104.Controls.Add(this.pictureBox104);
+            this.panel104.Controls.Add(this.textBox207);
+            this.panel104.Controls.Add(this.textBox208);
+            this.panel104.Location = new System.Drawing.Point(341, 1163);
+            this.panel104.Name = "panel104";
+            this.panel104.Size = new System.Drawing.Size(332, 110);
+            this.panel104.TabIndex = 87;
+            // 
+            // pictureBox104
+            // 
+            this.pictureBox104.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox104.Name = "pictureBox104";
+            this.pictureBox104.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox104.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox104.TabIndex = 84;
+            this.pictureBox104.TabStop = false;
+            this.pictureBox104.Click += new System.EventHandler(this.pictureBox104_Click);
+            // 
+            // textBox207
+            // 
+            this.textBox207.BackColor = System.Drawing.Color.White;
+            this.textBox207.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox207.Location = new System.Drawing.Point(115, 24);
+            this.textBox207.Multiline = true;
+            this.textBox207.Name = "textBox207";
+            this.textBox207.ReadOnly = true;
+            this.textBox207.Size = new System.Drawing.Size(159, 81);
+            this.textBox207.TabIndex = 86;
+            this.textBox207.Text = "Универсальное средство для химчистки салона автомобиля";
+            // 
+            // textBox208
+            // 
+            this.textBox208.BackColor = System.Drawing.Color.White;
+            this.textBox208.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox208.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox208.Location = new System.Drawing.Point(115, 5);
+            this.textBox208.Name = "textBox208";
+            this.textBox208.ReadOnly = true;
+            this.textBox208.Size = new System.Drawing.Size(129, 13);
+            this.textBox208.TabIndex = 85;
+            this.textBox208.Text = "TANTUM";
+            // 
+            // panel103
+            // 
+            this.panel103.Controls.Add(this.pictureBox103);
+            this.panel103.Controls.Add(this.textBox205);
+            this.panel103.Controls.Add(this.textBox206);
+            this.panel103.Location = new System.Drawing.Point(3, 1163);
+            this.panel103.Name = "panel103";
+            this.panel103.Size = new System.Drawing.Size(332, 110);
+            this.panel103.TabIndex = 87;
+            // 
+            // pictureBox103
+            // 
+            this.pictureBox103.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox103.Name = "pictureBox103";
+            this.pictureBox103.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox103.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox103.TabIndex = 84;
+            this.pictureBox103.TabStop = false;
+            this.pictureBox103.Click += new System.EventHandler(this.pictureBox103_Click);
+            // 
+            // textBox205
+            // 
+            this.textBox205.BackColor = System.Drawing.Color.White;
+            this.textBox205.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox205.Location = new System.Drawing.Point(115, 24);
+            this.textBox205.Multiline = true;
+            this.textBox205.Name = "textBox205";
+            this.textBox205.ReadOnly = true;
+            this.textBox205.Size = new System.Drawing.Size(159, 81);
+            this.textBox205.TabIndex = 86;
+            this.textBox205.Text = "Низкопенное средство для бесконтактной мойки автомобиля на мойках самообслуживани" +
+    "я";
+            // 
+            // textBox206
+            // 
+            this.textBox206.BackColor = System.Drawing.Color.White;
+            this.textBox206.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox206.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox206.Location = new System.Drawing.Point(115, 5);
+            this.textBox206.Name = "textBox206";
+            this.textBox206.ReadOnly = true;
+            this.textBox206.Size = new System.Drawing.Size(129, 13);
+            this.textBox206.TabIndex = 85;
+            this.textBox206.Text = "SOLO";
+            // 
+            // panel102
+            // 
+            this.panel102.Controls.Add(this.pictureBox102);
+            this.panel102.Controls.Add(this.textBox203);
+            this.panel102.Controls.Add(this.textBox204);
+            this.panel102.Location = new System.Drawing.Point(679, 1163);
+            this.panel102.Name = "panel102";
+            this.panel102.Size = new System.Drawing.Size(338, 110);
+            this.panel102.TabIndex = 87;
+            // 
+            // pictureBox102
+            // 
+            this.pictureBox102.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox102.Name = "pictureBox102";
+            this.pictureBox102.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox102.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox102.TabIndex = 84;
+            this.pictureBox102.TabStop = false;
+            this.pictureBox102.Click += new System.EventHandler(this.pictureBox102_Click);
+            // 
+            // textBox203
+            // 
+            this.textBox203.BackColor = System.Drawing.Color.White;
+            this.textBox203.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox203.Location = new System.Drawing.Point(115, 24);
+            this.textBox203.Multiline = true;
+            this.textBox203.Name = "textBox203";
+            this.textBox203.ReadOnly = true;
+            this.textBox203.Size = new System.Drawing.Size(159, 81);
+            this.textBox203.TabIndex = 86;
+            this.textBox203.Text = "Средство для бесконтактной мойки класс эконом, для воды средней жесткости";
+            // 
+            // textBox204
+            // 
+            this.textBox204.BackColor = System.Drawing.Color.White;
+            this.textBox204.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox204.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox204.Location = new System.Drawing.Point(115, 5);
+            this.textBox204.Name = "textBox204";
+            this.textBox204.ReadOnly = true;
+            this.textBox204.Size = new System.Drawing.Size(129, 13);
+            this.textBox204.TabIndex = 85;
+            this.textBox204.Text = "TIRO";
+            // 
+            // panel101
+            // 
+            this.panel101.Controls.Add(this.pictureBox101);
+            this.panel101.Controls.Add(this.textBox201);
+            this.panel101.Controls.Add(this.textBox202);
+            this.panel101.Location = new System.Drawing.Point(679, 1279);
+            this.panel101.Name = "panel101";
+            this.panel101.Size = new System.Drawing.Size(338, 110);
+            this.panel101.TabIndex = 87;
+            // 
+            // pictureBox101
+            // 
+            this.pictureBox101.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox101.Name = "pictureBox101";
+            this.pictureBox101.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox101.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox101.TabIndex = 84;
+            this.pictureBox101.TabStop = false;
+            this.pictureBox101.Click += new System.EventHandler(this.pictureBox101_Click);
+            // 
+            // textBox201
+            // 
+            this.textBox201.BackColor = System.Drawing.Color.White;
+            this.textBox201.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox201.Location = new System.Drawing.Point(115, 24);
+            this.textBox201.Multiline = true;
+            this.textBox201.Name = "textBox201";
+            this.textBox201.ReadOnly = true;
+            this.textBox201.Size = new System.Drawing.Size(159, 81);
+            this.textBox201.TabIndex = 86;
+            this.textBox201.Text = "Воск для кузова";
+            // 
+            // textBox202
+            // 
+            this.textBox202.BackColor = System.Drawing.Color.White;
+            this.textBox202.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox202.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox202.Location = new System.Drawing.Point(115, 5);
+            this.textBox202.Name = "textBox202";
+            this.textBox202.ReadOnly = true;
+            this.textBox202.Size = new System.Drawing.Size(129, 13);
+            this.textBox202.TabIndex = 85;
+            this.textBox202.Text = "TUTELA FAST";
+            // 
+            // panel100
+            // 
+            this.panel100.Controls.Add(this.pictureBox100);
+            this.panel100.Controls.Add(this.textBox199);
+            this.panel100.Controls.Add(this.textBox200);
+            this.panel100.Location = new System.Drawing.Point(341, 1279);
+            this.panel100.Name = "panel100";
+            this.panel100.Size = new System.Drawing.Size(332, 110);
+            this.panel100.TabIndex = 87;
+            // 
+            // pictureBox100
+            // 
+            this.pictureBox100.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox100.Name = "pictureBox100";
+            this.pictureBox100.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox100.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox100.TabIndex = 84;
+            this.pictureBox100.TabStop = false;
+            this.pictureBox100.Click += new System.EventHandler(this.pictureBox100_Click);
+            // 
+            // textBox199
+            // 
+            this.textBox199.BackColor = System.Drawing.Color.White;
+            this.textBox199.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox199.Location = new System.Drawing.Point(115, 24);
+            this.textBox199.Multiline = true;
+            this.textBox199.Name = "textBox199";
+            this.textBox199.ReadOnly = true;
+            this.textBox199.Size = new System.Drawing.Size(159, 81);
+            this.textBox199.TabIndex = 86;
+            this.textBox199.Text = "Воск для кузова";
+            // 
+            // textBox200
+            // 
+            this.textBox200.BackColor = System.Drawing.Color.White;
+            this.textBox200.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox200.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox200.Location = new System.Drawing.Point(115, 5);
+            this.textBox200.Name = "textBox200";
+            this.textBox200.ReadOnly = true;
+            this.textBox200.Size = new System.Drawing.Size(129, 13);
+            this.textBox200.TabIndex = 85;
+            this.textBox200.Text = "TUTELA";
+            // 
+            // panel99
+            // 
+            this.panel99.Controls.Add(this.pictureBox99);
+            this.panel99.Controls.Add(this.textBox197);
+            this.panel99.Controls.Add(this.textBox198);
+            this.panel99.Location = new System.Drawing.Point(3, 1279);
+            this.panel99.Name = "panel99";
+            this.panel99.Size = new System.Drawing.Size(332, 110);
+            this.panel99.TabIndex = 87;
+            // 
+            // pictureBox99
+            // 
+            this.pictureBox99.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox99.Name = "pictureBox99";
+            this.pictureBox99.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox99.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox99.TabIndex = 84;
+            this.pictureBox99.TabStop = false;
+            this.pictureBox99.Click += new System.EventHandler(this.pictureBox99_Click);
+            // 
+            // textBox197
+            // 
+            this.textBox197.BackColor = System.Drawing.Color.White;
+            this.textBox197.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox197.Location = new System.Drawing.Point(115, 24);
+            this.textBox197.Multiline = true;
+            this.textBox197.Name = "textBox197";
+            this.textBox197.ReadOnly = true;
+            this.textBox197.Size = new System.Drawing.Size(159, 81);
+            this.textBox197.TabIndex = 86;
+            this.textBox197.Text = "Средство для бесконтактной мойки класс эконом, цветная пена для воды средней жест" +
+    "кости";
+            // 
+            // textBox198
+            // 
+            this.textBox198.BackColor = System.Drawing.Color.White;
+            this.textBox198.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox198.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox198.Location = new System.Drawing.Point(115, 5);
+            this.textBox198.Name = "textBox198";
+            this.textBox198.ReadOnly = true;
+            this.textBox198.Size = new System.Drawing.Size(129, 13);
+            this.textBox198.TabIndex = 85;
+            this.textBox198.Text = "TIRO TONE";
+            // 
+            // panel98
+            // 
+            this.panel98.Controls.Add(this.pictureBox98);
+            this.panel98.Controls.Add(this.textBox195);
+            this.panel98.Controls.Add(this.textBox196);
+            this.panel98.Location = new System.Drawing.Point(3, 1395);
+            this.panel98.Name = "panel98";
+            this.panel98.Size = new System.Drawing.Size(332, 110);
+            this.panel98.TabIndex = 87;
+            // 
+            // pictureBox98
+            // 
+            this.pictureBox98.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox98.Name = "pictureBox98";
+            this.pictureBox98.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox98.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox98.TabIndex = 84;
+            this.pictureBox98.TabStop = false;
+            this.pictureBox98.Click += new System.EventHandler(this.pictureBox98_Click);
+            // 
+            // textBox195
+            // 
+            this.textBox195.BackColor = System.Drawing.Color.White;
+            this.textBox195.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox195.Location = new System.Drawing.Point(115, 24);
+            this.textBox195.Multiline = true;
+            this.textBox195.Name = "textBox195";
+            this.textBox195.ReadOnly = true;
+            this.textBox195.Size = new System.Drawing.Size(159, 81);
+            this.textBox195.TabIndex = 86;
+            this.textBox195.Text = "Средство для бесконтактной мойки класс стандарт, для воды высокой жесткости";
+            // 
+            // textBox196
+            // 
+            this.textBox196.BackColor = System.Drawing.Color.White;
+            this.textBox196.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox196.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox196.Location = new System.Drawing.Point(115, 5);
+            this.textBox196.Name = "textBox196";
+            this.textBox196.ReadOnly = true;
+            this.textBox196.Size = new System.Drawing.Size(129, 13);
+            this.textBox196.TabIndex = 85;
+            this.textBox196.Text = "TUTOR";
+            // 
+            // panel97
+            // 
+            this.panel97.Controls.Add(this.pictureBox97);
+            this.panel97.Controls.Add(this.textBox193);
+            this.panel97.Controls.Add(this.textBox194);
+            this.panel97.Location = new System.Drawing.Point(341, 1395);
+            this.panel97.Name = "panel97";
+            this.panel97.Size = new System.Drawing.Size(332, 110);
+            this.panel97.TabIndex = 87;
+            // 
+            // pictureBox97
+            // 
+            this.pictureBox97.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox97.Name = "pictureBox97";
+            this.pictureBox97.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox97.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox97.TabIndex = 84;
+            this.pictureBox97.TabStop = false;
+            this.pictureBox97.Click += new System.EventHandler(this.pictureBox97_Click);
+            // 
+            // textBox193
+            // 
+            this.textBox193.BackColor = System.Drawing.Color.White;
+            this.textBox193.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox193.Location = new System.Drawing.Point(115, 24);
+            this.textBox193.Multiline = true;
+            this.textBox193.Name = "textBox193";
+            this.textBox193.ReadOnly = true;
+            this.textBox193.Size = new System.Drawing.Size(159, 81);
+            this.textBox193.TabIndex = 86;
+            this.textBox193.Text = "Набор автокосметики: химчистка салона - Tantum, полироль - Politura, губка и микр" +
+    "офибра.";
+            // 
+            // textBox194
+            // 
+            this.textBox194.BackColor = System.Drawing.Color.White;
+            this.textBox194.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox194.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox194.Location = new System.Drawing.Point(115, 5);
+            this.textBox194.Name = "textBox194";
+            this.textBox194.ReadOnly = true;
+            this.textBox194.Size = new System.Drawing.Size(129, 13);
+            this.textBox194.TabIndex = 85;
+            this.textBox194.Text = "TWIN ";
+            // 
+            // panel96
+            // 
+            this.panel96.Controls.Add(this.pictureBox96);
+            this.panel96.Controls.Add(this.textBox191);
+            this.panel96.Controls.Add(this.textBox192);
+            this.panel96.Location = new System.Drawing.Point(679, 1395);
+            this.panel96.Name = "panel96";
+            this.panel96.Size = new System.Drawing.Size(338, 110);
+            this.panel96.TabIndex = 87;
+            // 
+            // pictureBox96
+            // 
+            this.pictureBox96.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox96.Name = "pictureBox96";
+            this.pictureBox96.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox96.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox96.TabIndex = 84;
+            this.pictureBox96.TabStop = false;
+            this.pictureBox96.Click += new System.EventHandler(this.pictureBox96_Click);
+            // 
+            // textBox191
+            // 
+            this.textBox191.BackColor = System.Drawing.Color.White;
+            this.textBox191.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox191.Location = new System.Drawing.Point(115, 24);
+            this.textBox191.Multiline = true;
+            this.textBox191.Name = "textBox191";
+            this.textBox191.ReadOnly = true;
+            this.textBox191.Size = new System.Drawing.Size(159, 81);
+            this.textBox191.TabIndex = 86;
+            this.textBox191.Text = "Средство для бесконтактной мойки класс эконом минус, для воды средней жесткости";
+            // 
+            // textBox192
+            // 
+            this.textBox192.BackColor = System.Drawing.Color.White;
+            this.textBox192.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox192.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox192.Location = new System.Drawing.Point(115, 5);
+            this.textBox192.Name = "textBox192";
+            this.textBox192.ReadOnly = true;
+            this.textBox192.Size = new System.Drawing.Size(129, 13);
+            this.textBox192.TabIndex = 85;
+            this.textBox192.Text = "UNIOR";
+            // 
+            // panel94
+            // 
+            this.panel94.Controls.Add(this.pictureBox94);
+            this.panel94.Controls.Add(this.textBox187);
+            this.panel94.Controls.Add(this.textBox188);
+            this.panel94.Location = new System.Drawing.Point(341, 1511);
+            this.panel94.Name = "panel94";
+            this.panel94.Size = new System.Drawing.Size(332, 110);
+            this.panel94.TabIndex = 87;
+            // 
+            // pictureBox94
+            // 
+            this.pictureBox94.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox94.Name = "pictureBox94";
+            this.pictureBox94.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox94.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox94.TabIndex = 84;
+            this.pictureBox94.TabStop = false;
+            this.pictureBox94.Click += new System.EventHandler(this.pictureBox94_Click);
+            // 
+            // textBox187
+            // 
+            this.textBox187.BackColor = System.Drawing.Color.White;
+            this.textBox187.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox187.Location = new System.Drawing.Point(115, 24);
+            this.textBox187.Multiline = true;
+            this.textBox187.Name = "textBox187";
+            this.textBox187.ReadOnly = true;
+            this.textBox187.Size = new System.Drawing.Size(159, 81);
+            this.textBox187.TabIndex = 86;
+            this.textBox187.Text = "Автошампунь для бесконтактной мойки автомобилей";
+            // 
+            // textBox188
+            // 
+            this.textBox188.BackColor = System.Drawing.Color.White;
+            this.textBox188.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox188.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox188.Location = new System.Drawing.Point(115, 5);
+            this.textBox188.Name = "textBox188";
+            this.textBox188.ReadOnly = true;
+            this.textBox188.Size = new System.Drawing.Size(129, 13);
+            this.textBox188.TabIndex = 85;
+            this.textBox188.Text = "СУПЕРКОНЦЕНТРАТ";
+            // 
+            // panel93
+            // 
+            this.panel93.Controls.Add(this.pictureBox93);
+            this.panel93.Controls.Add(this.textBox185);
+            this.panel93.Controls.Add(this.textBox186);
+            this.panel93.Location = new System.Drawing.Point(3, 1511);
+            this.panel93.Name = "panel93";
+            this.panel93.Size = new System.Drawing.Size(332, 110);
+            this.panel93.TabIndex = 23;
+            // 
+            // pictureBox93
+            // 
+            this.pictureBox93.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox93.Name = "pictureBox93";
+            this.pictureBox93.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox93.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox93.TabIndex = 84;
+            this.pictureBox93.TabStop = false;
+            this.pictureBox93.Click += new System.EventHandler(this.pictureBox93_Click);
+            // 
+            // textBox185
+            // 
+            this.textBox185.BackColor = System.Drawing.Color.White;
+            this.textBox185.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox185.Location = new System.Drawing.Point(115, 24);
+            this.textBox185.Multiline = true;
+            this.textBox185.Name = "textBox185";
+            this.textBox185.ReadOnly = true;
+            this.textBox185.Size = new System.Drawing.Size(159, 81);
+            this.textBox185.TabIndex = 86;
+            this.textBox185.Text = "Стеклоочиститель универсальный";
+            // 
+            // textBox186
+            // 
+            this.textBox186.BackColor = System.Drawing.Color.White;
+            this.textBox186.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox186.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox186.Location = new System.Drawing.Point(115, 5);
+            this.textBox186.Name = "textBox186";
+            this.textBox186.ReadOnly = true;
+            this.textBox186.Size = new System.Drawing.Size(129, 13);
+            this.textBox186.TabIndex = 85;
+            this.textBox186.Text = "WITRUM";
             // 
             // panel24
             // 
@@ -1890,6 +1535,7 @@
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox1.TabIndex = 57;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Click += new System.EventHandler(this.pictureBox1_Click);
             // 
             // textBox41
             // 
@@ -1934,6 +1580,7 @@
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox2.TabIndex = 54;
             this.pictureBox2.TabStop = false;
+            this.pictureBox2.Click += new System.EventHandler(this.pictureBox2_Click);
             // 
             // textBox49
             // 
@@ -1979,6 +1626,7 @@
             this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox3.TabIndex = 39;
             this.pictureBox3.TabStop = false;
+            this.pictureBox3.Click += new System.EventHandler(this.pictureBox3_Click);
             // 
             // textBox51
             // 
@@ -2024,6 +1672,7 @@
             this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox4.TabIndex = 36;
             this.pictureBox4.TabStop = false;
+            this.pictureBox4.Click += new System.EventHandler(this.pictureBox4_Click);
             // 
             // textBox53
             // 
@@ -2069,6 +1718,7 @@
             this.pictureBox5.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox5.TabIndex = 6;
             this.pictureBox5.TabStop = false;
+            this.pictureBox5.Click += new System.EventHandler(this.pictureBox5_Click);
             // 
             // textBox55
             // 
@@ -2114,6 +1764,7 @@
             this.pictureBox11.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox11.TabIndex = 21;
             this.pictureBox11.TabStop = false;
+            this.pictureBox11.Click += new System.EventHandler(this.pictureBox11_Click);
             // 
             // textBox57
             // 
@@ -2157,6 +1808,7 @@
             this.pictureBox12.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox12.TabIndex = 24;
             this.pictureBox12.TabStop = false;
+            this.pictureBox12.Click += new System.EventHandler(this.pictureBox12_Click);
             // 
             // textBox59
             // 
@@ -2201,6 +1853,7 @@
             this.pictureBox13.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox13.TabIndex = 27;
             this.pictureBox13.TabStop = false;
+            this.pictureBox13.Click += new System.EventHandler(this.pictureBox13_Click);
             // 
             // textBox61
             // 
@@ -2245,6 +1898,7 @@
             this.pictureBox14.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox14.TabIndex = 30;
             this.pictureBox14.TabStop = false;
+            this.pictureBox14.Click += new System.EventHandler(this.pictureBox14_Click);
             // 
             // textBox63
             // 
@@ -2289,6 +1943,7 @@
             this.pictureBox15.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox15.TabIndex = 33;
             this.pictureBox15.TabStop = false;
+            this.pictureBox15.Click += new System.EventHandler(this.pictureBox15_Click);
             // 
             // textBox65
             // 
@@ -2333,6 +1988,7 @@
             this.pictureBox31.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox31.TabIndex = 42;
             this.pictureBox31.TabStop = false;
+            this.pictureBox31.Click += new System.EventHandler(this.pictureBox31_Click);
             // 
             // textBox67
             // 
@@ -2377,6 +2033,7 @@
             this.pictureBox35.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox35.TabIndex = 45;
             this.pictureBox35.TabStop = false;
+            this.pictureBox35.Click += new System.EventHandler(this.pictureBox35_Click);
             // 
             // textBox69
             // 
@@ -2422,6 +2079,7 @@
             this.pictureBox36.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox36.TabIndex = 48;
             this.pictureBox36.TabStop = false;
+            this.pictureBox36.Click += new System.EventHandler(this.pictureBox36_Click);
             // 
             // textBox71
             // 
@@ -2465,6 +2123,7 @@
             this.pictureBox37.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox37.TabIndex = 51;
             this.pictureBox37.TabStop = false;
+            this.pictureBox37.Click += new System.EventHandler(this.pictureBox37_Click);
             // 
             // textBox73
             // 
@@ -2508,6 +2167,7 @@
             this.pictureBox38.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox38.TabIndex = 60;
             this.pictureBox38.TabStop = false;
+            this.pictureBox38.Click += new System.EventHandler(this.pictureBox38_Click);
             // 
             // textBox75
             // 
@@ -2553,6 +2213,7 @@
             this.pictureBox39.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox39.TabIndex = 63;
             this.pictureBox39.TabStop = false;
+            this.pictureBox39.Click += new System.EventHandler(this.pictureBox39_Click);
             // 
             // textBox77
             // 
@@ -2597,6 +2258,7 @@
             this.pictureBox40.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox40.TabIndex = 66;
             this.pictureBox40.TabStop = false;
+            this.pictureBox40.Click += new System.EventHandler(this.pictureBox40_Click);
             // 
             // textBox79
             // 
@@ -2640,6 +2302,7 @@
             this.pictureBox41.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox41.TabIndex = 69;
             this.pictureBox41.TabStop = false;
+            this.pictureBox41.Click += new System.EventHandler(this.pictureBox41_Click);
             // 
             // textBox81
             // 
@@ -2684,6 +2347,7 @@
             this.pictureBox42.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox42.TabIndex = 72;
             this.pictureBox42.TabStop = false;
+            this.pictureBox42.Click += new System.EventHandler(this.pictureBox42_Click);
             // 
             // textBox83
             // 
@@ -2728,6 +2392,7 @@
             this.pictureBox43.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox43.TabIndex = 75;
             this.pictureBox43.TabStop = false;
+            this.pictureBox43.Click += new System.EventHandler(this.pictureBox43_Click);
             // 
             // textBox85
             // 
@@ -2771,6 +2436,7 @@
             this.pictureBox44.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox44.TabIndex = 78;
             this.pictureBox44.TabStop = false;
+            this.pictureBox44.Click += new System.EventHandler(this.pictureBox44_Click);
             // 
             // textBox87
             // 
@@ -2814,6 +2480,7 @@
             this.pictureBox45.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox45.TabIndex = 81;
             this.pictureBox45.TabStop = false;
+            this.pictureBox45.Click += new System.EventHandler(this.pictureBox45_Click);
             // 
             // textBox89
             // 
@@ -2857,6 +2524,7 @@
             this.pictureBox46.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
             this.pictureBox46.TabIndex = 84;
             this.pictureBox46.TabStop = false;
+            this.pictureBox46.Click += new System.EventHandler(this.pictureBox46_Click);
             // 
             // textBox91
             // 
@@ -2881,6 +2549,1145 @@
             this.textBox92.Size = new System.Drawing.Size(129, 13);
             this.textBox92.TabIndex = 85;
             this.textBox92.Text = "POLITURA GLOSS";
+            // 
+            // panel108
+            // 
+            this.panel108.Controls.Add(this.pictureBox108);
+            this.panel108.Controls.Add(this.textBox215);
+            this.panel108.Controls.Add(this.textBox216);
+            this.panel108.Location = new System.Drawing.Point(3, 931);
+            this.panel108.Name = "panel108";
+            this.panel108.Size = new System.Drawing.Size(332, 110);
+            this.panel108.TabIndex = 87;
+            // 
+            // pictureBox108
+            // 
+            this.pictureBox108.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox108.Name = "pictureBox108";
+            this.pictureBox108.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox108.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox108.TabIndex = 84;
+            this.pictureBox108.TabStop = false;
+            this.pictureBox108.Click += new System.EventHandler(this.pictureBox108_Click);
+            // 
+            // textBox215
+            // 
+            this.textBox215.BackColor = System.Drawing.Color.White;
+            this.textBox215.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox215.Location = new System.Drawing.Point(115, 24);
+            this.textBox215.Multiline = true;
+            this.textBox215.Name = "textBox215";
+            this.textBox215.ReadOnly = true;
+            this.textBox215.Size = new System.Drawing.Size(159, 81);
+            this.textBox215.TabIndex = 86;
+            this.textBox215.Text = "Очиститель - кондиционер для кожи";
+            // 
+            // textBox216
+            // 
+            this.textBox216.BackColor = System.Drawing.Color.White;
+            this.textBox216.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox216.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox216.Location = new System.Drawing.Point(115, 5);
+            this.textBox216.Name = "textBox216";
+            this.textBox216.ReadOnly = true;
+            this.textBox216.Size = new System.Drawing.Size(129, 13);
+            this.textBox216.TabIndex = 85;
+            this.textBox216.Text = "PROPELLA";
+            // 
+            // tabPage2
+            // 
+            this.tabPage2.AutoScroll = true;
+            this.tabPage2.Controls.Add(this.tableLayoutPanel1);
+            this.tabPage2.Location = new System.Drawing.Point(4, 22);
+            this.tabPage2.Name = "tabPage2";
+            this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
+            this.tabPage2.Size = new System.Drawing.Size(1049, 609);
+            this.tabPage2.TabIndex = 1;
+            this.tabPage2.Text = "АПК";
+            this.tabPage2.UseVisualStyleBackColor = true;
+            // 
+            // tableLayoutPanel1
+            // 
+            this.tableLayoutPanel1.AutoScroll = true;
+            this.tableLayoutPanel1.ColumnCount = 3;
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 338F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 338F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 367F));
+            this.tableLayoutPanel1.Controls.Add(this.panel14, 1, 4);
+            this.tableLayoutPanel1.Controls.Add(this.panel13, 0, 4);
+            this.tableLayoutPanel1.Controls.Add(this.panel8, 1, 2);
+            this.tableLayoutPanel1.Controls.Add(this.panel7, 0, 2);
+            this.tableLayoutPanel1.Controls.Add(this.panel1, 0, 0);
+            this.tableLayoutPanel1.Controls.Add(this.panel2, 1, 0);
+            this.tableLayoutPanel1.Controls.Add(this.panel3, 2, 0);
+            this.tableLayoutPanel1.Controls.Add(this.panel4, 0, 1);
+            this.tableLayoutPanel1.Controls.Add(this.panel5, 1, 1);
+            this.tableLayoutPanel1.Controls.Add(this.panel6, 2, 1);
+            this.tableLayoutPanel1.Controls.Add(this.panel9, 2, 2);
+            this.tableLayoutPanel1.Controls.Add(this.panel10, 0, 3);
+            this.tableLayoutPanel1.Controls.Add(this.panel11, 1, 3);
+            this.tableLayoutPanel1.Controls.Add(this.panel12, 2, 3);
+            this.tableLayoutPanel1.Controls.Add(this.panel15, 2, 4);
+            this.tableLayoutPanel1.Controls.Add(this.panel16, 0, 5);
+            this.tableLayoutPanel1.Controls.Add(this.panel17, 1, 5);
+            this.tableLayoutPanel1.Controls.Add(this.panel18, 2, 5);
+            this.tableLayoutPanel1.Controls.Add(this.panel19, 0, 6);
+            this.tableLayoutPanel1.Controls.Add(this.panel20, 1, 6);
+            this.tableLayoutPanel1.Controls.Add(this.panel21, 2, 6);
+            this.tableLayoutPanel1.Controls.Add(this.panel22, 0, 7);
+            this.tableLayoutPanel1.Controls.Add(this.panel23, 1, 7);
+            this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.tableLayoutPanel1.Location = new System.Drawing.Point(3, 3);
+            this.tableLayoutPanel1.Name = "tableLayoutPanel1";
+            this.tableLayoutPanel1.RowCount = 8;
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1043, 603);
+            this.tableLayoutPanel1.TabIndex = 87;
+            // 
+            // panel14
+            // 
+            this.panel14.Controls.Add(this.pictureBox27);
+            this.panel14.Controls.Add(this.textBox34);
+            this.panel14.Controls.Add(this.textBox33);
+            this.panel14.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel14.Location = new System.Drawing.Point(341, 467);
+            this.panel14.Name = "panel14";
+            this.panel14.Size = new System.Drawing.Size(332, 110);
+            this.panel14.TabIndex = 13;
+            // 
+            // pictureBox27
+            // 
+            this.pictureBox27.Location = new System.Drawing.Point(3, 0);
+            this.pictureBox27.Name = "pictureBox27";
+            this.pictureBox27.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox27.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox27.TabIndex = 57;
+            this.pictureBox27.TabStop = false;
+            this.pictureBox27.Click += new System.EventHandler(this.pictureBox27_Click);
+            // 
+            // textBox34
+            // 
+            this.textBox34.BackColor = System.Drawing.Color.White;
+            this.textBox34.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox34.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox34.Location = new System.Drawing.Point(112, 0);
+            this.textBox34.Name = "textBox34";
+            this.textBox34.ReadOnly = true;
+            this.textBox34.Size = new System.Drawing.Size(100, 13);
+            this.textBox34.TabIndex = 58;
+            this.textBox34.Text = "FORBICID";
+            // 
+            // textBox33
+            // 
+            this.textBox33.BackColor = System.Drawing.Color.White;
+            this.textBox33.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox33.Location = new System.Drawing.Point(112, 19);
+            this.textBox33.Multiline = true;
+            this.textBox33.Name = "textBox33";
+            this.textBox33.ReadOnly = true;
+            this.textBox33.Size = new System.Drawing.Size(159, 81);
+            this.textBox33.TabIndex = 59;
+            this.textBox33.Text = "Дезинфицирующее средство для объектов ветеринароного надзора и  профилактики инфе" +
+    "кционных болезней животных";
+            // 
+            // panel13
+            // 
+            this.panel13.Controls.Add(this.pictureBox28);
+            this.panel13.Controls.Add(this.textBox36);
+            this.panel13.Controls.Add(this.textBox35);
+            this.panel13.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel13.Location = new System.Drawing.Point(3, 467);
+            this.panel13.Name = "panel13";
+            this.panel13.Size = new System.Drawing.Size(332, 110);
+            this.panel13.TabIndex = 12;
+            // 
+            // pictureBox28
+            // 
+            this.pictureBox28.Location = new System.Drawing.Point(3, 0);
+            this.pictureBox28.Name = "pictureBox28";
+            this.pictureBox28.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox28.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox28.TabIndex = 54;
+            this.pictureBox28.TabStop = false;
+            this.pictureBox28.Click += new System.EventHandler(this.pictureBox28_Click);
+            // 
+            // textBox36
+            // 
+            this.textBox36.BackColor = System.Drawing.Color.White;
+            this.textBox36.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox36.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox36.Location = new System.Drawing.Point(112, 0);
+            this.textBox36.Name = "textBox36";
+            this.textBox36.ReadOnly = true;
+            this.textBox36.Size = new System.Drawing.Size(100, 13);
+            this.textBox36.TabIndex = 55;
+            this.textBox36.Text = "FITOLIT";
+            // 
+            // textBox35
+            // 
+            this.textBox35.BackColor = System.Drawing.Color.White;
+            this.textBox35.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox35.Location = new System.Drawing.Point(112, 19);
+            this.textBox35.Multiline = true;
+            this.textBox35.Name = "textBox35";
+            this.textBox35.ReadOnly = true;
+            this.textBox35.Size = new System.Drawing.Size(159, 81);
+            this.textBox35.TabIndex = 56;
+            this.textBox35.Text = "Средство для обработки вымени до доения с экстрактом алоэ вера";
+            // 
+            // panel8
+            // 
+            this.panel8.Controls.Add(this.pictureBox17);
+            this.panel8.Controls.Add(this.textBox14);
+            this.panel8.Controls.Add(this.textBox13);
+            this.panel8.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel8.Location = new System.Drawing.Point(341, 235);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(332, 110);
+            this.panel8.TabIndex = 7;
+            // 
+            // pictureBox17
+            // 
+            this.pictureBox17.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox17.Name = "pictureBox17";
+            this.pictureBox17.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox17.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox17.TabIndex = 39;
+            this.pictureBox17.TabStop = false;
+            this.pictureBox17.Click += new System.EventHandler(this.pictureBox17_Click);
+            // 
+            // textBox14
+            // 
+            this.textBox14.BackColor = System.Drawing.Color.White;
+            this.textBox14.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox14.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox14.Location = new System.Drawing.Point(112, 3);
+            this.textBox14.Name = "textBox14";
+            this.textBox14.ReadOnly = true;
+            this.textBox14.Size = new System.Drawing.Size(100, 13);
+            this.textBox14.TabIndex = 40;
+            this.textBox14.Text = "BIOTEC SUPER";
+            // 
+            // textBox13
+            // 
+            this.textBox13.BackColor = System.Drawing.Color.White;
+            this.textBox13.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox13.Location = new System.Drawing.Point(112, 22);
+            this.textBox13.Multiline = true;
+            this.textBox13.Name = "textBox13";
+            this.textBox13.ReadOnly = true;
+            this.textBox13.Size = new System.Drawing.Size(159, 81);
+            this.textBox13.TabIndex = 41;
+            this.textBox13.Text = "Щелочное беспенное дезинфицирующее моющее средство для воды любой жесткости";
+            // 
+            // panel7
+            // 
+            this.panel7.Controls.Add(this.pictureBox18);
+            this.panel7.Controls.Add(this.textBox16);
+            this.panel7.Controls.Add(this.textBox15);
+            this.panel7.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel7.Location = new System.Drawing.Point(3, 235);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(332, 110);
+            this.panel7.TabIndex = 6;
+            // 
+            // pictureBox18
+            // 
+            this.pictureBox18.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox18.Name = "pictureBox18";
+            this.pictureBox18.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox18.TabIndex = 36;
+            this.pictureBox18.TabStop = false;
+            this.pictureBox18.Click += new System.EventHandler(this.pictureBox18_Click);
+            // 
+            // textBox16
+            // 
+            this.textBox16.BackColor = System.Drawing.Color.White;
+            this.textBox16.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox16.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox16.Location = new System.Drawing.Point(112, 3);
+            this.textBox16.Name = "textBox16";
+            this.textBox16.ReadOnly = true;
+            this.textBox16.Size = new System.Drawing.Size(100, 13);
+            this.textBox16.TabIndex = 37;
+            this.textBox16.Text = "BIOTEC C";
+            // 
+            // textBox15
+            // 
+            this.textBox15.BackColor = System.Drawing.Color.White;
+            this.textBox15.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox15.Location = new System.Drawing.Point(112, 22);
+            this.textBox15.Multiline = true;
+            this.textBox15.Name = "textBox15";
+            this.textBox15.ReadOnly = true;
+            this.textBox15.Size = new System.Drawing.Size(159, 81);
+            this.textBox15.TabIndex = 38;
+            this.textBox15.Text = "Щелочное беспенное дезинфицирующее моющее средство для воды средней жесткости";
+            // 
+            // panel1
+            // 
+            this.panel1.Controls.Add(this.pictureBox10);
+            this.panel1.Controls.Add(this.textBox1);
+            this.panel1.Controls.Add(this.textBox3);
+            this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel1.Location = new System.Drawing.Point(3, 3);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(332, 110);
+            this.panel1.TabIndex = 0;
+            // 
+            // pictureBox10
+            // 
+            this.pictureBox10.Location = new System.Drawing.Point(3, 4);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(100, 93);
+            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox10.TabIndex = 6;
+            this.pictureBox10.TabStop = false;
+            this.pictureBox10.Click += new System.EventHandler(this.pictureBox10_Click);
+            // 
+            // textBox1
+            // 
+            this.textBox1.BackColor = System.Drawing.Color.White;
+            this.textBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox1.Location = new System.Drawing.Point(112, 4);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.ReadOnly = true;
+            this.textBox1.Size = new System.Drawing.Size(100, 13);
+            this.textBox1.TabIndex = 18;
+            this.textBox1.Text = "ALGALIT";
+            // 
+            // textBox3
+            // 
+            this.textBox3.BackColor = System.Drawing.Color.White;
+            this.textBox3.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox3.Location = new System.Drawing.Point(112, 23);
+            this.textBox3.Multiline = true;
+            this.textBox3.Name = "textBox3";
+            this.textBox3.ReadOnly = true;
+            this.textBox3.Size = new System.Drawing.Size(159, 56);
+            this.textBox3.TabIndex = 20;
+            this.textBox3.Text = "Средство для обработки вымени до доения на основе йода 0,25% готовый раствор";
+            // 
+            // panel2
+            // 
+            this.panel2.Controls.Add(this.pictureBox16);
+            this.panel2.Controls.Add(this.textBox4);
+            this.panel2.Controls.Add(this.textBox2);
+            this.panel2.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel2.Location = new System.Drawing.Point(341, 3);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(332, 110);
+            this.panel2.TabIndex = 1;
+            // 
+            // pictureBox16
+            // 
+            this.pictureBox16.Location = new System.Drawing.Point(3, 4);
+            this.pictureBox16.Name = "pictureBox16";
+            this.pictureBox16.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox16.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox16.TabIndex = 21;
+            this.pictureBox16.TabStop = false;
+            this.pictureBox16.Click += new System.EventHandler(this.pictureBox16_Click);
+            // 
+            // textBox4
+            // 
+            this.textBox4.BackColor = System.Drawing.Color.White;
+            this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox4.Location = new System.Drawing.Point(112, 4);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.ReadOnly = true;
+            this.textBox4.Size = new System.Drawing.Size(100, 13);
+            this.textBox4.TabIndex = 22;
+            this.textBox4.Text = "ALGALIT 50";
+            // 
+            // textBox2
+            // 
+            this.textBox2.BackColor = System.Drawing.Color.White;
+            this.textBox2.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox2.Location = new System.Drawing.Point(112, 23);
+            this.textBox2.Multiline = true;
+            this.textBox2.Name = "textBox2";
+            this.textBox2.ReadOnly = true;
+            this.textBox2.Size = new System.Drawing.Size(159, 81);
+            this.textBox2.TabIndex = 23;
+            this.textBox2.Text = "Средство для обработки вымени до доения на основе йода 0,5%";
+            // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.pictureBox7);
+            this.panel3.Controls.Add(this.textBox8);
+            this.panel3.Controls.Add(this.textBox7);
+            this.panel3.Location = new System.Drawing.Point(679, 3);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(344, 110);
+            this.panel3.TabIndex = 2;
+            // 
+            // pictureBox7
+            // 
+            this.pictureBox7.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox7.Name = "pictureBox7";
+            this.pictureBox7.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox7.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox7.TabIndex = 24;
+            this.pictureBox7.TabStop = false;
+            this.pictureBox7.Click += new System.EventHandler(this.pictureBox7_Click);
+            // 
+            // textBox8
+            // 
+            this.textBox8.BackColor = System.Drawing.Color.White;
+            this.textBox8.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox8.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox8.Location = new System.Drawing.Point(112, 3);
+            this.textBox8.Name = "textBox8";
+            this.textBox8.ReadOnly = true;
+            this.textBox8.Size = new System.Drawing.Size(100, 13);
+            this.textBox8.TabIndex = 25;
+            this.textBox8.Text = "ALGAVIT 25";
+            // 
+            // textBox7
+            // 
+            this.textBox7.BackColor = System.Drawing.Color.White;
+            this.textBox7.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox7.Location = new System.Drawing.Point(112, 22);
+            this.textBox7.Multiline = true;
+            this.textBox7.Name = "textBox7";
+            this.textBox7.ReadOnly = true;
+            this.textBox7.Size = new System.Drawing.Size(159, 81);
+            this.textBox7.TabIndex = 26;
+            this.textBox7.Text = "Средство для обработки вымени после доения на основе йода 0,25%";
+            // 
+            // panel4
+            // 
+            this.panel4.Controls.Add(this.pictureBox6);
+            this.panel4.Controls.Add(this.textBox6);
+            this.panel4.Controls.Add(this.textBox5);
+            this.panel4.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel4.Location = new System.Drawing.Point(3, 119);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(332, 110);
+            this.panel4.TabIndex = 3;
+            // 
+            // pictureBox6
+            // 
+            this.pictureBox6.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox6.Name = "pictureBox6";
+            this.pictureBox6.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox6.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox6.TabIndex = 27;
+            this.pictureBox6.TabStop = false;
+            this.pictureBox6.Click += new System.EventHandler(this.pictureBox6_Click);
+            // 
+            // textBox6
+            // 
+            this.textBox6.BackColor = System.Drawing.Color.White;
+            this.textBox6.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox6.Location = new System.Drawing.Point(112, 3);
+            this.textBox6.Name = "textBox6";
+            this.textBox6.ReadOnly = true;
+            this.textBox6.Size = new System.Drawing.Size(100, 13);
+            this.textBox6.TabIndex = 28;
+            this.textBox6.Text = "ALGAVIT 50";
+            // 
+            // textBox5
+            // 
+            this.textBox5.BackColor = System.Drawing.Color.White;
+            this.textBox5.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox5.Location = new System.Drawing.Point(112, 22);
+            this.textBox5.Multiline = true;
+            this.textBox5.Name = "textBox5";
+            this.textBox5.ReadOnly = true;
+            this.textBox5.Size = new System.Drawing.Size(159, 81);
+            this.textBox5.TabIndex = 29;
+            this.textBox5.Text = "Средство для обработки вымени после доения на основе йода 0,5%";
+            // 
+            // panel5
+            // 
+            this.panel5.Controls.Add(this.pictureBox9);
+            this.panel5.Controls.Add(this.textBox12);
+            this.panel5.Controls.Add(this.textBox11);
+            this.panel5.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel5.Location = new System.Drawing.Point(341, 119);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(332, 110);
+            this.panel5.TabIndex = 4;
+            // 
+            // pictureBox9
+            // 
+            this.pictureBox9.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox9.Name = "pictureBox9";
+            this.pictureBox9.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox9.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox9.TabIndex = 30;
+            this.pictureBox9.TabStop = false;
+            this.pictureBox9.Click += new System.EventHandler(this.pictureBox9_Click);
+            // 
+            // textBox12
+            // 
+            this.textBox12.BackColor = System.Drawing.Color.White;
+            this.textBox12.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox12.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox12.Location = new System.Drawing.Point(112, 3);
+            this.textBox12.Name = "textBox12";
+            this.textBox12.ReadOnly = true;
+            this.textBox12.Size = new System.Drawing.Size(100, 13);
+            this.textBox12.TabIndex = 31;
+            this.textBox12.Text = "BIOTEC";
+            // 
+            // textBox11
+            // 
+            this.textBox11.BackColor = System.Drawing.Color.White;
+            this.textBox11.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox11.Location = new System.Drawing.Point(112, 22);
+            this.textBox11.Multiline = true;
+            this.textBox11.Name = "textBox11";
+            this.textBox11.ReadOnly = true;
+            this.textBox11.Size = new System.Drawing.Size(159, 81);
+            this.textBox11.TabIndex = 32;
+            this.textBox11.Text = "Щелочное беспенное дезинфицирующее моющее средство для воды повышенной жесткости";
+            // 
+            // panel6
+            // 
+            this.panel6.Controls.Add(this.pictureBox8);
+            this.panel6.Controls.Add(this.textBox10);
+            this.panel6.Controls.Add(this.textBox9);
+            this.panel6.Location = new System.Drawing.Point(679, 119);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(344, 110);
+            this.panel6.TabIndex = 5;
+            // 
+            // pictureBox8
+            // 
+            this.pictureBox8.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox8.Name = "pictureBox8";
+            this.pictureBox8.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox8.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox8.TabIndex = 33;
+            this.pictureBox8.TabStop = false;
+            this.pictureBox8.Click += new System.EventHandler(this.pictureBox8_Click);
+            // 
+            // textBox10
+            // 
+            this.textBox10.BackColor = System.Drawing.Color.White;
+            this.textBox10.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox10.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox10.Location = new System.Drawing.Point(112, 3);
+            this.textBox10.Name = "textBox10";
+            this.textBox10.ReadOnly = true;
+            this.textBox10.Size = new System.Drawing.Size(100, 13);
+            this.textBox10.TabIndex = 34;
+            this.textBox10.Text = "BIOTEC M";
+            // 
+            // textBox9
+            // 
+            this.textBox9.BackColor = System.Drawing.Color.White;
+            this.textBox9.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox9.Location = new System.Drawing.Point(112, 22);
+            this.textBox9.Multiline = true;
+            this.textBox9.Name = "textBox9";
+            this.textBox9.ReadOnly = true;
+            this.textBox9.Size = new System.Drawing.Size(159, 81);
+            this.textBox9.TabIndex = 35;
+            this.textBox9.Text = "Щелочное беспенное дезинфицирующее моющее средство для воды мягкой и средней жест" +
+    "кости";
+            // 
+            // panel9
+            // 
+            this.panel9.Controls.Add(this.pictureBox20);
+            this.panel9.Controls.Add(this.textBox20);
+            this.panel9.Controls.Add(this.textBox19);
+            this.panel9.Location = new System.Drawing.Point(679, 235);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(344, 110);
+            this.panel9.TabIndex = 8;
+            // 
+            // pictureBox20
+            // 
+            this.pictureBox20.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox20.Name = "pictureBox20";
+            this.pictureBox20.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox20.TabIndex = 42;
+            this.pictureBox20.TabStop = false;
+            this.pictureBox20.Click += new System.EventHandler(this.pictureBox20_Click);
+            // 
+            // textBox20
+            // 
+            this.textBox20.BackColor = System.Drawing.Color.White;
+            this.textBox20.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox20.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox20.Location = new System.Drawing.Point(112, 3);
+            this.textBox20.Name = "textBox20";
+            this.textBox20.ReadOnly = true;
+            this.textBox20.Size = new System.Drawing.Size(100, 13);
+            this.textBox20.TabIndex = 43;
+            this.textBox20.Text = "DESIMIX";
+            // 
+            // textBox19
+            // 
+            this.textBox19.BackColor = System.Drawing.Color.White;
+            this.textBox19.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox19.Location = new System.Drawing.Point(112, 22);
+            this.textBox19.Multiline = true;
+            this.textBox19.Name = "textBox19";
+            this.textBox19.ReadOnly = true;
+            this.textBox19.Size = new System.Drawing.Size(159, 81);
+            this.textBox19.TabIndex = 44;
+            this.textBox19.Text = "Добавка к медному и цинковому купоросу для копытных ванн";
+            // 
+            // panel10
+            // 
+            this.panel10.Controls.Add(this.pictureBox19);
+            this.panel10.Controls.Add(this.textBox18);
+            this.panel10.Controls.Add(this.textBox17);
+            this.panel10.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel10.Location = new System.Drawing.Point(3, 351);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(332, 110);
+            this.panel10.TabIndex = 9;
+            // 
+            // pictureBox19
+            // 
+            this.pictureBox19.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox19.Name = "pictureBox19";
+            this.pictureBox19.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox19.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox19.TabIndex = 45;
+            this.pictureBox19.TabStop = false;
+            this.pictureBox19.Click += new System.EventHandler(this.pictureBox19_Click);
+            // 
+            // textBox18
+            // 
+            this.textBox18.BackColor = System.Drawing.Color.White;
+            this.textBox18.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox18.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox18.Location = new System.Drawing.Point(112, 3);
+            this.textBox18.Name = "textBox18";
+            this.textBox18.ReadOnly = true;
+            this.textBox18.Size = new System.Drawing.Size(100, 13);
+            this.textBox18.TabIndex = 46;
+            this.textBox18.Text = "DESITUB";
+            // 
+            // textBox17
+            // 
+            this.textBox17.BackColor = System.Drawing.Color.White;
+            this.textBox17.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox17.Location = new System.Drawing.Point(112, 22);
+            this.textBox17.Multiline = true;
+            this.textBox17.Name = "textBox17";
+            this.textBox17.ReadOnly = true;
+            this.textBox17.Size = new System.Drawing.Size(159, 81);
+            this.textBox17.TabIndex = 47;
+            this.textBox17.Text = "Моющее и дезинфицирующее средство для копыт";
+            // 
+            // panel11
+            // 
+            this.panel11.Controls.Add(this.pictureBox30);
+            this.panel11.Controls.Add(this.textBox40);
+            this.panel11.Controls.Add(this.textBox39);
+            this.panel11.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel11.Location = new System.Drawing.Point(341, 351);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(332, 110);
+            this.panel11.TabIndex = 10;
+            // 
+            // pictureBox30
+            // 
+            this.pictureBox30.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox30.Name = "pictureBox30";
+            this.pictureBox30.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox30.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox30.TabIndex = 48;
+            this.pictureBox30.TabStop = false;
+            this.pictureBox30.Click += new System.EventHandler(this.pictureBox30_Click);
+            // 
+            // textBox40
+            // 
+            this.textBox40.BackColor = System.Drawing.Color.White;
+            this.textBox40.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox40.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox40.Location = new System.Drawing.Point(112, 3);
+            this.textBox40.Name = "textBox40";
+            this.textBox40.ReadOnly = true;
+            this.textBox40.Size = new System.Drawing.Size(100, 13);
+            this.textBox40.TabIndex = 49;
+            this.textBox40.Text = "ECOVIT";
+            // 
+            // textBox39
+            // 
+            this.textBox39.BackColor = System.Drawing.Color.White;
+            this.textBox39.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox39.Location = new System.Drawing.Point(112, 22);
+            this.textBox39.Multiline = true;
+            this.textBox39.Name = "textBox39";
+            this.textBox39.ReadOnly = true;
+            this.textBox39.Size = new System.Drawing.Size(159, 81);
+            this.textBox39.TabIndex = 50;
+            this.textBox39.Text = "Средство для обработки вымени после доения с экстратом ромашки";
+            // 
+            // panel12
+            // 
+            this.panel12.Controls.Add(this.pictureBox29);
+            this.panel12.Controls.Add(this.textBox38);
+            this.panel12.Controls.Add(this.textBox37);
+            this.panel12.Location = new System.Drawing.Point(679, 351);
+            this.panel12.Name = "panel12";
+            this.panel12.Size = new System.Drawing.Size(344, 110);
+            this.panel12.TabIndex = 11;
+            // 
+            // pictureBox29
+            // 
+            this.pictureBox29.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox29.Name = "pictureBox29";
+            this.pictureBox29.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox29.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox29.TabIndex = 51;
+            this.pictureBox29.TabStop = false;
+            this.pictureBox29.Click += new System.EventHandler(this.pictureBox29_Click);
+            // 
+            // textBox38
+            // 
+            this.textBox38.BackColor = System.Drawing.Color.White;
+            this.textBox38.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox38.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox38.Location = new System.Drawing.Point(112, 3);
+            this.textBox38.Name = "textBox38";
+            this.textBox38.ReadOnly = true;
+            this.textBox38.Size = new System.Drawing.Size(100, 13);
+            this.textBox38.TabIndex = 52;
+            this.textBox38.Text = "ELOVIT";
+            // 
+            // textBox37
+            // 
+            this.textBox37.BackColor = System.Drawing.Color.White;
+            this.textBox37.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox37.Location = new System.Drawing.Point(112, 22);
+            this.textBox37.Multiline = true;
+            this.textBox37.Name = "textBox37";
+            this.textBox37.ReadOnly = true;
+            this.textBox37.Size = new System.Drawing.Size(159, 81);
+            this.textBox37.TabIndex = 53;
+            this.textBox37.Text = "Средство для обработки вымени после доения на основе хлоргексидина 0,25%";
+            // 
+            // panel15
+            // 
+            this.panel15.Controls.Add(this.pictureBox26);
+            this.panel15.Controls.Add(this.textBox32);
+            this.panel15.Controls.Add(this.textBox31);
+            this.panel15.Location = new System.Drawing.Point(679, 467);
+            this.panel15.Name = "panel15";
+            this.panel15.Size = new System.Drawing.Size(344, 110);
+            this.panel15.TabIndex = 14;
+            // 
+            // pictureBox26
+            // 
+            this.pictureBox26.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox26.Name = "pictureBox26";
+            this.pictureBox26.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox26.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox26.TabIndex = 60;
+            this.pictureBox26.TabStop = false;
+            this.pictureBox26.Click += new System.EventHandler(this.pictureBox26_Click);
+            // 
+            // textBox32
+            // 
+            this.textBox32.BackColor = System.Drawing.Color.White;
+            this.textBox32.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox32.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox32.Location = new System.Drawing.Point(112, 3);
+            this.textBox32.Name = "textBox32";
+            this.textBox32.ReadOnly = true;
+            this.textBox32.Size = new System.Drawing.Size(100, 13);
+            this.textBox32.TabIndex = 61;
+            this.textBox32.Text = "KLIOVIT";
+            // 
+            // textBox31
+            // 
+            this.textBox31.BackColor = System.Drawing.Color.White;
+            this.textBox31.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox31.Location = new System.Drawing.Point(112, 22);
+            this.textBox31.Multiline = true;
+            this.textBox31.Name = "textBox31";
+            this.textBox31.ReadOnly = true;
+            this.textBox31.Size = new System.Drawing.Size(159, 81);
+            this.textBox31.TabIndex = 62;
+            this.textBox31.Text = "Средство для обработки вымени после доения на основе хлоргексидина 0,5%";
+            // 
+            // panel16
+            // 
+            this.panel16.Controls.Add(this.pictureBox25);
+            this.panel16.Controls.Add(this.textBox30);
+            this.panel16.Controls.Add(this.textBox29);
+            this.panel16.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel16.Location = new System.Drawing.Point(3, 583);
+            this.panel16.Name = "panel16";
+            this.panel16.Size = new System.Drawing.Size(332, 110);
+            this.panel16.TabIndex = 15;
+            // 
+            // pictureBox25
+            // 
+            this.pictureBox25.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox25.Name = "pictureBox25";
+            this.pictureBox25.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox25.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox25.TabIndex = 63;
+            this.pictureBox25.TabStop = false;
+            this.pictureBox25.Click += new System.EventHandler(this.pictureBox25_Click);
+            // 
+            // textBox30
+            // 
+            this.textBox30.BackColor = System.Drawing.Color.White;
+            this.textBox30.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox30.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox30.Location = new System.Drawing.Point(112, 3);
+            this.textBox30.Name = "textBox30";
+            this.textBox30.ReadOnly = true;
+            this.textBox30.Size = new System.Drawing.Size(100, 13);
+            this.textBox30.TabIndex = 64;
+            this.textBox30.Text = "KSILAN";
+            // 
+            // textBox29
+            // 
+            this.textBox29.BackColor = System.Drawing.Color.White;
+            this.textBox29.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox29.Location = new System.Drawing.Point(112, 22);
+            this.textBox29.Multiline = true;
+            this.textBox29.Name = "textBox29";
+            this.textBox29.ReadOnly = true;
+            this.textBox29.Size = new System.Drawing.Size(159, 81);
+            this.textBox29.TabIndex = 65;
+            this.textBox29.Text = "Кислотное моющее средство для воды повышенной жесткости";
+            // 
+            // panel17
+            // 
+            this.panel17.Controls.Add(this.pictureBox24);
+            this.panel17.Controls.Add(this.textBox28);
+            this.panel17.Controls.Add(this.textBox27);
+            this.panel17.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel17.Location = new System.Drawing.Point(341, 583);
+            this.panel17.Name = "panel17";
+            this.panel17.Size = new System.Drawing.Size(332, 110);
+            this.panel17.TabIndex = 16;
+            // 
+            // pictureBox24
+            // 
+            this.pictureBox24.Location = new System.Drawing.Point(3, 4);
+            this.pictureBox24.Name = "pictureBox24";
+            this.pictureBox24.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox24.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox24.TabIndex = 66;
+            this.pictureBox24.TabStop = false;
+            this.pictureBox24.Click += new System.EventHandler(this.pictureBox24_Click);
+            // 
+            // textBox28
+            // 
+            this.textBox28.BackColor = System.Drawing.Color.White;
+            this.textBox28.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox28.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox28.Location = new System.Drawing.Point(112, 4);
+            this.textBox28.Name = "textBox28";
+            this.textBox28.ReadOnly = true;
+            this.textBox28.Size = new System.Drawing.Size(100, 13);
+            this.textBox28.TabIndex = 67;
+            this.textBox28.Text = "KSILAN K";
+            // 
+            // textBox27
+            // 
+            this.textBox27.BackColor = System.Drawing.Color.White;
+            this.textBox27.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox27.Location = new System.Drawing.Point(112, 23);
+            this.textBox27.Multiline = true;
+            this.textBox27.Name = "textBox27";
+            this.textBox27.ReadOnly = true;
+            this.textBox27.Size = new System.Drawing.Size(159, 81);
+            this.textBox27.TabIndex = 68;
+            this.textBox27.Text = "Кислотное моющее средство для воды средней жесткости";
+            // 
+            // panel18
+            // 
+            this.panel18.Controls.Add(this.pictureBox23);
+            this.panel18.Controls.Add(this.textBox26);
+            this.panel18.Controls.Add(this.textBox25);
+            this.panel18.Location = new System.Drawing.Point(679, 583);
+            this.panel18.Name = "panel18";
+            this.panel18.Size = new System.Drawing.Size(344, 110);
+            this.panel18.TabIndex = 17;
+            // 
+            // pictureBox23
+            // 
+            this.pictureBox23.Location = new System.Drawing.Point(3, 4);
+            this.pictureBox23.Name = "pictureBox23";
+            this.pictureBox23.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox23.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox23.TabIndex = 69;
+            this.pictureBox23.TabStop = false;
+            this.pictureBox23.Click += new System.EventHandler(this.pictureBox23_Click);
+            // 
+            // textBox26
+            // 
+            this.textBox26.BackColor = System.Drawing.Color.White;
+            this.textBox26.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox26.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox26.Location = new System.Drawing.Point(112, 4);
+            this.textBox26.Name = "textBox26";
+            this.textBox26.ReadOnly = true;
+            this.textBox26.Size = new System.Drawing.Size(100, 13);
+            this.textBox26.TabIndex = 70;
+            this.textBox26.Text = "KSILAN M";
+            // 
+            // textBox25
+            // 
+            this.textBox25.BackColor = System.Drawing.Color.White;
+            this.textBox25.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox25.Location = new System.Drawing.Point(112, 23);
+            this.textBox25.Multiline = true;
+            this.textBox25.Name = "textBox25";
+            this.textBox25.ReadOnly = true;
+            this.textBox25.Size = new System.Drawing.Size(159, 81);
+            this.textBox25.TabIndex = 71;
+            this.textBox25.Text = "Кислотное моющее средство для воды мягкой и средней жесткости";
+            // 
+            // panel19
+            // 
+            this.panel19.Controls.Add(this.pictureBox22);
+            this.panel19.Controls.Add(this.textBox24);
+            this.panel19.Controls.Add(this.textBox23);
+            this.panel19.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel19.Location = new System.Drawing.Point(3, 699);
+            this.panel19.Name = "panel19";
+            this.panel19.Size = new System.Drawing.Size(332, 110);
+            this.panel19.TabIndex = 18;
+            // 
+            // pictureBox22
+            // 
+            this.pictureBox22.Location = new System.Drawing.Point(3, 4);
+            this.pictureBox22.Name = "pictureBox22";
+            this.pictureBox22.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox22.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox22.TabIndex = 72;
+            this.pictureBox22.TabStop = false;
+            this.pictureBox22.Click += new System.EventHandler(this.pictureBox22_Click);
+            // 
+            // textBox24
+            // 
+            this.textBox24.BackColor = System.Drawing.Color.White;
+            this.textBox24.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox24.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox24.Location = new System.Drawing.Point(112, 4);
+            this.textBox24.Name = "textBox24";
+            this.textBox24.ReadOnly = true;
+            this.textBox24.Size = new System.Drawing.Size(100, 13);
+            this.textBox24.TabIndex = 73;
+            this.textBox24.Text = "KSILAN SUPER";
+            // 
+            // textBox23
+            // 
+            this.textBox23.BackColor = System.Drawing.Color.White;
+            this.textBox23.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox23.Location = new System.Drawing.Point(112, 23);
+            this.textBox23.Multiline = true;
+            this.textBox23.Name = "textBox23";
+            this.textBox23.ReadOnly = true;
+            this.textBox23.Size = new System.Drawing.Size(159, 81);
+            this.textBox23.TabIndex = 74;
+            this.textBox23.Text = "Кислотное моющее средство для воды любой жесткости";
+            // 
+            // panel20
+            // 
+            this.panel20.Controls.Add(this.pictureBox21);
+            this.panel20.Controls.Add(this.textBox22);
+            this.panel20.Controls.Add(this.textBox21);
+            this.panel20.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel20.Location = new System.Drawing.Point(341, 699);
+            this.panel20.Name = "panel20";
+            this.panel20.Size = new System.Drawing.Size(332, 110);
+            this.panel20.TabIndex = 19;
+            // 
+            // pictureBox21
+            // 
+            this.pictureBox21.Location = new System.Drawing.Point(3, 4);
+            this.pictureBox21.Name = "pictureBox21";
+            this.pictureBox21.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox21.TabIndex = 75;
+            this.pictureBox21.TabStop = false;
+            this.pictureBox21.Click += new System.EventHandler(this.pictureBox21_Click);
+            // 
+            // textBox22
+            // 
+            this.textBox22.BackColor = System.Drawing.Color.White;
+            this.textBox22.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox22.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox22.Location = new System.Drawing.Point(112, 4);
+            this.textBox22.Name = "textBox22";
+            this.textBox22.ReadOnly = true;
+            this.textBox22.Size = new System.Drawing.Size(100, 13);
+            this.textBox22.TabIndex = 76;
+            this.textBox22.Text = "LACTOVIT";
+            // 
+            // textBox21
+            // 
+            this.textBox21.BackColor = System.Drawing.Color.White;
+            this.textBox21.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox21.Location = new System.Drawing.Point(112, 23);
+            this.textBox21.Multiline = true;
+            this.textBox21.Name = "textBox21";
+            this.textBox21.ReadOnly = true;
+            this.textBox21.Size = new System.Drawing.Size(159, 81);
+            this.textBox21.TabIndex = 77;
+            this.textBox21.Text = "Средство для обработки вымени после доения на основе молочной кислоты";
+            // 
+            // panel21
+            // 
+            this.panel21.Controls.Add(this.pictureBox34);
+            this.panel21.Controls.Add(this.textBox48);
+            this.panel21.Controls.Add(this.textBox47);
+            this.panel21.Location = new System.Drawing.Point(679, 699);
+            this.panel21.Name = "panel21";
+            this.panel21.Size = new System.Drawing.Size(344, 110);
+            this.panel21.TabIndex = 20;
+            // 
+            // pictureBox34
+            // 
+            this.pictureBox34.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox34.Name = "pictureBox34";
+            this.pictureBox34.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox34.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox34.TabIndex = 78;
+            this.pictureBox34.TabStop = false;
+            this.pictureBox34.Click += new System.EventHandler(this.pictureBox34_Click);
+            // 
+            // textBox48
+            // 
+            this.textBox48.BackColor = System.Drawing.Color.White;
+            this.textBox48.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox48.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox48.Location = new System.Drawing.Point(112, 3);
+            this.textBox48.Name = "textBox48";
+            this.textBox48.ReadOnly = true;
+            this.textBox48.Size = new System.Drawing.Size(100, 13);
+            this.textBox48.TabIndex = 79;
+            this.textBox48.Text = "PRIOLIT";
+            // 
+            // textBox47
+            // 
+            this.textBox47.BackColor = System.Drawing.Color.White;
+            this.textBox47.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox47.Location = new System.Drawing.Point(112, 22);
+            this.textBox47.Multiline = true;
+            this.textBox47.Name = "textBox47";
+            this.textBox47.ReadOnly = true;
+            this.textBox47.Size = new System.Drawing.Size(159, 81);
+            this.textBox47.TabIndex = 80;
+            this.textBox47.Text = "Средство для обработки вымени до доения на основе хлоргексидина";
+            // 
+            // panel22
+            // 
+            this.panel22.Controls.Add(this.pictureBox33);
+            this.panel22.Controls.Add(this.textBox46);
+            this.panel22.Controls.Add(this.textBox45);
+            this.panel22.Location = new System.Drawing.Point(3, 815);
+            this.panel22.Name = "panel22";
+            this.panel22.Size = new System.Drawing.Size(332, 110);
+            this.panel22.TabIndex = 21;
+            // 
+            // pictureBox33
+            // 
+            this.pictureBox33.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox33.Name = "pictureBox33";
+            this.pictureBox33.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox33.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox33.TabIndex = 81;
+            this.pictureBox33.TabStop = false;
+            this.pictureBox33.Click += new System.EventHandler(this.pictureBox33_Click);
+            // 
+            // textBox46
+            // 
+            this.textBox46.BackColor = System.Drawing.Color.White;
+            this.textBox46.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox46.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox46.Location = new System.Drawing.Point(112, 3);
+            this.textBox46.Name = "textBox46";
+            this.textBox46.ReadOnly = true;
+            this.textBox46.Size = new System.Drawing.Size(100, 13);
+            this.textBox46.TabIndex = 82;
+            this.textBox46.Text = "SOMATEST";
+            // 
+            // textBox45
+            // 
+            this.textBox45.BackColor = System.Drawing.Color.White;
+            this.textBox45.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox45.Location = new System.Drawing.Point(112, 22);
+            this.textBox45.Multiline = true;
+            this.textBox45.Name = "textBox45";
+            this.textBox45.ReadOnly = true;
+            this.textBox45.Size = new System.Drawing.Size(159, 81);
+            this.textBox45.TabIndex = 83;
+            this.textBox45.Text = "Экспресс-тест для определения содержания соматических клеток в сыром молоке";
+            // 
+            // panel23
+            // 
+            this.panel23.Controls.Add(this.pictureBox32);
+            this.panel23.Controls.Add(this.textBox43);
+            this.panel23.Controls.Add(this.textBox44);
+            this.panel23.Location = new System.Drawing.Point(341, 815);
+            this.panel23.Name = "panel23";
+            this.panel23.Size = new System.Drawing.Size(332, 110);
+            this.panel23.TabIndex = 22;
+            // 
+            // pictureBox32
+            // 
+            this.pictureBox32.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox32.Name = "pictureBox32";
+            this.pictureBox32.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox32.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox32.TabIndex = 84;
+            this.pictureBox32.TabStop = false;
+            this.pictureBox32.Click += new System.EventHandler(this.pictureBox32_Click);
+            // 
+            // textBox43
+            // 
+            this.textBox43.BackColor = System.Drawing.Color.White;
+            this.textBox43.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox43.Location = new System.Drawing.Point(115, 24);
+            this.textBox43.Multiline = true;
+            this.textBox43.Name = "textBox43";
+            this.textBox43.ReadOnly = true;
+            this.textBox43.Size = new System.Drawing.Size(159, 81);
+            this.textBox43.TabIndex = 86;
+            this.textBox43.Text = "Средство для обработки вымени до доения на основе молочной кислоты";
+            // 
+            // textBox44
+            // 
+            this.textBox44.BackColor = System.Drawing.Color.White;
+            this.textBox44.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox44.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox44.Location = new System.Drawing.Point(115, 5);
+            this.textBox44.Name = "textBox44";
+            this.textBox44.ReadOnly = true;
+            this.textBox44.Size = new System.Drawing.Size(100, 13);
+            this.textBox44.TabIndex = 85;
+            this.textBox44.Text = "VIOLIT";
+            // 
+            // tabPage3
+            // 
+            this.tabPage3.Controls.Add(this.tableLayoutPanel3);
+            this.tabPage3.Location = new System.Drawing.Point(4, 22);
+            this.tabPage3.Name = "tabPage3";
+            this.tabPage3.Size = new System.Drawing.Size(1049, 609);
+            this.tabPage3.TabIndex = 2;
+            this.tabPage3.Text = "Клининг";
+            this.tabPage3.UseVisualStyleBackColor = true;
             // 
             // tableLayoutPanel3
             // 
@@ -2928,8 +3735,137 @@
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
             this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(1049, 473);
+            this.tableLayoutPanel3.Size = new System.Drawing.Size(1049, 609);
             this.tableLayoutPanel3.TabIndex = 88;
+            // 
+            // panel113
+            // 
+            this.panel113.Controls.Add(this.pictureBox113);
+            this.panel113.Controls.Add(this.textBox225);
+            this.panel113.Controls.Add(this.textBox226);
+            this.panel113.Location = new System.Drawing.Point(347, 931);
+            this.panel113.Name = "panel113";
+            this.panel113.Size = new System.Drawing.Size(338, 110);
+            this.panel113.TabIndex = 87;
+            // 
+            // pictureBox113
+            // 
+            this.pictureBox113.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox113.Name = "pictureBox113";
+            this.pictureBox113.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox113.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox113.TabIndex = 84;
+            this.pictureBox113.TabStop = false;
+            // 
+            // textBox225
+            // 
+            this.textBox225.BackColor = System.Drawing.Color.White;
+            this.textBox225.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox225.Location = new System.Drawing.Point(115, 24);
+            this.textBox225.Multiline = true;
+            this.textBox225.Name = "textBox225";
+            this.textBox225.ReadOnly = true;
+            this.textBox225.Size = new System.Drawing.Size(159, 81);
+            this.textBox225.TabIndex = 86;
+            this.textBox225.Text = "Универсальный очиститель";
+            // 
+            // textBox226
+            // 
+            this.textBox226.BackColor = System.Drawing.Color.White;
+            this.textBox226.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox226.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox226.Location = new System.Drawing.Point(115, 5);
+            this.textBox226.Name = "textBox226";
+            this.textBox226.ReadOnly = true;
+            this.textBox226.Size = new System.Drawing.Size(100, 13);
+            this.textBox226.TabIndex = 85;
+            this.textBox226.Text = "WELL";
+            // 
+            // panel112
+            // 
+            this.panel112.Controls.Add(this.pictureBox112);
+            this.panel112.Controls.Add(this.textBox223);
+            this.panel112.Controls.Add(this.textBox224);
+            this.panel112.Location = new System.Drawing.Point(3, 931);
+            this.panel112.Name = "panel112";
+            this.panel112.Size = new System.Drawing.Size(338, 110);
+            this.panel112.TabIndex = 87;
+            // 
+            // pictureBox112
+            // 
+            this.pictureBox112.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox112.Name = "pictureBox112";
+            this.pictureBox112.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox112.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox112.TabIndex = 84;
+            this.pictureBox112.TabStop = false;
+            // 
+            // textBox223
+            // 
+            this.textBox223.BackColor = System.Drawing.Color.White;
+            this.textBox223.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox223.Location = new System.Drawing.Point(115, 24);
+            this.textBox223.Multiline = true;
+            this.textBox223.Name = "textBox223";
+            this.textBox223.ReadOnly = true;
+            this.textBox223.Size = new System.Drawing.Size(159, 81);
+            this.textBox223.TabIndex = 86;
+            this.textBox223.Text = "Очиститель - полироль для мебели";
+            // 
+            // textBox224
+            // 
+            this.textBox224.BackColor = System.Drawing.Color.White;
+            this.textBox224.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox224.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox224.Location = new System.Drawing.Point(115, 5);
+            this.textBox224.Name = "textBox224";
+            this.textBox224.ReadOnly = true;
+            this.textBox224.Size = new System.Drawing.Size(100, 13);
+            this.textBox224.TabIndex = 85;
+            this.textBox224.Text = "TWIST";
+            // 
+            // panel95
+            // 
+            this.panel95.Controls.Add(this.pictureBox95);
+            this.panel95.Controls.Add(this.textBox189);
+            this.panel95.Controls.Add(this.textBox190);
+            this.panel95.Location = new System.Drawing.Point(691, 815);
+            this.panel95.Name = "panel95";
+            this.panel95.Size = new System.Drawing.Size(338, 110);
+            this.panel95.TabIndex = 87;
+            // 
+            // pictureBox95
+            // 
+            this.pictureBox95.Location = new System.Drawing.Point(6, 5);
+            this.pictureBox95.Name = "pictureBox95";
+            this.pictureBox95.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox95.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox95.TabIndex = 84;
+            this.pictureBox95.TabStop = false;
+            // 
+            // textBox189
+            // 
+            this.textBox189.BackColor = System.Drawing.Color.White;
+            this.textBox189.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox189.Location = new System.Drawing.Point(115, 24);
+            this.textBox189.Multiline = true;
+            this.textBox189.Name = "textBox189";
+            this.textBox189.ReadOnly = true;
+            this.textBox189.Size = new System.Drawing.Size(159, 81);
+            this.textBox189.TabIndex = 86;
+            this.textBox189.Text = "Универсальное гелеобразное пенное моющее средство";
+            // 
+            // textBox190
+            // 
+            this.textBox190.BackColor = System.Drawing.Color.White;
+            this.textBox190.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox190.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox190.Location = new System.Drawing.Point(115, 5);
+            this.textBox190.Name = "textBox190";
+            this.textBox190.ReadOnly = true;
+            this.textBox190.Size = new System.Drawing.Size(100, 13);
+            this.textBox190.TabIndex = 85;
+            this.textBox190.Text = "OPTIMA GEL";
             // 
             // panel47
             // 
@@ -3934,1525 +4870,15 @@
             this.textBox138.TabIndex = 85;
             this.textBox138.Text = "OPTIMA";
             // 
-            // panel93
-            // 
-            this.panel93.Controls.Add(this.pictureBox93);
-            this.panel93.Controls.Add(this.textBox185);
-            this.panel93.Controls.Add(this.textBox186);
-            this.panel93.Location = new System.Drawing.Point(3, 1511);
-            this.panel93.Name = "panel93";
-            this.panel93.Size = new System.Drawing.Size(332, 110);
-            this.panel93.TabIndex = 23;
-            // 
-            // pictureBox93
-            // 
-            this.pictureBox93.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox93.Name = "pictureBox93";
-            this.pictureBox93.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox93.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox93.TabIndex = 84;
-            this.pictureBox93.TabStop = false;
-            // 
-            // textBox185
-            // 
-            this.textBox185.BackColor = System.Drawing.Color.White;
-            this.textBox185.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox185.Location = new System.Drawing.Point(115, 24);
-            this.textBox185.Multiline = true;
-            this.textBox185.Name = "textBox185";
-            this.textBox185.ReadOnly = true;
-            this.textBox185.Size = new System.Drawing.Size(159, 81);
-            this.textBox185.TabIndex = 86;
-            this.textBox185.Text = "Стеклоочиститель универсальный";
-            // 
-            // textBox186
-            // 
-            this.textBox186.BackColor = System.Drawing.Color.White;
-            this.textBox186.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox186.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox186.Location = new System.Drawing.Point(115, 5);
-            this.textBox186.Name = "textBox186";
-            this.textBox186.ReadOnly = true;
-            this.textBox186.Size = new System.Drawing.Size(129, 13);
-            this.textBox186.TabIndex = 85;
-            this.textBox186.Text = "WITRUM";
-            // 
-            // panel94
-            // 
-            this.panel94.Controls.Add(this.pictureBox94);
-            this.panel94.Controls.Add(this.textBox187);
-            this.panel94.Controls.Add(this.textBox188);
-            this.panel94.Location = new System.Drawing.Point(341, 1511);
-            this.panel94.Name = "panel94";
-            this.panel94.Size = new System.Drawing.Size(332, 110);
-            this.panel94.TabIndex = 87;
-            // 
-            // pictureBox94
-            // 
-            this.pictureBox94.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox94.Name = "pictureBox94";
-            this.pictureBox94.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox94.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox94.TabIndex = 84;
-            this.pictureBox94.TabStop = false;
-            // 
-            // textBox187
-            // 
-            this.textBox187.BackColor = System.Drawing.Color.White;
-            this.textBox187.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox187.Location = new System.Drawing.Point(115, 24);
-            this.textBox187.Multiline = true;
-            this.textBox187.Name = "textBox187";
-            this.textBox187.ReadOnly = true;
-            this.textBox187.Size = new System.Drawing.Size(159, 81);
-            this.textBox187.TabIndex = 86;
-            this.textBox187.Text = "Автошампунь для бесконтактной мойки автомобилей";
-            // 
-            // textBox188
-            // 
-            this.textBox188.BackColor = System.Drawing.Color.White;
-            this.textBox188.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox188.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox188.Location = new System.Drawing.Point(115, 5);
-            this.textBox188.Name = "textBox188";
-            this.textBox188.ReadOnly = true;
-            this.textBox188.Size = new System.Drawing.Size(129, 13);
-            this.textBox188.TabIndex = 85;
-            this.textBox188.Text = "СУПЕРКОНЦЕНТРАТ";
-            // 
-            // panel96
-            // 
-            this.panel96.Controls.Add(this.pictureBox96);
-            this.panel96.Controls.Add(this.textBox191);
-            this.panel96.Controls.Add(this.textBox192);
-            this.panel96.Location = new System.Drawing.Point(679, 1395);
-            this.panel96.Name = "panel96";
-            this.panel96.Size = new System.Drawing.Size(338, 110);
-            this.panel96.TabIndex = 87;
-            // 
-            // pictureBox96
-            // 
-            this.pictureBox96.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox96.Name = "pictureBox96";
-            this.pictureBox96.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox96.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox96.TabIndex = 84;
-            this.pictureBox96.TabStop = false;
-            // 
-            // textBox191
-            // 
-            this.textBox191.BackColor = System.Drawing.Color.White;
-            this.textBox191.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox191.Location = new System.Drawing.Point(115, 24);
-            this.textBox191.Multiline = true;
-            this.textBox191.Name = "textBox191";
-            this.textBox191.ReadOnly = true;
-            this.textBox191.Size = new System.Drawing.Size(159, 81);
-            this.textBox191.TabIndex = 86;
-            this.textBox191.Text = "Средство для бесконтактной мойки класс эконом минус, для воды средней жесткости";
-            // 
-            // textBox192
-            // 
-            this.textBox192.BackColor = System.Drawing.Color.White;
-            this.textBox192.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox192.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox192.Location = new System.Drawing.Point(115, 5);
-            this.textBox192.Name = "textBox192";
-            this.textBox192.ReadOnly = true;
-            this.textBox192.Size = new System.Drawing.Size(129, 13);
-            this.textBox192.TabIndex = 85;
-            this.textBox192.Text = "UNIOR";
-            // 
-            // panel97
-            // 
-            this.panel97.Controls.Add(this.pictureBox97);
-            this.panel97.Controls.Add(this.textBox193);
-            this.panel97.Controls.Add(this.textBox194);
-            this.panel97.Location = new System.Drawing.Point(341, 1395);
-            this.panel97.Name = "panel97";
-            this.panel97.Size = new System.Drawing.Size(332, 110);
-            this.panel97.TabIndex = 87;
-            // 
-            // pictureBox97
-            // 
-            this.pictureBox97.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox97.Name = "pictureBox97";
-            this.pictureBox97.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox97.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox97.TabIndex = 84;
-            this.pictureBox97.TabStop = false;
-            // 
-            // textBox193
-            // 
-            this.textBox193.BackColor = System.Drawing.Color.White;
-            this.textBox193.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox193.Location = new System.Drawing.Point(115, 24);
-            this.textBox193.Multiline = true;
-            this.textBox193.Name = "textBox193";
-            this.textBox193.ReadOnly = true;
-            this.textBox193.Size = new System.Drawing.Size(159, 81);
-            this.textBox193.TabIndex = 86;
-            this.textBox193.Text = "Набор автокосметики: химчистка салона - Tantum, полироль - Politura, губка и микр" +
-    "офибра.";
-            // 
-            // textBox194
-            // 
-            this.textBox194.BackColor = System.Drawing.Color.White;
-            this.textBox194.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox194.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox194.Location = new System.Drawing.Point(115, 5);
-            this.textBox194.Name = "textBox194";
-            this.textBox194.ReadOnly = true;
-            this.textBox194.Size = new System.Drawing.Size(129, 13);
-            this.textBox194.TabIndex = 85;
-            this.textBox194.Text = "TWIN ";
-            // 
-            // panel98
-            // 
-            this.panel98.Controls.Add(this.pictureBox98);
-            this.panel98.Controls.Add(this.textBox195);
-            this.panel98.Controls.Add(this.textBox196);
-            this.panel98.Location = new System.Drawing.Point(3, 1395);
-            this.panel98.Name = "panel98";
-            this.panel98.Size = new System.Drawing.Size(332, 110);
-            this.panel98.TabIndex = 87;
-            // 
-            // pictureBox98
-            // 
-            this.pictureBox98.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox98.Name = "pictureBox98";
-            this.pictureBox98.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox98.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox98.TabIndex = 84;
-            this.pictureBox98.TabStop = false;
-            // 
-            // textBox195
-            // 
-            this.textBox195.BackColor = System.Drawing.Color.White;
-            this.textBox195.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox195.Location = new System.Drawing.Point(115, 24);
-            this.textBox195.Multiline = true;
-            this.textBox195.Name = "textBox195";
-            this.textBox195.ReadOnly = true;
-            this.textBox195.Size = new System.Drawing.Size(159, 81);
-            this.textBox195.TabIndex = 86;
-            this.textBox195.Text = "Средство для бесконтактной мойки класс стандарт, для воды высокой жесткости";
-            // 
-            // textBox196
-            // 
-            this.textBox196.BackColor = System.Drawing.Color.White;
-            this.textBox196.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox196.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox196.Location = new System.Drawing.Point(115, 5);
-            this.textBox196.Name = "textBox196";
-            this.textBox196.ReadOnly = true;
-            this.textBox196.Size = new System.Drawing.Size(129, 13);
-            this.textBox196.TabIndex = 85;
-            this.textBox196.Text = "TUTOR";
-            // 
-            // panel99
-            // 
-            this.panel99.Controls.Add(this.pictureBox99);
-            this.panel99.Controls.Add(this.textBox197);
-            this.panel99.Controls.Add(this.textBox198);
-            this.panel99.Location = new System.Drawing.Point(3, 1279);
-            this.panel99.Name = "panel99";
-            this.panel99.Size = new System.Drawing.Size(332, 110);
-            this.panel99.TabIndex = 87;
-            // 
-            // pictureBox99
-            // 
-            this.pictureBox99.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox99.Name = "pictureBox99";
-            this.pictureBox99.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox99.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox99.TabIndex = 84;
-            this.pictureBox99.TabStop = false;
-            // 
-            // textBox197
-            // 
-            this.textBox197.BackColor = System.Drawing.Color.White;
-            this.textBox197.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox197.Location = new System.Drawing.Point(115, 24);
-            this.textBox197.Multiline = true;
-            this.textBox197.Name = "textBox197";
-            this.textBox197.ReadOnly = true;
-            this.textBox197.Size = new System.Drawing.Size(159, 81);
-            this.textBox197.TabIndex = 86;
-            this.textBox197.Text = "Средство для бесконтактной мойки класс эконом, цветная пена для воды средней жест" +
-    "кости";
-            // 
-            // textBox198
-            // 
-            this.textBox198.BackColor = System.Drawing.Color.White;
-            this.textBox198.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox198.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox198.Location = new System.Drawing.Point(115, 5);
-            this.textBox198.Name = "textBox198";
-            this.textBox198.ReadOnly = true;
-            this.textBox198.Size = new System.Drawing.Size(129, 13);
-            this.textBox198.TabIndex = 85;
-            this.textBox198.Text = "TIRO TONE";
-            // 
-            // panel100
-            // 
-            this.panel100.Controls.Add(this.pictureBox100);
-            this.panel100.Controls.Add(this.textBox199);
-            this.panel100.Controls.Add(this.textBox200);
-            this.panel100.Location = new System.Drawing.Point(341, 1279);
-            this.panel100.Name = "panel100";
-            this.panel100.Size = new System.Drawing.Size(332, 110);
-            this.panel100.TabIndex = 87;
-            // 
-            // pictureBox100
-            // 
-            this.pictureBox100.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox100.Name = "pictureBox100";
-            this.pictureBox100.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox100.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox100.TabIndex = 84;
-            this.pictureBox100.TabStop = false;
-            // 
-            // textBox199
-            // 
-            this.textBox199.BackColor = System.Drawing.Color.White;
-            this.textBox199.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox199.Location = new System.Drawing.Point(115, 24);
-            this.textBox199.Multiline = true;
-            this.textBox199.Name = "textBox199";
-            this.textBox199.ReadOnly = true;
-            this.textBox199.Size = new System.Drawing.Size(159, 81);
-            this.textBox199.TabIndex = 86;
-            this.textBox199.Text = "Воск для кузова";
-            // 
-            // textBox200
-            // 
-            this.textBox200.BackColor = System.Drawing.Color.White;
-            this.textBox200.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox200.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox200.Location = new System.Drawing.Point(115, 5);
-            this.textBox200.Name = "textBox200";
-            this.textBox200.ReadOnly = true;
-            this.textBox200.Size = new System.Drawing.Size(129, 13);
-            this.textBox200.TabIndex = 85;
-            this.textBox200.Text = "TUTELA";
-            // 
-            // panel101
-            // 
-            this.panel101.Controls.Add(this.pictureBox101);
-            this.panel101.Controls.Add(this.textBox201);
-            this.panel101.Controls.Add(this.textBox202);
-            this.panel101.Location = new System.Drawing.Point(679, 1279);
-            this.panel101.Name = "panel101";
-            this.panel101.Size = new System.Drawing.Size(338, 110);
-            this.panel101.TabIndex = 87;
-            // 
-            // pictureBox101
-            // 
-            this.pictureBox101.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox101.Name = "pictureBox101";
-            this.pictureBox101.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox101.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox101.TabIndex = 84;
-            this.pictureBox101.TabStop = false;
-            // 
-            // textBox201
-            // 
-            this.textBox201.BackColor = System.Drawing.Color.White;
-            this.textBox201.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox201.Location = new System.Drawing.Point(115, 24);
-            this.textBox201.Multiline = true;
-            this.textBox201.Name = "textBox201";
-            this.textBox201.ReadOnly = true;
-            this.textBox201.Size = new System.Drawing.Size(159, 81);
-            this.textBox201.TabIndex = 86;
-            this.textBox201.Text = "Воск для кузова";
-            // 
-            // textBox202
-            // 
-            this.textBox202.BackColor = System.Drawing.Color.White;
-            this.textBox202.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox202.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox202.Location = new System.Drawing.Point(115, 5);
-            this.textBox202.Name = "textBox202";
-            this.textBox202.ReadOnly = true;
-            this.textBox202.Size = new System.Drawing.Size(129, 13);
-            this.textBox202.TabIndex = 85;
-            this.textBox202.Text = "TUTELA FAST";
-            // 
-            // panel102
-            // 
-            this.panel102.Controls.Add(this.pictureBox102);
-            this.panel102.Controls.Add(this.textBox203);
-            this.panel102.Controls.Add(this.textBox204);
-            this.panel102.Location = new System.Drawing.Point(679, 1163);
-            this.panel102.Name = "panel102";
-            this.panel102.Size = new System.Drawing.Size(338, 110);
-            this.panel102.TabIndex = 87;
-            // 
-            // pictureBox102
-            // 
-            this.pictureBox102.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox102.Name = "pictureBox102";
-            this.pictureBox102.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox102.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox102.TabIndex = 84;
-            this.pictureBox102.TabStop = false;
-            // 
-            // textBox203
-            // 
-            this.textBox203.BackColor = System.Drawing.Color.White;
-            this.textBox203.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox203.Location = new System.Drawing.Point(115, 24);
-            this.textBox203.Multiline = true;
-            this.textBox203.Name = "textBox203";
-            this.textBox203.ReadOnly = true;
-            this.textBox203.Size = new System.Drawing.Size(159, 81);
-            this.textBox203.TabIndex = 86;
-            this.textBox203.Text = "Средство для бесконтактной мойки класс эконом, для воды средней жесткости";
-            // 
-            // textBox204
-            // 
-            this.textBox204.BackColor = System.Drawing.Color.White;
-            this.textBox204.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox204.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox204.Location = new System.Drawing.Point(115, 5);
-            this.textBox204.Name = "textBox204";
-            this.textBox204.ReadOnly = true;
-            this.textBox204.Size = new System.Drawing.Size(129, 13);
-            this.textBox204.TabIndex = 85;
-            this.textBox204.Text = "TIRO";
-            // 
-            // panel103
-            // 
-            this.panel103.Controls.Add(this.pictureBox103);
-            this.panel103.Controls.Add(this.textBox205);
-            this.panel103.Controls.Add(this.textBox206);
-            this.panel103.Location = new System.Drawing.Point(3, 1163);
-            this.panel103.Name = "panel103";
-            this.panel103.Size = new System.Drawing.Size(332, 110);
-            this.panel103.TabIndex = 87;
-            // 
-            // pictureBox103
-            // 
-            this.pictureBox103.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox103.Name = "pictureBox103";
-            this.pictureBox103.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox103.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox103.TabIndex = 84;
-            this.pictureBox103.TabStop = false;
-            // 
-            // textBox205
-            // 
-            this.textBox205.BackColor = System.Drawing.Color.White;
-            this.textBox205.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox205.Location = new System.Drawing.Point(115, 24);
-            this.textBox205.Multiline = true;
-            this.textBox205.Name = "textBox205";
-            this.textBox205.ReadOnly = true;
-            this.textBox205.Size = new System.Drawing.Size(159, 81);
-            this.textBox205.TabIndex = 86;
-            this.textBox205.Text = "Низкопенное средство для бесконтактной мойки автомобиля на мойках самообслуживани" +
-    "я";
-            // 
-            // textBox206
-            // 
-            this.textBox206.BackColor = System.Drawing.Color.White;
-            this.textBox206.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox206.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox206.Location = new System.Drawing.Point(115, 5);
-            this.textBox206.Name = "textBox206";
-            this.textBox206.ReadOnly = true;
-            this.textBox206.Size = new System.Drawing.Size(129, 13);
-            this.textBox206.TabIndex = 85;
-            this.textBox206.Text = "SOLO";
-            // 
-            // panel104
-            // 
-            this.panel104.Controls.Add(this.pictureBox104);
-            this.panel104.Controls.Add(this.textBox207);
-            this.panel104.Controls.Add(this.textBox208);
-            this.panel104.Location = new System.Drawing.Point(341, 1163);
-            this.panel104.Name = "panel104";
-            this.panel104.Size = new System.Drawing.Size(332, 110);
-            this.panel104.TabIndex = 87;
-            // 
-            // pictureBox104
-            // 
-            this.pictureBox104.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox104.Name = "pictureBox104";
-            this.pictureBox104.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox104.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox104.TabIndex = 84;
-            this.pictureBox104.TabStop = false;
-            // 
-            // textBox207
-            // 
-            this.textBox207.BackColor = System.Drawing.Color.White;
-            this.textBox207.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox207.Location = new System.Drawing.Point(115, 24);
-            this.textBox207.Multiline = true;
-            this.textBox207.Name = "textBox207";
-            this.textBox207.ReadOnly = true;
-            this.textBox207.Size = new System.Drawing.Size(159, 81);
-            this.textBox207.TabIndex = 86;
-            this.textBox207.Text = "Универсальное средство для химчистки салона автомобиля";
-            // 
-            // textBox208
-            // 
-            this.textBox208.BackColor = System.Drawing.Color.White;
-            this.textBox208.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox208.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox208.Location = new System.Drawing.Point(115, 5);
-            this.textBox208.Name = "textBox208";
-            this.textBox208.ReadOnly = true;
-            this.textBox208.Size = new System.Drawing.Size(129, 13);
-            this.textBox208.TabIndex = 85;
-            this.textBox208.Text = "TANTUM";
-            // 
-            // panel105
-            // 
-            this.panel105.Controls.Add(this.pictureBox105);
-            this.panel105.Controls.Add(this.textBox209);
-            this.panel105.Controls.Add(this.textBox210);
-            this.panel105.Location = new System.Drawing.Point(679, 1047);
-            this.panel105.Name = "panel105";
-            this.panel105.Size = new System.Drawing.Size(338, 110);
-            this.panel105.TabIndex = 87;
-            // 
-            // pictureBox105
-            // 
-            this.pictureBox105.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox105.Name = "pictureBox105";
-            this.pictureBox105.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox105.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox105.TabIndex = 84;
-            this.pictureBox105.TabStop = false;
-            // 
-            // textBox209
-            // 
-            this.textBox209.BackColor = System.Drawing.Color.White;
-            this.textBox209.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox209.Location = new System.Drawing.Point(115, 24);
-            this.textBox209.Multiline = true;
-            this.textBox209.Name = "textBox209";
-            this.textBox209.ReadOnly = true;
-            this.textBox209.Size = new System.Drawing.Size(159, 81);
-            this.textBox209.TabIndex = 86;
-            this.textBox209.Text = "Силиконовая смазка";
-            // 
-            // textBox210
-            // 
-            this.textBox210.BackColor = System.Drawing.Color.White;
-            this.textBox210.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox210.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox210.Location = new System.Drawing.Point(115, 5);
-            this.textBox210.Name = "textBox210";
-            this.textBox210.ReadOnly = true;
-            this.textBox210.Size = new System.Drawing.Size(129, 13);
-            this.textBox210.TabIndex = 85;
-            this.textBox210.Text = "SILICONE";
-            // 
-            // panel106
-            // 
-            this.panel106.Controls.Add(this.pictureBox106);
-            this.panel106.Controls.Add(this.textBox211);
-            this.panel106.Controls.Add(this.textBox212);
-            this.panel106.Location = new System.Drawing.Point(341, 1047);
-            this.panel106.Name = "panel106";
-            this.panel106.Size = new System.Drawing.Size(332, 110);
-            this.panel106.TabIndex = 87;
-            // 
-            // pictureBox106
-            // 
-            this.pictureBox106.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox106.Name = "pictureBox106";
-            this.pictureBox106.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox106.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox106.TabIndex = 84;
-            this.pictureBox106.TabStop = false;
-            // 
-            // textBox211
-            // 
-            this.textBox211.BackColor = System.Drawing.Color.White;
-            this.textBox211.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox211.Location = new System.Drawing.Point(115, 24);
-            this.textBox211.Multiline = true;
-            this.textBox211.Name = "textBox211";
-            this.textBox211.ReadOnly = true;
-            this.textBox211.Size = new System.Drawing.Size(159, 81);
-            this.textBox211.TabIndex = 86;
-            this.textBox211.Text = "Средство для бесконтактной мойки класс премиум, для воды высокой жесткости";
-            // 
-            // textBox212
-            // 
-            this.textBox212.BackColor = System.Drawing.Color.White;
-            this.textBox212.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox212.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox212.Location = new System.Drawing.Point(115, 5);
-            this.textBox212.Name = "textBox212";
-            this.textBox212.ReadOnly = true;
-            this.textBox212.Size = new System.Drawing.Size(129, 13);
-            this.textBox212.TabIndex = 85;
-            this.textBox212.Text = "SENZA";
-            // 
-            // panel107
-            // 
-            this.panel107.Controls.Add(this.pictureBox107);
-            this.panel107.Controls.Add(this.textBox213);
-            this.panel107.Controls.Add(this.textBox214);
-            this.panel107.Location = new System.Drawing.Point(3, 1047);
-            this.panel107.Name = "panel107";
-            this.panel107.Size = new System.Drawing.Size(332, 110);
-            this.panel107.TabIndex = 87;
-            // 
-            // pictureBox107
-            // 
-            this.pictureBox107.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox107.Name = "pictureBox107";
-            this.pictureBox107.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox107.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox107.TabIndex = 84;
-            this.pictureBox107.TabStop = false;
-            // 
-            // textBox213
-            // 
-            this.textBox213.BackColor = System.Drawing.Color.White;
-            this.textBox213.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox213.Location = new System.Drawing.Point(115, 24);
-            this.textBox213.Multiline = true;
-            this.textBox213.Name = "textBox213";
-            this.textBox213.ReadOnly = true;
-            this.textBox213.Size = new System.Drawing.Size(159, 81);
-            this.textBox213.TabIndex = 86;
-            this.textBox213.Text = "Очищающая паста для рук";
-            // 
-            // textBox214
-            // 
-            this.textBox214.BackColor = System.Drawing.Color.White;
-            this.textBox214.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox214.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox214.Location = new System.Drawing.Point(115, 5);
-            this.textBox214.Name = "textBox214";
-            this.textBox214.ReadOnly = true;
-            this.textBox214.Size = new System.Drawing.Size(129, 13);
-            this.textBox214.TabIndex = 85;
-            this.textBox214.Text = "SAPO";
-            // 
-            // panel108
-            // 
-            this.panel108.Controls.Add(this.pictureBox108);
-            this.panel108.Controls.Add(this.textBox215);
-            this.panel108.Controls.Add(this.textBox216);
-            this.panel108.Location = new System.Drawing.Point(3, 931);
-            this.panel108.Name = "panel108";
-            this.panel108.Size = new System.Drawing.Size(332, 110);
-            this.panel108.TabIndex = 87;
-            // 
-            // pictureBox108
-            // 
-            this.pictureBox108.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox108.Name = "pictureBox108";
-            this.pictureBox108.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox108.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox108.TabIndex = 84;
-            this.pictureBox108.TabStop = false;
-            // 
-            // textBox215
-            // 
-            this.textBox215.BackColor = System.Drawing.Color.White;
-            this.textBox215.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox215.Location = new System.Drawing.Point(115, 24);
-            this.textBox215.Multiline = true;
-            this.textBox215.Name = "textBox215";
-            this.textBox215.ReadOnly = true;
-            this.textBox215.Size = new System.Drawing.Size(159, 81);
-            this.textBox215.TabIndex = 86;
-            this.textBox215.Text = "Очиститель - кондиционер для кожи";
-            // 
-            // textBox216
-            // 
-            this.textBox216.BackColor = System.Drawing.Color.White;
-            this.textBox216.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox216.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox216.Location = new System.Drawing.Point(115, 5);
-            this.textBox216.Name = "textBox216";
-            this.textBox216.ReadOnly = true;
-            this.textBox216.Size = new System.Drawing.Size(129, 13);
-            this.textBox216.TabIndex = 85;
-            this.textBox216.Text = "PROPELLA";
-            // 
-            // panel109
-            // 
-            this.panel109.Controls.Add(this.pictureBox109);
-            this.panel109.Controls.Add(this.textBox217);
-            this.panel109.Controls.Add(this.textBox218);
-            this.panel109.Location = new System.Drawing.Point(341, 931);
-            this.panel109.Name = "panel109";
-            this.panel109.Size = new System.Drawing.Size(332, 110);
-            this.panel109.TabIndex = 87;
-            // 
-            // pictureBox109
-            // 
-            this.pictureBox109.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox109.Name = "pictureBox109";
-            this.pictureBox109.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox109.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox109.TabIndex = 84;
-            this.pictureBox109.TabStop = false;
-            // 
-            // textBox217
-            // 
-            this.textBox217.BackColor = System.Drawing.Color.White;
-            this.textBox217.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox217.Location = new System.Drawing.Point(115, 24);
-            this.textBox217.Multiline = true;
-            this.textBox217.Name = "textBox217";
-            this.textBox217.ReadOnly = true;
-            this.textBox217.Size = new System.Drawing.Size(159, 81);
-            this.textBox217.TabIndex = 86;
-            this.textBox217.Text = "Чернитель резины";
-            // 
-            // textBox218
-            // 
-            this.textBox218.BackColor = System.Drawing.Color.White;
-            this.textBox218.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox218.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox218.Location = new System.Drawing.Point(115, 5);
-            this.textBox218.Name = "textBox218";
-            this.textBox218.ReadOnly = true;
-            this.textBox218.Size = new System.Drawing.Size(129, 13);
-            this.textBox218.TabIndex = 85;
-            this.textBox218.Text = "ROTAE";
-            // 
-            // panel110
-            // 
-            this.panel110.Controls.Add(this.pictureBox110);
-            this.panel110.Controls.Add(this.textBox219);
-            this.panel110.Controls.Add(this.textBox220);
-            this.panel110.Location = new System.Drawing.Point(679, 931);
-            this.panel110.Name = "panel110";
-            this.panel110.Size = new System.Drawing.Size(338, 110);
-            this.panel110.TabIndex = 87;
-            // 
-            // pictureBox110
-            // 
-            this.pictureBox110.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox110.Name = "pictureBox110";
-            this.pictureBox110.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox110.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox110.TabIndex = 84;
-            this.pictureBox110.TabStop = false;
-            // 
-            // textBox219
-            // 
-            this.textBox219.BackColor = System.Drawing.Color.White;
-            this.textBox219.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox219.Location = new System.Drawing.Point(115, 24);
-            this.textBox219.Multiline = true;
-            this.textBox219.Name = "textBox219";
-            this.textBox219.ReadOnly = true;
-            this.textBox219.Size = new System.Drawing.Size(159, 81);
-            this.textBox219.TabIndex = 86;
-            this.textBox219.Text = "Чернитель резины на основе силикона";
-            // 
-            // textBox220
-            // 
-            this.textBox220.BackColor = System.Drawing.Color.White;
-            this.textBox220.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox220.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox220.Location = new System.Drawing.Point(115, 5);
-            this.textBox220.Name = "textBox220";
-            this.textBox220.ReadOnly = true;
-            this.textBox220.Size = new System.Drawing.Size(129, 13);
-            this.textBox220.TabIndex = 85;
-            this.textBox220.Text = "ROTAE VIS";
-            // 
-            // panel111
-            // 
-            this.panel111.Controls.Add(this.pictureBox111);
-            this.panel111.Controls.Add(this.textBox221);
-            this.panel111.Controls.Add(this.textBox222);
-            this.panel111.Location = new System.Drawing.Point(679, 815);
-            this.panel111.Name = "panel111";
-            this.panel111.Size = new System.Drawing.Size(338, 110);
-            this.panel111.TabIndex = 87;
-            // 
-            // pictureBox111
-            // 
-            this.pictureBox111.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox111.Name = "pictureBox111";
-            this.pictureBox111.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox111.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox111.TabIndex = 84;
-            this.pictureBox111.TabStop = false;
-            // 
-            // textBox221
-            // 
-            this.textBox221.BackColor = System.Drawing.Color.White;
-            this.textBox221.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox221.Location = new System.Drawing.Point(115, 24);
-            this.textBox221.Multiline = true;
-            this.textBox221.Name = "textBox221";
-            this.textBox221.ReadOnly = true;
-            this.textBox221.Size = new System.Drawing.Size(159, 81);
-            this.textBox221.TabIndex = 86;
-            this.textBox221.Text = "Средство для бесконтактной мойки класс премиум для воды средней жесткости";
-            // 
-            // textBox222
-            // 
-            this.textBox222.BackColor = System.Drawing.Color.White;
-            this.textBox222.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox222.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox222.Location = new System.Drawing.Point(115, 5);
-            this.textBox222.Name = "textBox222";
-            this.textBox222.ReadOnly = true;
-            this.textBox222.Size = new System.Drawing.Size(129, 13);
-            this.textBox222.TabIndex = 85;
-            this.textBox222.Text = "PROFY";
-            // 
-            // panel95
-            // 
-            this.panel95.Controls.Add(this.pictureBox95);
-            this.panel95.Controls.Add(this.textBox189);
-            this.panel95.Controls.Add(this.textBox190);
-            this.panel95.Location = new System.Drawing.Point(691, 815);
-            this.panel95.Name = "panel95";
-            this.panel95.Size = new System.Drawing.Size(338, 110);
-            this.panel95.TabIndex = 87;
-            // 
-            // pictureBox95
-            // 
-            this.pictureBox95.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox95.Name = "pictureBox95";
-            this.pictureBox95.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox95.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox95.TabIndex = 84;
-            this.pictureBox95.TabStop = false;
-            // 
-            // textBox189
-            // 
-            this.textBox189.BackColor = System.Drawing.Color.White;
-            this.textBox189.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox189.Location = new System.Drawing.Point(115, 24);
-            this.textBox189.Multiline = true;
-            this.textBox189.Name = "textBox189";
-            this.textBox189.ReadOnly = true;
-            this.textBox189.Size = new System.Drawing.Size(159, 81);
-            this.textBox189.TabIndex = 86;
-            this.textBox189.Text = "Универсальное гелеобразное пенное моющее средство";
-            // 
-            // textBox190
-            // 
-            this.textBox190.BackColor = System.Drawing.Color.White;
-            this.textBox190.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox190.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox190.Location = new System.Drawing.Point(115, 5);
-            this.textBox190.Name = "textBox190";
-            this.textBox190.ReadOnly = true;
-            this.textBox190.Size = new System.Drawing.Size(100, 13);
-            this.textBox190.TabIndex = 85;
-            this.textBox190.Text = "OPTIMA GEL";
-            // 
-            // panel112
-            // 
-            this.panel112.Controls.Add(this.pictureBox112);
-            this.panel112.Controls.Add(this.textBox223);
-            this.panel112.Controls.Add(this.textBox224);
-            this.panel112.Location = new System.Drawing.Point(3, 931);
-            this.panel112.Name = "panel112";
-            this.panel112.Size = new System.Drawing.Size(338, 110);
-            this.panel112.TabIndex = 87;
-            // 
-            // pictureBox112
-            // 
-            this.pictureBox112.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox112.Name = "pictureBox112";
-            this.pictureBox112.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox112.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox112.TabIndex = 84;
-            this.pictureBox112.TabStop = false;
-            // 
-            // textBox223
-            // 
-            this.textBox223.BackColor = System.Drawing.Color.White;
-            this.textBox223.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox223.Location = new System.Drawing.Point(115, 24);
-            this.textBox223.Multiline = true;
-            this.textBox223.Name = "textBox223";
-            this.textBox223.ReadOnly = true;
-            this.textBox223.Size = new System.Drawing.Size(159, 81);
-            this.textBox223.TabIndex = 86;
-            this.textBox223.Text = "Очиститель - полироль для мебели";
-            // 
-            // textBox224
-            // 
-            this.textBox224.BackColor = System.Drawing.Color.White;
-            this.textBox224.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox224.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox224.Location = new System.Drawing.Point(115, 5);
-            this.textBox224.Name = "textBox224";
-            this.textBox224.ReadOnly = true;
-            this.textBox224.Size = new System.Drawing.Size(100, 13);
-            this.textBox224.TabIndex = 85;
-            this.textBox224.Text = "TWIST";
-            // 
-            // panel113
-            // 
-            this.panel113.Controls.Add(this.pictureBox113);
-            this.panel113.Controls.Add(this.textBox225);
-            this.panel113.Controls.Add(this.textBox226);
-            this.panel113.Location = new System.Drawing.Point(347, 931);
-            this.panel113.Name = "panel113";
-            this.panel113.Size = new System.Drawing.Size(338, 110);
-            this.panel113.TabIndex = 87;
-            // 
-            // pictureBox113
-            // 
-            this.pictureBox113.Location = new System.Drawing.Point(6, 5);
-            this.pictureBox113.Name = "pictureBox113";
-            this.pictureBox113.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox113.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox113.TabIndex = 84;
-            this.pictureBox113.TabStop = false;
-            // 
-            // textBox225
-            // 
-            this.textBox225.BackColor = System.Drawing.Color.White;
-            this.textBox225.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox225.Location = new System.Drawing.Point(115, 24);
-            this.textBox225.Multiline = true;
-            this.textBox225.Name = "textBox225";
-            this.textBox225.ReadOnly = true;
-            this.textBox225.Size = new System.Drawing.Size(159, 81);
-            this.textBox225.TabIndex = 86;
-            this.textBox225.Text = "Универсальный очиститель";
-            // 
-            // textBox226
-            // 
-            this.textBox226.BackColor = System.Drawing.Color.White;
-            this.textBox226.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox226.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox226.Location = new System.Drawing.Point(115, 5);
-            this.textBox226.Name = "textBox226";
-            this.textBox226.ReadOnly = true;
-            this.textBox226.Size = new System.Drawing.Size(100, 13);
-            this.textBox226.TabIndex = 85;
-            this.textBox226.Text = "WELL";
-            // 
-            // panel83
-            // 
-            this.panel83.Controls.Add(this.pictureBox83);
-            this.panel83.Controls.Add(this.textBox165);
-            this.panel83.Controls.Add(this.textBox166);
-            this.panel83.Location = new System.Drawing.Point(691, 351);
-            this.panel83.Name = "panel83";
-            this.panel83.Size = new System.Drawing.Size(338, 110);
-            this.panel83.TabIndex = 11;
-            // 
-            // textBox166
-            // 
-            this.textBox166.BackColor = System.Drawing.Color.White;
-            this.textBox166.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox166.Location = new System.Drawing.Point(112, 22);
-            this.textBox166.Multiline = true;
-            this.textBox166.Name = "textBox166";
-            this.textBox166.ReadOnly = true;
-            this.textBox166.Size = new System.Drawing.Size(159, 81);
-            this.textBox166.TabIndex = 53;
-            this.textBox166.Text = "Нейтральное концентрированное пенное средство для ручной мойки твердых поверхност" +
-    "ей";
-            // 
-            // textBox165
-            // 
-            this.textBox165.BackColor = System.Drawing.Color.White;
-            this.textBox165.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox165.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox165.Location = new System.Drawing.Point(112, 3);
-            this.textBox165.Name = "textBox165";
-            this.textBox165.ReadOnly = true;
-            this.textBox165.Size = new System.Drawing.Size(100, 13);
-            this.textBox165.TabIndex = 52;
-            this.textBox165.Text = "Tank FN";
-            // 
-            // pictureBox83
-            // 
-            this.pictureBox83.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox83.Name = "pictureBox83";
-            this.pictureBox83.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox83.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox83.TabIndex = 51;
-            this.pictureBox83.TabStop = false;
-            // 
-            // panel82
-            // 
-            this.panel82.Controls.Add(this.pictureBox82);
-            this.panel82.Controls.Add(this.textBox163);
-            this.panel82.Controls.Add(this.textBox164);
-            this.panel82.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel82.Location = new System.Drawing.Point(347, 351);
-            this.panel82.Name = "panel82";
-            this.panel82.Size = new System.Drawing.Size(338, 110);
-            this.panel82.TabIndex = 10;
-            // 
-            // textBox164
-            // 
-            this.textBox164.BackColor = System.Drawing.Color.White;
-            this.textBox164.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox164.Location = new System.Drawing.Point(112, 22);
-            this.textBox164.Multiline = true;
-            this.textBox164.Name = "textBox164";
-            this.textBox164.ReadOnly = true;
-            this.textBox164.Size = new System.Drawing.Size(159, 81);
-            this.textBox164.TabIndex = 50;
-            this.textBox164.Text = "Щелочное высокопенное моющее средство на основе четвертичных аммониевых соединени" +
-    "й (ЧАС)";
-            // 
-            // textBox163
-            // 
-            this.textBox163.BackColor = System.Drawing.Color.White;
-            this.textBox163.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox163.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox163.Location = new System.Drawing.Point(112, 3);
-            this.textBox163.Name = "textBox163";
-            this.textBox163.ReadOnly = true;
-            this.textBox163.Size = new System.Drawing.Size(100, 13);
-            this.textBox163.TabIndex = 49;
-            this.textBox163.Text = "TANK FBD 0902/2";
-            // 
-            // pictureBox82
-            // 
-            this.pictureBox82.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox82.Name = "pictureBox82";
-            this.pictureBox82.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox82.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox82.TabIndex = 48;
-            this.pictureBox82.TabStop = false;
-            // 
-            // panel81
-            // 
-            this.panel81.Controls.Add(this.pictureBox81);
-            this.panel81.Controls.Add(this.textBox161);
-            this.panel81.Controls.Add(this.textBox162);
-            this.panel81.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel81.Location = new System.Drawing.Point(3, 351);
-            this.panel81.Name = "panel81";
-            this.panel81.Size = new System.Drawing.Size(338, 110);
-            this.panel81.TabIndex = 9;
-            // 
-            // textBox162
-            // 
-            this.textBox162.BackColor = System.Drawing.Color.White;
-            this.textBox162.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox162.Location = new System.Drawing.Point(112, 22);
-            this.textBox162.Multiline = true;
-            this.textBox162.Name = "textBox162";
-            this.textBox162.ReadOnly = true;
-            this.textBox162.Size = new System.Drawing.Size(159, 81);
-            this.textBox162.TabIndex = 47;
-            this.textBox162.Text = "Щелочное пенное моющее средство с активным хлором";
-            // 
-            // textBox161
-            // 
-            this.textBox161.BackColor = System.Drawing.Color.White;
-            this.textBox161.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox161.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox161.Location = new System.Drawing.Point(112, 3);
-            this.textBox161.Name = "textBox161";
-            this.textBox161.ReadOnly = true;
-            this.textBox161.Size = new System.Drawing.Size(100, 13);
-            this.textBox161.TabIndex = 46;
-            this.textBox161.Text = "ТANK FBD 0803/1";
-            // 
-            // pictureBox81
-            // 
-            this.pictureBox81.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox81.Name = "pictureBox81";
-            this.pictureBox81.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox81.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox81.TabIndex = 45;
-            this.pictureBox81.TabStop = false;
-            // 
-            // panel80
-            // 
-            this.panel80.Controls.Add(this.pictureBox80);
-            this.panel80.Controls.Add(this.textBox159);
-            this.panel80.Controls.Add(this.textBox160);
-            this.panel80.Location = new System.Drawing.Point(691, 235);
-            this.panel80.Name = "panel80";
-            this.panel80.Size = new System.Drawing.Size(338, 110);
-            this.panel80.TabIndex = 8;
-            // 
-            // textBox160
-            // 
-            this.textBox160.BackColor = System.Drawing.Color.White;
-            this.textBox160.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox160.Location = new System.Drawing.Point(112, 22);
-            this.textBox160.Multiline = true;
-            this.textBox160.Name = "textBox160";
-            this.textBox160.ReadOnly = true;
-            this.textBox160.Size = new System.Drawing.Size(159, 81);
-            this.textBox160.TabIndex = 44;
-            this.textBox160.Text = "Щелочное пенное дезинфицирующее моющее средство для цветных металлов с активным х" +
-    "лором";
-            // 
-            // textBox159
-            // 
-            this.textBox159.BackColor = System.Drawing.Color.White;
-            this.textBox159.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox159.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox159.Location = new System.Drawing.Point(112, 3);
-            this.textBox159.Name = "textBox159";
-            this.textBox159.ReadOnly = true;
-            this.textBox159.Size = new System.Drawing.Size(100, 13);
-            this.textBox159.TabIndex = 43;
-            this.textBox159.Text = "Tank FBD 0402/1";
-            // 
-            // pictureBox80
-            // 
-            this.pictureBox80.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox80.Name = "pictureBox80";
-            this.pictureBox80.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox80.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox80.TabIndex = 42;
-            this.pictureBox80.TabStop = false;
-            // 
-            // panel79
-            // 
-            this.panel79.Controls.Add(this.pictureBox79);
-            this.panel79.Controls.Add(this.textBox157);
-            this.panel79.Controls.Add(this.textBox158);
-            this.panel79.Location = new System.Drawing.Point(691, 119);
-            this.panel79.Name = "panel79";
-            this.panel79.Size = new System.Drawing.Size(338, 110);
-            this.panel79.TabIndex = 5;
-            // 
-            // textBox158
-            // 
-            this.textBox158.BackColor = System.Drawing.Color.White;
-            this.textBox158.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox158.Location = new System.Drawing.Point(112, 22);
-            this.textBox158.Multiline = true;
-            this.textBox158.Name = "textBox158";
-            this.textBox158.ReadOnly = true;
-            this.textBox158.Size = new System.Drawing.Size(159, 81);
-            this.textBox158.TabIndex = 35;
-            this.textBox158.Text = "Кислотное высокопенное моющее средство";
-            // 
-            // textBox157
-            // 
-            this.textBox157.BackColor = System.Drawing.Color.White;
-            this.textBox157.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox157.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox157.Location = new System.Drawing.Point(112, 3);
-            this.textBox157.Name = "textBox157";
-            this.textBox157.ReadOnly = true;
-            this.textBox157.Size = new System.Drawing.Size(100, 13);
-            this.textBox157.TabIndex = 34;
-            this.textBox157.Text = "TANK FA18";
-            // 
-            // pictureBox79
-            // 
-            this.pictureBox79.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox79.Name = "pictureBox79";
-            this.pictureBox79.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox79.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox79.TabIndex = 33;
-            this.pictureBox79.TabStop = false;
-            // 
-            // panel78
-            // 
-            this.panel78.Controls.Add(this.pictureBox78);
-            this.panel78.Controls.Add(this.textBox155);
-            this.panel78.Controls.Add(this.textBox156);
-            this.panel78.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel78.Location = new System.Drawing.Point(347, 119);
-            this.panel78.Name = "panel78";
-            this.panel78.Size = new System.Drawing.Size(338, 110);
-            this.panel78.TabIndex = 4;
-            // 
-            // textBox156
-            // 
-            this.textBox156.BackColor = System.Drawing.Color.White;
-            this.textBox156.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox156.Location = new System.Drawing.Point(112, 22);
-            this.textBox156.Multiline = true;
-            this.textBox156.Name = "textBox156";
-            this.textBox156.ReadOnly = true;
-            this.textBox156.Size = new System.Drawing.Size(159, 81);
-            this.textBox156.TabIndex = 32;
-            this.textBox156.Text = "Высокощелочное беспенное моющее средство с активным хлором";
-            // 
-            // textBox155
-            // 
-            this.textBox155.BackColor = System.Drawing.Color.White;
-            this.textBox155.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox155.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox155.Location = new System.Drawing.Point(112, 3);
-            this.textBox155.Name = "textBox155";
-            this.textBox155.ReadOnly = true;
-            this.textBox155.Size = new System.Drawing.Size(100, 13);
-            this.textBox155.TabIndex = 31;
-            this.textBox155.Text = "TANK CBD 2401/1";
-            // 
-            // pictureBox78
-            // 
-            this.pictureBox78.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox78.Name = "pictureBox78";
-            this.pictureBox78.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox78.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox78.TabIndex = 30;
-            this.pictureBox78.TabStop = false;
-            // 
-            // panel77
-            // 
-            this.panel77.Controls.Add(this.pictureBox77);
-            this.panel77.Controls.Add(this.textBox153);
-            this.panel77.Controls.Add(this.textBox154);
-            this.panel77.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel77.Location = new System.Drawing.Point(3, 119);
-            this.panel77.Name = "panel77";
-            this.panel77.Size = new System.Drawing.Size(338, 110);
-            this.panel77.TabIndex = 3;
-            // 
-            // textBox154
-            // 
-            this.textBox154.BackColor = System.Drawing.Color.White;
-            this.textBox154.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox154.Location = new System.Drawing.Point(112, 22);
-            this.textBox154.Multiline = true;
-            this.textBox154.Name = "textBox154";
-            this.textBox154.ReadOnly = true;
-            this.textBox154.Size = new System.Drawing.Size(159, 81);
-            this.textBox154.TabIndex = 29;
-            this.textBox154.Text = "Высокощелочное беспенное моющее средство";
-            // 
-            // textBox153
-            // 
-            this.textBox153.BackColor = System.Drawing.Color.White;
-            this.textBox153.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox153.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox153.Location = new System.Drawing.Point(112, 3);
-            this.textBox153.Name = "textBox153";
-            this.textBox153.ReadOnly = true;
-            this.textBox153.Size = new System.Drawing.Size(100, 13);
-            this.textBox153.TabIndex = 28;
-            this.textBox153.Text = "TANK CB46";
-            // 
-            // pictureBox77
-            // 
-            this.pictureBox77.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox77.Name = "pictureBox77";
-            this.pictureBox77.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox77.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox77.TabIndex = 27;
-            this.pictureBox77.TabStop = false;
-            // 
-            // panel76
-            // 
-            this.panel76.Controls.Add(this.pictureBox76);
-            this.panel76.Controls.Add(this.textBox151);
-            this.panel76.Controls.Add(this.textBox152);
-            this.panel76.Location = new System.Drawing.Point(691, 3);
-            this.panel76.Name = "panel76";
-            this.panel76.Size = new System.Drawing.Size(338, 110);
-            this.panel76.TabIndex = 2;
-            // 
-            // textBox152
-            // 
-            this.textBox152.BackColor = System.Drawing.Color.White;
-            this.textBox152.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox152.Location = new System.Drawing.Point(112, 22);
-            this.textBox152.Multiline = true;
-            this.textBox152.Name = "textBox152";
-            this.textBox152.ReadOnly = true;
-            this.textBox152.Size = new System.Drawing.Size(159, 81);
-            this.textBox152.TabIndex = 26;
-            this.textBox152.Text = "Высокощелочное беспенное моющее средств";
-            // 
-            // textBox151
-            // 
-            this.textBox151.BackColor = System.Drawing.Color.White;
-            this.textBox151.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox151.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox151.Location = new System.Drawing.Point(112, 3);
-            this.textBox151.Name = "textBox151";
-            this.textBox151.ReadOnly = true;
-            this.textBox151.Size = new System.Drawing.Size(100, 13);
-            this.textBox151.TabIndex = 25;
-            this.textBox151.Text = "TANK CB23";
-            // 
-            // pictureBox76
-            // 
-            this.pictureBox76.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox76.Name = "pictureBox76";
-            this.pictureBox76.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox76.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox76.TabIndex = 24;
-            this.pictureBox76.TabStop = false;
-            // 
-            // panel75
-            // 
-            this.panel75.Controls.Add(this.pictureBox75);
-            this.panel75.Controls.Add(this.textBox149);
-            this.panel75.Controls.Add(this.textBox150);
-            this.panel75.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel75.Location = new System.Drawing.Point(347, 3);
-            this.panel75.Name = "panel75";
-            this.panel75.Size = new System.Drawing.Size(338, 110);
-            this.panel75.TabIndex = 1;
-            // 
-            // textBox150
-            // 
-            this.textBox150.BackColor = System.Drawing.Color.White;
-            this.textBox150.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox150.Location = new System.Drawing.Point(112, 23);
-            this.textBox150.Multiline = true;
-            this.textBox150.Name = "textBox150";
-            this.textBox150.ReadOnly = true;
-            this.textBox150.Size = new System.Drawing.Size(159, 81);
-            this.textBox150.TabIndex = 23;
-            this.textBox150.Text = "Надуксусная кислота Марка НУК15";
-            // 
-            // textBox149
-            // 
-            this.textBox149.BackColor = System.Drawing.Color.White;
-            this.textBox149.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox149.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox149.Location = new System.Drawing.Point(112, 4);
-            this.textBox149.Name = "textBox149";
-            this.textBox149.ReadOnly = true;
-            this.textBox149.Size = new System.Drawing.Size(100, 13);
-            this.textBox149.TabIndex = 22;
-            this.textBox149.Text = "Tank CAD 1415/3";
-            // 
-            // pictureBox75
-            // 
-            this.pictureBox75.Location = new System.Drawing.Point(3, 4);
-            this.pictureBox75.Name = "pictureBox75";
-            this.pictureBox75.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox75.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox75.TabIndex = 21;
-            this.pictureBox75.TabStop = false;
-            // 
-            // panel74
-            // 
-            this.panel74.Controls.Add(this.pictureBox74);
-            this.panel74.Controls.Add(this.textBox147);
-            this.panel74.Controls.Add(this.textBox148);
-            this.panel74.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel74.Location = new System.Drawing.Point(3, 3);
-            this.panel74.Name = "panel74";
-            this.panel74.Size = new System.Drawing.Size(338, 110);
-            this.panel74.TabIndex = 0;
-            // 
-            // textBox148
-            // 
-            this.textBox148.BackColor = System.Drawing.Color.White;
-            this.textBox148.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox148.Location = new System.Drawing.Point(112, 23);
-            this.textBox148.Multiline = true;
-            this.textBox148.Name = "textBox148";
-            this.textBox148.ReadOnly = true;
-            this.textBox148.Size = new System.Drawing.Size(159, 56);
-            this.textBox148.TabIndex = 20;
-            this.textBox148.Text = "Кислотное беспенное моющее средство";
-            // 
-            // textBox147
-            // 
-            this.textBox147.BackColor = System.Drawing.Color.White;
-            this.textBox147.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox147.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox147.Location = new System.Drawing.Point(112, 4);
-            this.textBox147.Name = "textBox147";
-            this.textBox147.ReadOnly = true;
-            this.textBox147.Size = new System.Drawing.Size(100, 13);
-            this.textBox147.TabIndex = 18;
-            this.textBox147.Text = "TANK CA27";
-            // 
-            // pictureBox74
-            // 
-            this.pictureBox74.Location = new System.Drawing.Point(3, 4);
-            this.pictureBox74.Name = "pictureBox74";
-            this.pictureBox74.Size = new System.Drawing.Size(100, 93);
-            this.pictureBox74.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox74.TabIndex = 6;
-            this.pictureBox74.TabStop = false;
-            // 
-            // panel73
-            // 
-            this.panel73.Controls.Add(this.pictureBox73);
-            this.panel73.Controls.Add(this.textBox145);
-            this.panel73.Controls.Add(this.textBox146);
-            this.panel73.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel73.Location = new System.Drawing.Point(3, 235);
-            this.panel73.Name = "panel73";
-            this.panel73.Size = new System.Drawing.Size(338, 110);
-            this.panel73.TabIndex = 6;
-            // 
-            // textBox146
-            // 
-            this.textBox146.BackColor = System.Drawing.Color.White;
-            this.textBox146.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox146.Location = new System.Drawing.Point(112, 22);
-            this.textBox146.Multiline = true;
-            this.textBox146.Name = "textBox146";
-            this.textBox146.ReadOnly = true;
-            this.textBox146.Size = new System.Drawing.Size(159, 81);
-            this.textBox146.TabIndex = 38;
-            this.textBox146.Text = "Высокощелочное пенное моющее средство";
-            // 
-            // textBox145
-            // 
-            this.textBox145.BackColor = System.Drawing.Color.White;
-            this.textBox145.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox145.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox145.Location = new System.Drawing.Point(112, 3);
-            this.textBox145.Name = "textBox145";
-            this.textBox145.ReadOnly = true;
-            this.textBox145.Size = new System.Drawing.Size(100, 13);
-            this.textBox145.TabIndex = 37;
-            this.textBox145.Text = "TANK FB17";
-            // 
-            // pictureBox73
-            // 
-            this.pictureBox73.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox73.Name = "pictureBox73";
-            this.pictureBox73.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox73.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox73.TabIndex = 36;
-            this.pictureBox73.TabStop = false;
-            // 
-            // panel72
-            // 
-            this.panel72.Controls.Add(this.pictureBox72);
-            this.panel72.Controls.Add(this.textBox143);
-            this.panel72.Controls.Add(this.textBox144);
-            this.panel72.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel72.Location = new System.Drawing.Point(347, 235);
-            this.panel72.Name = "panel72";
-            this.panel72.Size = new System.Drawing.Size(338, 110);
-            this.panel72.TabIndex = 7;
-            // 
-            // textBox144
-            // 
-            this.textBox144.BackColor = System.Drawing.Color.White;
-            this.textBox144.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox144.Location = new System.Drawing.Point(112, 22);
-            this.textBox144.Multiline = true;
-            this.textBox144.Name = "textBox144";
-            this.textBox144.ReadOnly = true;
-            this.textBox144.Size = new System.Drawing.Size(159, 81);
-            this.textBox144.TabIndex = 41;
-            this.textBox144.Text = "Высокощелочное пенное моющее средство";
-            // 
-            // textBox143
-            // 
-            this.textBox143.BackColor = System.Drawing.Color.White;
-            this.textBox143.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox143.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox143.Location = new System.Drawing.Point(112, 3);
-            this.textBox143.Name = "textBox143";
-            this.textBox143.ReadOnly = true;
-            this.textBox143.Size = new System.Drawing.Size(100, 13);
-            this.textBox143.TabIndex = 40;
-            this.textBox143.Text = "TANK FB36";
-            // 
-            // pictureBox72
-            // 
-            this.pictureBox72.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox72.Name = "pictureBox72";
-            this.pictureBox72.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox72.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox72.TabIndex = 39;
-            this.pictureBox72.TabStop = false;
-            // 
-            // panel71
-            // 
-            this.panel71.Controls.Add(this.pictureBox71);
-            this.panel71.Controls.Add(this.textBox141);
-            this.panel71.Controls.Add(this.textBox142);
-            this.panel71.Location = new System.Drawing.Point(3, 467);
-            this.panel71.Name = "panel71";
-            this.panel71.Size = new System.Drawing.Size(338, 110);
-            this.panel71.TabIndex = 12;
-            // 
-            // textBox142
-            // 
-            this.textBox142.BackColor = System.Drawing.Color.White;
-            this.textBox142.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox142.Location = new System.Drawing.Point(112, 19);
-            this.textBox142.Multiline = true;
-            this.textBox142.Name = "textBox142";
-            this.textBox142.ReadOnly = true;
-            this.textBox142.Size = new System.Drawing.Size(159, 81);
-            this.textBox142.TabIndex = 56;
-            this.textBox142.Text = "Щелочное низкопенное моющее средство с активным хлором";
-            // 
-            // textBox141
-            // 
-            this.textBox141.BackColor = System.Drawing.Color.White;
-            this.textBox141.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox141.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox141.Location = new System.Drawing.Point(112, 0);
-            this.textBox141.Name = "textBox141";
-            this.textBox141.ReadOnly = true;
-            this.textBox141.Size = new System.Drawing.Size(100, 13);
-            this.textBox141.TabIndex = 55;
-            this.textBox141.Text = "Tank LBD 0107/1";
-            // 
-            // pictureBox71
-            // 
-            this.pictureBox71.Location = new System.Drawing.Point(3, 0);
-            this.pictureBox71.Name = "pictureBox71";
-            this.pictureBox71.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox71.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox71.TabIndex = 54;
-            this.pictureBox71.TabStop = false;
-            // 
-            // panel70
-            // 
-            this.panel70.Controls.Add(this.pictureBox70);
-            this.panel70.Controls.Add(this.textBox139);
-            this.panel70.Controls.Add(this.textBox140);
-            this.panel70.Location = new System.Drawing.Point(347, 467);
-            this.panel70.Name = "panel70";
-            this.panel70.Size = new System.Drawing.Size(338, 110);
-            this.panel70.TabIndex = 13;
-            // 
-            // textBox140
-            // 
-            this.textBox140.BackColor = System.Drawing.Color.White;
-            this.textBox140.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox140.Location = new System.Drawing.Point(112, 19);
-            this.textBox140.Multiline = true;
-            this.textBox140.Name = "textBox140";
-            this.textBox140.ReadOnly = true;
-            this.textBox140.Size = new System.Drawing.Size(159, 81);
-            this.textBox140.TabIndex = 59;
-            this.textBox140.Text = "Щелочное низкопенное моющее средство на основе четвертичных аммониевых соединений" +
-    " (ЧАС)";
-            // 
-            // textBox139
-            // 
-            this.textBox139.BackColor = System.Drawing.Color.White;
-            this.textBox139.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox139.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.textBox139.Location = new System.Drawing.Point(112, 0);
-            this.textBox139.Name = "textBox139";
-            this.textBox139.ReadOnly = true;
-            this.textBox139.Size = new System.Drawing.Size(100, 13);
-            this.textBox139.TabIndex = 58;
-            this.textBox139.Text = "TANK LBD 1002/2";
-            // 
-            // pictureBox70
-            // 
-            this.pictureBox70.Location = new System.Drawing.Point(3, 0);
-            this.pictureBox70.Name = "pictureBox70";
-            this.pictureBox70.Size = new System.Drawing.Size(100, 100);
-            this.pictureBox70.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox70.TabIndex = 57;
-            this.pictureBox70.TabStop = false;
+            // tabPage4
+            // 
+            this.tabPage4.Controls.Add(this.tableLayoutPanel4);
+            this.tabPage4.Location = new System.Drawing.Point(4, 22);
+            this.tabPage4.Name = "tabPage4";
+            this.tabPage4.Size = new System.Drawing.Size(1049, 609);
+            this.tabPage4.TabIndex = 3;
+            this.tabPage4.Text = "Пищепром";
+            this.tabPage4.UseVisualStyleBackColor = true;
             // 
             // tableLayoutPanel4
             // 
@@ -5484,15 +4910,629 @@
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 116F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(1049, 473);
+            this.tableLayoutPanel4.Size = new System.Drawing.Size(1049, 609);
             this.tableLayoutPanel4.TabIndex = 88;
+            // 
+            // panel70
+            // 
+            this.panel70.Controls.Add(this.pictureBox70);
+            this.panel70.Controls.Add(this.textBox139);
+            this.panel70.Controls.Add(this.textBox140);
+            this.panel70.Location = new System.Drawing.Point(347, 467);
+            this.panel70.Name = "panel70";
+            this.panel70.Size = new System.Drawing.Size(338, 110);
+            this.panel70.TabIndex = 13;
+            // 
+            // pictureBox70
+            // 
+            this.pictureBox70.Location = new System.Drawing.Point(3, 0);
+            this.pictureBox70.Name = "pictureBox70";
+            this.pictureBox70.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox70.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox70.TabIndex = 57;
+            this.pictureBox70.TabStop = false;
+            // 
+            // textBox139
+            // 
+            this.textBox139.BackColor = System.Drawing.Color.White;
+            this.textBox139.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox139.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox139.Location = new System.Drawing.Point(112, 0);
+            this.textBox139.Name = "textBox139";
+            this.textBox139.ReadOnly = true;
+            this.textBox139.Size = new System.Drawing.Size(100, 13);
+            this.textBox139.TabIndex = 58;
+            this.textBox139.Text = "TANK LBD 1002/2";
+            // 
+            // textBox140
+            // 
+            this.textBox140.BackColor = System.Drawing.Color.White;
+            this.textBox140.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox140.Location = new System.Drawing.Point(112, 19);
+            this.textBox140.Multiline = true;
+            this.textBox140.Name = "textBox140";
+            this.textBox140.ReadOnly = true;
+            this.textBox140.Size = new System.Drawing.Size(159, 81);
+            this.textBox140.TabIndex = 59;
+            this.textBox140.Text = "Щелочное низкопенное моющее средство на основе четвертичных аммониевых соединений" +
+    " (ЧАС)";
+            // 
+            // panel71
+            // 
+            this.panel71.Controls.Add(this.pictureBox71);
+            this.panel71.Controls.Add(this.textBox141);
+            this.panel71.Controls.Add(this.textBox142);
+            this.panel71.Location = new System.Drawing.Point(3, 467);
+            this.panel71.Name = "panel71";
+            this.panel71.Size = new System.Drawing.Size(338, 110);
+            this.panel71.TabIndex = 12;
+            // 
+            // pictureBox71
+            // 
+            this.pictureBox71.Location = new System.Drawing.Point(3, 0);
+            this.pictureBox71.Name = "pictureBox71";
+            this.pictureBox71.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox71.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox71.TabIndex = 54;
+            this.pictureBox71.TabStop = false;
+            // 
+            // textBox141
+            // 
+            this.textBox141.BackColor = System.Drawing.Color.White;
+            this.textBox141.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox141.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox141.Location = new System.Drawing.Point(112, 0);
+            this.textBox141.Name = "textBox141";
+            this.textBox141.ReadOnly = true;
+            this.textBox141.Size = new System.Drawing.Size(100, 13);
+            this.textBox141.TabIndex = 55;
+            this.textBox141.Text = "Tank LBD 0107/1";
+            // 
+            // textBox142
+            // 
+            this.textBox142.BackColor = System.Drawing.Color.White;
+            this.textBox142.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox142.Location = new System.Drawing.Point(112, 19);
+            this.textBox142.Multiline = true;
+            this.textBox142.Name = "textBox142";
+            this.textBox142.ReadOnly = true;
+            this.textBox142.Size = new System.Drawing.Size(159, 81);
+            this.textBox142.TabIndex = 56;
+            this.textBox142.Text = "Щелочное низкопенное моющее средство с активным хлором";
+            // 
+            // panel72
+            // 
+            this.panel72.Controls.Add(this.pictureBox72);
+            this.panel72.Controls.Add(this.textBox143);
+            this.panel72.Controls.Add(this.textBox144);
+            this.panel72.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel72.Location = new System.Drawing.Point(347, 235);
+            this.panel72.Name = "panel72";
+            this.panel72.Size = new System.Drawing.Size(338, 110);
+            this.panel72.TabIndex = 7;
+            // 
+            // pictureBox72
+            // 
+            this.pictureBox72.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox72.Name = "pictureBox72";
+            this.pictureBox72.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox72.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox72.TabIndex = 39;
+            this.pictureBox72.TabStop = false;
+            // 
+            // textBox143
+            // 
+            this.textBox143.BackColor = System.Drawing.Color.White;
+            this.textBox143.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox143.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox143.Location = new System.Drawing.Point(112, 3);
+            this.textBox143.Name = "textBox143";
+            this.textBox143.ReadOnly = true;
+            this.textBox143.Size = new System.Drawing.Size(100, 13);
+            this.textBox143.TabIndex = 40;
+            this.textBox143.Text = "TANK FB36";
+            // 
+            // textBox144
+            // 
+            this.textBox144.BackColor = System.Drawing.Color.White;
+            this.textBox144.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox144.Location = new System.Drawing.Point(112, 22);
+            this.textBox144.Multiline = true;
+            this.textBox144.Name = "textBox144";
+            this.textBox144.ReadOnly = true;
+            this.textBox144.Size = new System.Drawing.Size(159, 81);
+            this.textBox144.TabIndex = 41;
+            this.textBox144.Text = "Высокощелочное пенное моющее средство";
+            // 
+            // panel73
+            // 
+            this.panel73.Controls.Add(this.pictureBox73);
+            this.panel73.Controls.Add(this.textBox145);
+            this.panel73.Controls.Add(this.textBox146);
+            this.panel73.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel73.Location = new System.Drawing.Point(3, 235);
+            this.panel73.Name = "panel73";
+            this.panel73.Size = new System.Drawing.Size(338, 110);
+            this.panel73.TabIndex = 6;
+            // 
+            // pictureBox73
+            // 
+            this.pictureBox73.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox73.Name = "pictureBox73";
+            this.pictureBox73.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox73.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox73.TabIndex = 36;
+            this.pictureBox73.TabStop = false;
+            // 
+            // textBox145
+            // 
+            this.textBox145.BackColor = System.Drawing.Color.White;
+            this.textBox145.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox145.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox145.Location = new System.Drawing.Point(112, 3);
+            this.textBox145.Name = "textBox145";
+            this.textBox145.ReadOnly = true;
+            this.textBox145.Size = new System.Drawing.Size(100, 13);
+            this.textBox145.TabIndex = 37;
+            this.textBox145.Text = "TANK FB17";
+            // 
+            // textBox146
+            // 
+            this.textBox146.BackColor = System.Drawing.Color.White;
+            this.textBox146.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox146.Location = new System.Drawing.Point(112, 22);
+            this.textBox146.Multiline = true;
+            this.textBox146.Name = "textBox146";
+            this.textBox146.ReadOnly = true;
+            this.textBox146.Size = new System.Drawing.Size(159, 81);
+            this.textBox146.TabIndex = 38;
+            this.textBox146.Text = "Высокощелочное пенное моющее средство";
+            // 
+            // panel74
+            // 
+            this.panel74.Controls.Add(this.pictureBox74);
+            this.panel74.Controls.Add(this.textBox147);
+            this.panel74.Controls.Add(this.textBox148);
+            this.panel74.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel74.Location = new System.Drawing.Point(3, 3);
+            this.panel74.Name = "panel74";
+            this.panel74.Size = new System.Drawing.Size(338, 110);
+            this.panel74.TabIndex = 0;
+            // 
+            // pictureBox74
+            // 
+            this.pictureBox74.Location = new System.Drawing.Point(3, 4);
+            this.pictureBox74.Name = "pictureBox74";
+            this.pictureBox74.Size = new System.Drawing.Size(100, 93);
+            this.pictureBox74.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox74.TabIndex = 6;
+            this.pictureBox74.TabStop = false;
+            // 
+            // textBox147
+            // 
+            this.textBox147.BackColor = System.Drawing.Color.White;
+            this.textBox147.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox147.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox147.Location = new System.Drawing.Point(112, 4);
+            this.textBox147.Name = "textBox147";
+            this.textBox147.ReadOnly = true;
+            this.textBox147.Size = new System.Drawing.Size(100, 13);
+            this.textBox147.TabIndex = 18;
+            this.textBox147.Text = "TANK CA27";
+            // 
+            // textBox148
+            // 
+            this.textBox148.BackColor = System.Drawing.Color.White;
+            this.textBox148.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox148.Location = new System.Drawing.Point(112, 23);
+            this.textBox148.Multiline = true;
+            this.textBox148.Name = "textBox148";
+            this.textBox148.ReadOnly = true;
+            this.textBox148.Size = new System.Drawing.Size(159, 56);
+            this.textBox148.TabIndex = 20;
+            this.textBox148.Text = "Кислотное беспенное моющее средство";
+            // 
+            // panel75
+            // 
+            this.panel75.Controls.Add(this.pictureBox75);
+            this.panel75.Controls.Add(this.textBox149);
+            this.panel75.Controls.Add(this.textBox150);
+            this.panel75.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel75.Location = new System.Drawing.Point(347, 3);
+            this.panel75.Name = "panel75";
+            this.panel75.Size = new System.Drawing.Size(338, 110);
+            this.panel75.TabIndex = 1;
+            // 
+            // pictureBox75
+            // 
+            this.pictureBox75.Location = new System.Drawing.Point(3, 4);
+            this.pictureBox75.Name = "pictureBox75";
+            this.pictureBox75.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox75.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox75.TabIndex = 21;
+            this.pictureBox75.TabStop = false;
+            // 
+            // textBox149
+            // 
+            this.textBox149.BackColor = System.Drawing.Color.White;
+            this.textBox149.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox149.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox149.Location = new System.Drawing.Point(112, 4);
+            this.textBox149.Name = "textBox149";
+            this.textBox149.ReadOnly = true;
+            this.textBox149.Size = new System.Drawing.Size(100, 13);
+            this.textBox149.TabIndex = 22;
+            this.textBox149.Text = "Tank CAD 1415/3";
+            // 
+            // textBox150
+            // 
+            this.textBox150.BackColor = System.Drawing.Color.White;
+            this.textBox150.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox150.Location = new System.Drawing.Point(112, 23);
+            this.textBox150.Multiline = true;
+            this.textBox150.Name = "textBox150";
+            this.textBox150.ReadOnly = true;
+            this.textBox150.Size = new System.Drawing.Size(159, 81);
+            this.textBox150.TabIndex = 23;
+            this.textBox150.Text = "Надуксусная кислота Марка НУК15";
+            // 
+            // panel76
+            // 
+            this.panel76.Controls.Add(this.pictureBox76);
+            this.panel76.Controls.Add(this.textBox151);
+            this.panel76.Controls.Add(this.textBox152);
+            this.panel76.Location = new System.Drawing.Point(691, 3);
+            this.panel76.Name = "panel76";
+            this.panel76.Size = new System.Drawing.Size(338, 110);
+            this.panel76.TabIndex = 2;
+            // 
+            // pictureBox76
+            // 
+            this.pictureBox76.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox76.Name = "pictureBox76";
+            this.pictureBox76.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox76.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox76.TabIndex = 24;
+            this.pictureBox76.TabStop = false;
+            // 
+            // textBox151
+            // 
+            this.textBox151.BackColor = System.Drawing.Color.White;
+            this.textBox151.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox151.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox151.Location = new System.Drawing.Point(112, 3);
+            this.textBox151.Name = "textBox151";
+            this.textBox151.ReadOnly = true;
+            this.textBox151.Size = new System.Drawing.Size(100, 13);
+            this.textBox151.TabIndex = 25;
+            this.textBox151.Text = "TANK CB23";
+            // 
+            // textBox152
+            // 
+            this.textBox152.BackColor = System.Drawing.Color.White;
+            this.textBox152.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox152.Location = new System.Drawing.Point(112, 22);
+            this.textBox152.Multiline = true;
+            this.textBox152.Name = "textBox152";
+            this.textBox152.ReadOnly = true;
+            this.textBox152.Size = new System.Drawing.Size(159, 81);
+            this.textBox152.TabIndex = 26;
+            this.textBox152.Text = "Высокощелочное беспенное моющее средств";
+            // 
+            // panel77
+            // 
+            this.panel77.Controls.Add(this.pictureBox77);
+            this.panel77.Controls.Add(this.textBox153);
+            this.panel77.Controls.Add(this.textBox154);
+            this.panel77.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel77.Location = new System.Drawing.Point(3, 119);
+            this.panel77.Name = "panel77";
+            this.panel77.Size = new System.Drawing.Size(338, 110);
+            this.panel77.TabIndex = 3;
+            // 
+            // pictureBox77
+            // 
+            this.pictureBox77.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox77.Name = "pictureBox77";
+            this.pictureBox77.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox77.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox77.TabIndex = 27;
+            this.pictureBox77.TabStop = false;
+            // 
+            // textBox153
+            // 
+            this.textBox153.BackColor = System.Drawing.Color.White;
+            this.textBox153.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox153.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox153.Location = new System.Drawing.Point(112, 3);
+            this.textBox153.Name = "textBox153";
+            this.textBox153.ReadOnly = true;
+            this.textBox153.Size = new System.Drawing.Size(100, 13);
+            this.textBox153.TabIndex = 28;
+            this.textBox153.Text = "TANK CB46";
+            // 
+            // textBox154
+            // 
+            this.textBox154.BackColor = System.Drawing.Color.White;
+            this.textBox154.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox154.Location = new System.Drawing.Point(112, 22);
+            this.textBox154.Multiline = true;
+            this.textBox154.Name = "textBox154";
+            this.textBox154.ReadOnly = true;
+            this.textBox154.Size = new System.Drawing.Size(159, 81);
+            this.textBox154.TabIndex = 29;
+            this.textBox154.Text = "Высокощелочное беспенное моющее средство";
+            // 
+            // panel78
+            // 
+            this.panel78.Controls.Add(this.pictureBox78);
+            this.panel78.Controls.Add(this.textBox155);
+            this.panel78.Controls.Add(this.textBox156);
+            this.panel78.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel78.Location = new System.Drawing.Point(347, 119);
+            this.panel78.Name = "panel78";
+            this.panel78.Size = new System.Drawing.Size(338, 110);
+            this.panel78.TabIndex = 4;
+            // 
+            // pictureBox78
+            // 
+            this.pictureBox78.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox78.Name = "pictureBox78";
+            this.pictureBox78.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox78.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox78.TabIndex = 30;
+            this.pictureBox78.TabStop = false;
+            // 
+            // textBox155
+            // 
+            this.textBox155.BackColor = System.Drawing.Color.White;
+            this.textBox155.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox155.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox155.Location = new System.Drawing.Point(112, 3);
+            this.textBox155.Name = "textBox155";
+            this.textBox155.ReadOnly = true;
+            this.textBox155.Size = new System.Drawing.Size(100, 13);
+            this.textBox155.TabIndex = 31;
+            this.textBox155.Text = "TANK CBD 2401/1";
+            // 
+            // textBox156
+            // 
+            this.textBox156.BackColor = System.Drawing.Color.White;
+            this.textBox156.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox156.Location = new System.Drawing.Point(112, 22);
+            this.textBox156.Multiline = true;
+            this.textBox156.Name = "textBox156";
+            this.textBox156.ReadOnly = true;
+            this.textBox156.Size = new System.Drawing.Size(159, 81);
+            this.textBox156.TabIndex = 32;
+            this.textBox156.Text = "Высокощелочное беспенное моющее средство с активным хлором";
+            // 
+            // panel79
+            // 
+            this.panel79.Controls.Add(this.pictureBox79);
+            this.panel79.Controls.Add(this.textBox157);
+            this.panel79.Controls.Add(this.textBox158);
+            this.panel79.Location = new System.Drawing.Point(691, 119);
+            this.panel79.Name = "panel79";
+            this.panel79.Size = new System.Drawing.Size(338, 110);
+            this.panel79.TabIndex = 5;
+            // 
+            // pictureBox79
+            // 
+            this.pictureBox79.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox79.Name = "pictureBox79";
+            this.pictureBox79.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox79.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox79.TabIndex = 33;
+            this.pictureBox79.TabStop = false;
+            // 
+            // textBox157
+            // 
+            this.textBox157.BackColor = System.Drawing.Color.White;
+            this.textBox157.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox157.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox157.Location = new System.Drawing.Point(112, 3);
+            this.textBox157.Name = "textBox157";
+            this.textBox157.ReadOnly = true;
+            this.textBox157.Size = new System.Drawing.Size(100, 13);
+            this.textBox157.TabIndex = 34;
+            this.textBox157.Text = "TANK FA18";
+            // 
+            // textBox158
+            // 
+            this.textBox158.BackColor = System.Drawing.Color.White;
+            this.textBox158.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox158.Location = new System.Drawing.Point(112, 22);
+            this.textBox158.Multiline = true;
+            this.textBox158.Name = "textBox158";
+            this.textBox158.ReadOnly = true;
+            this.textBox158.Size = new System.Drawing.Size(159, 81);
+            this.textBox158.TabIndex = 35;
+            this.textBox158.Text = "Кислотное высокопенное моющее средство";
+            // 
+            // panel80
+            // 
+            this.panel80.Controls.Add(this.pictureBox80);
+            this.panel80.Controls.Add(this.textBox159);
+            this.panel80.Controls.Add(this.textBox160);
+            this.panel80.Location = new System.Drawing.Point(691, 235);
+            this.panel80.Name = "panel80";
+            this.panel80.Size = new System.Drawing.Size(338, 110);
+            this.panel80.TabIndex = 8;
+            // 
+            // pictureBox80
+            // 
+            this.pictureBox80.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox80.Name = "pictureBox80";
+            this.pictureBox80.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox80.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox80.TabIndex = 42;
+            this.pictureBox80.TabStop = false;
+            // 
+            // textBox159
+            // 
+            this.textBox159.BackColor = System.Drawing.Color.White;
+            this.textBox159.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox159.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox159.Location = new System.Drawing.Point(112, 3);
+            this.textBox159.Name = "textBox159";
+            this.textBox159.ReadOnly = true;
+            this.textBox159.Size = new System.Drawing.Size(100, 13);
+            this.textBox159.TabIndex = 43;
+            this.textBox159.Text = "Tank FBD 0402/1";
+            // 
+            // textBox160
+            // 
+            this.textBox160.BackColor = System.Drawing.Color.White;
+            this.textBox160.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox160.Location = new System.Drawing.Point(112, 22);
+            this.textBox160.Multiline = true;
+            this.textBox160.Name = "textBox160";
+            this.textBox160.ReadOnly = true;
+            this.textBox160.Size = new System.Drawing.Size(159, 81);
+            this.textBox160.TabIndex = 44;
+            this.textBox160.Text = "Щелочное пенное дезинфицирующее моющее средство для цветных металлов с активным х" +
+    "лором";
+            // 
+            // panel81
+            // 
+            this.panel81.Controls.Add(this.pictureBox81);
+            this.panel81.Controls.Add(this.textBox161);
+            this.panel81.Controls.Add(this.textBox162);
+            this.panel81.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel81.Location = new System.Drawing.Point(3, 351);
+            this.panel81.Name = "panel81";
+            this.panel81.Size = new System.Drawing.Size(338, 110);
+            this.panel81.TabIndex = 9;
+            // 
+            // pictureBox81
+            // 
+            this.pictureBox81.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox81.Name = "pictureBox81";
+            this.pictureBox81.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox81.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox81.TabIndex = 45;
+            this.pictureBox81.TabStop = false;
+            // 
+            // textBox161
+            // 
+            this.textBox161.BackColor = System.Drawing.Color.White;
+            this.textBox161.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox161.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox161.Location = new System.Drawing.Point(112, 3);
+            this.textBox161.Name = "textBox161";
+            this.textBox161.ReadOnly = true;
+            this.textBox161.Size = new System.Drawing.Size(100, 13);
+            this.textBox161.TabIndex = 46;
+            this.textBox161.Text = "ТANK FBD 0803/1";
+            // 
+            // textBox162
+            // 
+            this.textBox162.BackColor = System.Drawing.Color.White;
+            this.textBox162.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox162.Location = new System.Drawing.Point(112, 22);
+            this.textBox162.Multiline = true;
+            this.textBox162.Name = "textBox162";
+            this.textBox162.ReadOnly = true;
+            this.textBox162.Size = new System.Drawing.Size(159, 81);
+            this.textBox162.TabIndex = 47;
+            this.textBox162.Text = "Щелочное пенное моющее средство с активным хлором";
+            // 
+            // panel82
+            // 
+            this.panel82.Controls.Add(this.pictureBox82);
+            this.panel82.Controls.Add(this.textBox163);
+            this.panel82.Controls.Add(this.textBox164);
+            this.panel82.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel82.Location = new System.Drawing.Point(347, 351);
+            this.panel82.Name = "panel82";
+            this.panel82.Size = new System.Drawing.Size(338, 110);
+            this.panel82.TabIndex = 10;
+            // 
+            // pictureBox82
+            // 
+            this.pictureBox82.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox82.Name = "pictureBox82";
+            this.pictureBox82.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox82.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox82.TabIndex = 48;
+            this.pictureBox82.TabStop = false;
+            // 
+            // textBox163
+            // 
+            this.textBox163.BackColor = System.Drawing.Color.White;
+            this.textBox163.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox163.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox163.Location = new System.Drawing.Point(112, 3);
+            this.textBox163.Name = "textBox163";
+            this.textBox163.ReadOnly = true;
+            this.textBox163.Size = new System.Drawing.Size(100, 13);
+            this.textBox163.TabIndex = 49;
+            this.textBox163.Text = "TANK FBD 0902/2";
+            // 
+            // textBox164
+            // 
+            this.textBox164.BackColor = System.Drawing.Color.White;
+            this.textBox164.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox164.Location = new System.Drawing.Point(112, 22);
+            this.textBox164.Multiline = true;
+            this.textBox164.Name = "textBox164";
+            this.textBox164.ReadOnly = true;
+            this.textBox164.Size = new System.Drawing.Size(159, 81);
+            this.textBox164.TabIndex = 50;
+            this.textBox164.Text = "Щелочное высокопенное моющее средство на основе четвертичных аммониевых соединени" +
+    "й (ЧАС)";
+            // 
+            // panel83
+            // 
+            this.panel83.Controls.Add(this.pictureBox83);
+            this.panel83.Controls.Add(this.textBox165);
+            this.panel83.Controls.Add(this.textBox166);
+            this.panel83.Location = new System.Drawing.Point(691, 351);
+            this.panel83.Name = "panel83";
+            this.panel83.Size = new System.Drawing.Size(338, 110);
+            this.panel83.TabIndex = 11;
+            // 
+            // pictureBox83
+            // 
+            this.pictureBox83.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox83.Name = "pictureBox83";
+            this.pictureBox83.Size = new System.Drawing.Size(100, 100);
+            this.pictureBox83.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox83.TabIndex = 51;
+            this.pictureBox83.TabStop = false;
+            // 
+            // textBox165
+            // 
+            this.textBox165.BackColor = System.Drawing.Color.White;
+            this.textBox165.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox165.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.textBox165.Location = new System.Drawing.Point(112, 3);
+            this.textBox165.Name = "textBox165";
+            this.textBox165.ReadOnly = true;
+            this.textBox165.Size = new System.Drawing.Size(100, 13);
+            this.textBox165.TabIndex = 52;
+            this.textBox165.Text = "Tank FN";
+            // 
+            // textBox166
+            // 
+            this.textBox166.BackColor = System.Drawing.Color.White;
+            this.textBox166.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox166.Location = new System.Drawing.Point(112, 22);
+            this.textBox166.Multiline = true;
+            this.textBox166.Name = "textBox166";
+            this.textBox166.ReadOnly = true;
+            this.textBox166.Size = new System.Drawing.Size(159, 81);
+            this.textBox166.TabIndex = 53;
+            this.textBox166.Text = "Нейтральное концентрированное пенное средство для ручной мойки твердых поверхност" +
+    "ей";
             // 
             // Spravka
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.AutoScroll = true;
-            this.ClientSize = new System.Drawing.Size(1057, 499);
+            this.ClientSize = new System.Drawing.Size(1057, 635);
             this.Controls.Add(this.tabControl1);
             this.Name = "Spravka";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -5501,80 +5541,58 @@
             this.Load += new System.EventHandler(this.Spravka_Load);
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
-            this.tabPage3.ResumeLayout(false);
-            this.tabPage4.ResumeLayout(false);
-            this.tableLayoutPanel1.ResumeLayout(false);
-            this.panel23.ResumeLayout(false);
-            this.panel23.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox32)).EndInit();
-            this.panel22.ResumeLayout(false);
-            this.panel22.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox33)).EndInit();
-            this.panel21.ResumeLayout(false);
-            this.panel21.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox34)).EndInit();
-            this.panel20.ResumeLayout(false);
-            this.panel20.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
-            this.panel19.ResumeLayout(false);
-            this.panel19.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
-            this.panel18.ResumeLayout(false);
-            this.panel18.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).EndInit();
-            this.panel17.ResumeLayout(false);
-            this.panel17.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
-            this.panel16.ResumeLayout(false);
-            this.panel16.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
-            this.panel15.ResumeLayout(false);
-            this.panel15.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
-            this.panel12.ResumeLayout(false);
-            this.panel12.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).EndInit();
-            this.panel11.ResumeLayout(false);
-            this.panel11.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).EndInit();
-            this.panel10.ResumeLayout(false);
-            this.panel10.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
-            this.panel9.ResumeLayout(false);
-            this.panel9.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
-            this.panel6.ResumeLayout(false);
-            this.panel6.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
-            this.panel5.ResumeLayout(false);
-            this.panel5.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
-            this.panel4.ResumeLayout(false);
-            this.panel4.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
-            this.panel3.ResumeLayout(false);
-            this.panel3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
-            this.panel2.ResumeLayout(false);
-            this.panel2.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
-            this.panel7.ResumeLayout(false);
-            this.panel7.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
-            this.panel8.ResumeLayout(false);
-            this.panel8.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
-            this.panel13.ResumeLayout(false);
-            this.panel13.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).EndInit();
-            this.panel14.ResumeLayout(false);
-            this.panel14.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
-            this.tabPage2.ResumeLayout(false);
             this.tableLayoutPanel2.ResumeLayout(false);
+            this.panel111.ResumeLayout(false);
+            this.panel111.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).EndInit();
+            this.panel110.ResumeLayout(false);
+            this.panel110.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox110)).EndInit();
+            this.panel109.ResumeLayout(false);
+            this.panel109.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox109)).EndInit();
+            this.panel107.ResumeLayout(false);
+            this.panel107.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox107)).EndInit();
+            this.panel106.ResumeLayout(false);
+            this.panel106.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox106)).EndInit();
+            this.panel105.ResumeLayout(false);
+            this.panel105.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox105)).EndInit();
+            this.panel104.ResumeLayout(false);
+            this.panel104.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox104)).EndInit();
+            this.panel103.ResumeLayout(false);
+            this.panel103.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).EndInit();
+            this.panel102.ResumeLayout(false);
+            this.panel102.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).EndInit();
+            this.panel101.ResumeLayout(false);
+            this.panel101.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox101)).EndInit();
+            this.panel100.ResumeLayout(false);
+            this.panel100.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).EndInit();
+            this.panel99.ResumeLayout(false);
+            this.panel99.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).EndInit();
+            this.panel98.ResumeLayout(false);
+            this.panel98.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox98)).EndInit();
+            this.panel97.ResumeLayout(false);
+            this.panel97.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox97)).EndInit();
+            this.panel96.ResumeLayout(false);
+            this.panel96.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).EndInit();
+            this.panel94.ResumeLayout(false);
+            this.panel94.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).EndInit();
+            this.panel93.ResumeLayout(false);
+            this.panel93.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox93)).EndInit();
             this.panel24.ResumeLayout(false);
             this.panel24.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
@@ -5644,7 +5662,91 @@
             this.panel46.ResumeLayout(false);
             this.panel46.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox46)).EndInit();
+            this.panel108.ResumeLayout(false);
+            this.panel108.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox108)).EndInit();
+            this.tabPage2.ResumeLayout(false);
+            this.tableLayoutPanel1.ResumeLayout(false);
+            this.panel14.ResumeLayout(false);
+            this.panel14.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox27)).EndInit();
+            this.panel13.ResumeLayout(false);
+            this.panel13.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox28)).EndInit();
+            this.panel8.ResumeLayout(false);
+            this.panel8.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox17)).EndInit();
+            this.panel7.ResumeLayout(false);
+            this.panel7.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox18)).EndInit();
+            this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
+            this.panel2.ResumeLayout(false);
+            this.panel2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox16)).EndInit();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox7)).EndInit();
+            this.panel4.ResumeLayout(false);
+            this.panel4.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox6)).EndInit();
+            this.panel5.ResumeLayout(false);
+            this.panel5.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox9)).EndInit();
+            this.panel6.ResumeLayout(false);
+            this.panel6.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox8)).EndInit();
+            this.panel9.ResumeLayout(false);
+            this.panel9.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox20)).EndInit();
+            this.panel10.ResumeLayout(false);
+            this.panel10.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox19)).EndInit();
+            this.panel11.ResumeLayout(false);
+            this.panel11.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox30)).EndInit();
+            this.panel12.ResumeLayout(false);
+            this.panel12.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox29)).EndInit();
+            this.panel15.ResumeLayout(false);
+            this.panel15.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox26)).EndInit();
+            this.panel16.ResumeLayout(false);
+            this.panel16.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox25)).EndInit();
+            this.panel17.ResumeLayout(false);
+            this.panel17.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox24)).EndInit();
+            this.panel18.ResumeLayout(false);
+            this.panel18.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox23)).EndInit();
+            this.panel19.ResumeLayout(false);
+            this.panel19.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox22)).EndInit();
+            this.panel20.ResumeLayout(false);
+            this.panel20.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox21)).EndInit();
+            this.panel21.ResumeLayout(false);
+            this.panel21.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox34)).EndInit();
+            this.panel22.ResumeLayout(false);
+            this.panel22.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox33)).EndInit();
+            this.panel23.ResumeLayout(false);
+            this.panel23.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox32)).EndInit();
+            this.tabPage3.ResumeLayout(false);
             this.tableLayoutPanel3.ResumeLayout(false);
+            this.panel113.ResumeLayout(false);
+            this.panel113.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox113)).EndInit();
+            this.panel112.ResumeLayout(false);
+            this.panel112.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).EndInit();
+            this.panel95.ResumeLayout(false);
+            this.panel95.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).EndInit();
             this.panel47.ResumeLayout(false);
             this.panel47.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox47)).EndInit();
@@ -5714,112 +5816,50 @@
             this.panel69.ResumeLayout(false);
             this.panel69.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox69)).EndInit();
-            this.panel93.ResumeLayout(false);
-            this.panel93.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox93)).EndInit();
-            this.panel94.ResumeLayout(false);
-            this.panel94.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox94)).EndInit();
-            this.panel96.ResumeLayout(false);
-            this.panel96.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox96)).EndInit();
-            this.panel97.ResumeLayout(false);
-            this.panel97.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox97)).EndInit();
-            this.panel98.ResumeLayout(false);
-            this.panel98.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox98)).EndInit();
-            this.panel99.ResumeLayout(false);
-            this.panel99.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox99)).EndInit();
-            this.panel100.ResumeLayout(false);
-            this.panel100.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox100)).EndInit();
-            this.panel101.ResumeLayout(false);
-            this.panel101.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox101)).EndInit();
-            this.panel102.ResumeLayout(false);
-            this.panel102.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox102)).EndInit();
-            this.panel103.ResumeLayout(false);
-            this.panel103.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox103)).EndInit();
-            this.panel104.ResumeLayout(false);
-            this.panel104.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox104)).EndInit();
-            this.panel105.ResumeLayout(false);
-            this.panel105.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox105)).EndInit();
-            this.panel106.ResumeLayout(false);
-            this.panel106.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox106)).EndInit();
-            this.panel107.ResumeLayout(false);
-            this.panel107.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox107)).EndInit();
-            this.panel108.ResumeLayout(false);
-            this.panel108.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox108)).EndInit();
-            this.panel109.ResumeLayout(false);
-            this.panel109.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox109)).EndInit();
-            this.panel110.ResumeLayout(false);
-            this.panel110.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox110)).EndInit();
-            this.panel111.ResumeLayout(false);
-            this.panel111.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox111)).EndInit();
-            this.panel95.ResumeLayout(false);
-            this.panel95.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox95)).EndInit();
-            this.panel112.ResumeLayout(false);
-            this.panel112.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox112)).EndInit();
-            this.panel113.ResumeLayout(false);
-            this.panel113.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox113)).EndInit();
-            this.panel83.ResumeLayout(false);
-            this.panel83.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox83)).EndInit();
-            this.panel82.ResumeLayout(false);
-            this.panel82.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).EndInit();
-            this.panel81.ResumeLayout(false);
-            this.panel81.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).EndInit();
-            this.panel80.ResumeLayout(false);
-            this.panel80.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).EndInit();
-            this.panel79.ResumeLayout(false);
-            this.panel79.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).EndInit();
-            this.panel78.ResumeLayout(false);
-            this.panel78.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox78)).EndInit();
-            this.panel77.ResumeLayout(false);
-            this.panel77.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).EndInit();
-            this.panel76.ResumeLayout(false);
-            this.panel76.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox76)).EndInit();
-            this.panel75.ResumeLayout(false);
-            this.panel75.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).EndInit();
-            this.panel74.ResumeLayout(false);
-            this.panel74.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox74)).EndInit();
-            this.panel73.ResumeLayout(false);
-            this.panel73.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).EndInit();
-            this.panel72.ResumeLayout(false);
-            this.panel72.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox72)).EndInit();
-            this.panel71.ResumeLayout(false);
-            this.panel71.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).EndInit();
+            this.tabPage4.ResumeLayout(false);
+            this.tableLayoutPanel4.ResumeLayout(false);
             this.panel70.ResumeLayout(false);
             this.panel70.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox70)).EndInit();
-            this.tableLayoutPanel4.ResumeLayout(false);
+            this.panel71.ResumeLayout(false);
+            this.panel71.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox71)).EndInit();
+            this.panel72.ResumeLayout(false);
+            this.panel72.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox72)).EndInit();
+            this.panel73.ResumeLayout(false);
+            this.panel73.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox73)).EndInit();
+            this.panel74.ResumeLayout(false);
+            this.panel74.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox74)).EndInit();
+            this.panel75.ResumeLayout(false);
+            this.panel75.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox75)).EndInit();
+            this.panel76.ResumeLayout(false);
+            this.panel76.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox76)).EndInit();
+            this.panel77.ResumeLayout(false);
+            this.panel77.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox77)).EndInit();
+            this.panel78.ResumeLayout(false);
+            this.panel78.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox78)).EndInit();
+            this.panel79.ResumeLayout(false);
+            this.panel79.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox79)).EndInit();
+            this.panel80.ResumeLayout(false);
+            this.panel80.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox80)).EndInit();
+            this.panel81.ResumeLayout(false);
+            this.panel81.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox81)).EndInit();
+            this.panel82.ResumeLayout(false);
+            this.panel82.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox82)).EndInit();
+            this.panel83.ResumeLayout(false);
+            this.panel83.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox83)).EndInit();
             this.ResumeLayout(false);
 
         }
