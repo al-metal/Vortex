@@ -284,15 +284,29 @@ namespace Расчет_моющих_средств
             imgForm.ShowDialog();
         }
 
-        #endregion
-
-        private void Spravka_ResizeEnd(object sender, EventArgs e)
+        private void tableLayoutPanel1_Paint(object sender, PaintEventArgs e)
         {
-            Spravka form = new Spravka();
-            int widthForm = this.Width;
-            int countColumn = widthForm / 338;
-            MessageBox.Show("width Form:" + form.Size + ",\n" + countColumn.ToString());
+
         }
 
+        #endregion
+
+        /* private void Spravka_ResizeEnd(object sender, EventArgs e)
+         {
+             Spravka form = new Spravka();
+             int widthForm = this.Width;
+             int countColumn = widthForm / 338;
+             tableLayoutPanel2.RowCount += 1;
+             tableLayoutPanel2.ColumnCount = countColumn;
+             for(int i = 0; countColumn> i; i++)
+             {
+                 tableLayoutPanel2.Controls.Add(new Label() { Text = "Type: " + i, Anchor = AnchorStyles.Left, AutoSize = true,BackColor = Color.Aquamarine }, i, 0);
+             }
+             for(int t = 0; tableLayoutPanel2.ColumnCount -1 > t; t++)
+             {
+                 tableLayoutPanel2.ColumnStyles[t].SizeType = SizeType.AutoSize;
+             }
+         }
+     */
     }
 }
