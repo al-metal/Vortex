@@ -285,5 +285,14 @@ namespace Расчет_моющих_средств
         }
 
         #endregion
+
+        private void Spravka_ResizeEnd(object sender, EventArgs e)
+        {
+            Spravka form = new Spravka();
+            int widthForm = this.Width;
+            int countColumn = widthForm / 338;
+            MessageBox.Show("width Form:" + form.Size + ",\n" + countColumn.ToString());
+        }
+
     }
 }
