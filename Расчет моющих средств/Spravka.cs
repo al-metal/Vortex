@@ -160,7 +160,7 @@ namespace Расчет_моющих_средств
 
             #endregion
 
-            #region Клининг
+            #region Пищепром
 
             img = Image.FromFile("pishe/CA_27.jpg");
             pictureBox74.Image = img;
@@ -192,18 +192,63 @@ namespace Расчет_моющих_средств
             pictureBox70.Image = img;
 
             #endregion
-            
-            img = Image.FromFile("klining/antistick_0.5 (1).jpg");
-            pictureBox15.Image = img;
-            img = Image.FromFile("klining/blank_1.jpg");
-            pictureBox14.Image = img;
-            img = Image.FromFile("klining/breez_0.5.jpg");
-            pictureBox13.Image = img;
-            img = Image.FromFile("klining/comfort_1.jpg");
-            pictureBox12.Image = img;
-            img = Image.FromFile("klining/daze_0.5.jpg");
-            pictureBox11.Image = img;
 
+            #region Клининг
+
+            img = Image.FromFile("klining/antistick_0.5 (1).jpg");
+            pictureBox51.Image = img;
+            img = Image.FromFile("klining/blank_1.jpg");
+            pictureBox52.Image = img;
+            //img = Image.FromFile("klining/breez_0.5.jpg");
+            //pictureBox53.Image = img;
+            img = Image.FromFile("klining/breez_0.5.jpg");
+            pictureBox54.Image = img;
+            img = Image.FromFile("klining/comfort_1.jpg");
+            pictureBox55.Image = img;
+            img = Image.FromFile("klining/comfort_extra_1.jpg");
+            pictureBox56.Image = img;
+            img = Image.FromFile("klining/daze_0.5.jpg");
+            pictureBox50.Image = img;
+            img = Image.FromFile("klining/deblank_1.jpg");
+            pictureBox49.Image = img;
+            img = Image.FromFile("klining/destroy_1.jpg");
+            pictureBox57.Image = img;
+            img = Image.FromFile("klining/draft_1.jpg");
+            pictureBox58.Image = img;
+            img = Image.FromFile("klining/fay_5.jpg");
+            pictureBox59.Image = img;
+            //img = Image.FromFile("klining/blank_1.jpg");
+            //pictureBox60.Image = img;
+            img = Image.FromFile("klining/fortis_1.jpg");
+            pictureBox48.Image = img;
+            img = Image.FromFile("klining/fumigel_1.jpg");
+            pictureBox47.Image = img;
+            img = Image.FromFile("klining/joy_orange_1_pet.jpg");
+            pictureBox61.Image = img;
+            img = Image.FromFile("klining/joy_platinum_1_pet.jpg");
+            pictureBox62.Image = img;
+            img = Image.FromFile("klining/joy_sept_tea_pet.jpg");
+            pictureBox63.Image = img;
+            img = Image.FromFile("klining/kraft05.jpg");
+            pictureBox64.Image = img;
+            img = Image.FromFile("klining/magic_0.5.jpg");
+            pictureBox65.Image = img;
+            img = Image.FromFile("klining/marvel_lemon_1_pet.jpg");
+            pictureBox66.Image = img;
+            img = Image.FromFile("klining/novatec_1.jpg");
+            pictureBox67.Image = img;
+            img = Image.FromFile("klining/novatec foam_1.jpg");
+            pictureBox68.Image = img;
+            img = Image.FromFile("klining/optima.jpg");
+            pictureBox69.Image = img;
+            img = Image.FromFile("klining/optima-gel.jpg");
+            pictureBox95.Image = img;
+            img = Image.FromFile("klining/twist05.jpg");
+            pictureBox112.Image = img;
+            img = Image.FromFile("klining/well05.jpg");
+            pictureBox113.Image = img;
+
+            #endregion
         }
 
         private void Spravka_FormClosing(object sender, FormClosingEventArgs e)
@@ -603,6 +648,8 @@ namespace Расчет_моющих_средств
 
         #endregion
 
+        #region Увеличение картинок пищепром
+        
         private void pictureBox74_Click(object sender, EventArgs e)
         {
             Images imgForm = new Images(pictureBox74.Image);
@@ -686,5 +733,165 @@ namespace Расчет_моющих_средств
             Images imgForm = new Images(pictureBox70.Image);
             imgForm.ShowDialog();
         }
+        #endregion
+
+        #region Увеличение картинок клининг
+
+        private void pictureBox51_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox51.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox52_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox52.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox53_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox53.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox54_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox54.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox55_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox55.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox56_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox56.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox50_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox50.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox49_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox49.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox57_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox57.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox58_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox58.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox59_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox59.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox60_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox60.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox48_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox48.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox47_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox47.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox61_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox61.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox62_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox62.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox63_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox63.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox64_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox64.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox65_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox65.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox66_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox66.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox67_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox67.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox68_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox68.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox69_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox69.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox95_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox95.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox112_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox112.Image);
+            imgForm.ShowDialog();
+        }
+
+        private void pictureBox113_Click(object sender, EventArgs e)
+        {
+            Images imgForm = new Images(pictureBox113.Image);
+            imgForm.ShowDialog();
+        }
+#endregion
     }
 }
