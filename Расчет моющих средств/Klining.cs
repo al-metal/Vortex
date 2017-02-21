@@ -30,6 +30,46 @@ namespace Расчет_моющих_средств
             "Гигиена рук"
         };
 
+        string[] sanusel = new string[7]
+        {
+            "Унитаз, биде, писсуар, раковина",
+            "Ванна, душевая кабина",
+            "Окна, стекла, зеркала",
+            "Мойка и чистка",
+            "Трубы",
+            "Устранение запахов",
+            "Гигиена рук"
+        };
+
+        string[] uborkaoffice = new string[6]
+        {
+            "Оргтехника",
+            "Мягкая мебель",
+            "Деревянная мебель",
+            "Окна, стекла, зеркала",
+            "Мойка и чистка",
+            "Общая дезинфекция"
+        };
+
+        string[] obshklining = new string[8]
+        {
+            "Оргтехника",
+            "Мягкая мебель",
+            "Деревянная мебель",
+            "Окна, стекла, зеркала",
+            "Мойка и чистка",
+            "Общая дезинфекция",
+            "Гигиена рук",
+            "Устранение запахов"
+        };
+
+        string[] remont = new string[3]
+        {
+            "Гигиена рук",
+            "Окна, стекла, зеркала",
+            "Мойка и чистка"
+        };
+
         #endregion
 
         #region Проблема
@@ -73,19 +113,23 @@ namespace Расчет_моющих_средств
             }
             else if (comboBox1.SelectedIndex == 1)
             {
-
+                ItemsAddCB2(sanusel);
+                combobox1item = 1;
             }
             else if (comboBox1.SelectedIndex == 2)
             {
-
+                ItemsAddCB2(uborkaoffice);
+                combobox1item = 2;
             }
             else if (comboBox1.SelectedIndex == 3)
             {
-
+                ItemsAddCB2(obshklining);
+                combobox1item = 3;
             }
             else if (comboBox1.SelectedIndex == 4)
             {
-
+                ItemsAddCB2(remont);
+                combobox1item = 4;
             }
             else if (comboBox1.SelectedIndex == 5)
             {
@@ -95,6 +139,7 @@ namespace Расчет_моющих_средств
 
         private void ItemsAddCB2(string[] array)
         {
+            comboBox2.Items.Clear();
             foreach (string str in array)
                 comboBox2.Items.Add(str);
         }
