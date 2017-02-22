@@ -58,10 +58,10 @@ namespace Расчет_моющих_средств
             pictureBox39.Image = img;
             img = Image.FromFile("avto/nanex.jpg");
             pictureBox40.Image = img;
-            //img = Image.FromFile("");
-            //pictureBox41.Image = img;
-            //img = Image.FromFile("");
-            //pictureBox42.Image = img;
+            img = Image.FromFile("avto/finish.jpg");
+            pictureBox41.Image = img;
+            img = Image.FromFile("avto/prime.jpg");
+            pictureBox42.Image = img;
             img = Image.FromFile("avto/novice_5.jpg");
             pictureBox43.Image = img;
             img = Image.FromFile("avto/orbis_5.jpg");
@@ -78,8 +78,8 @@ namespace Расчет_моющих_средств
             pictureBox109.Image = img;
             img = Image.FromFile("avto/rotaevis_5.jpg");
             pictureBox110.Image = img;
-            //img = Image.FromFile("");
-            //pictureBox107.Image = img;
+            img = Image.FromFile("avto/sapo.jpg");
+            pictureBox107.Image = img;
             img = Image.FromFile("avto/senza.jpg");
             pictureBox106.Image = img;
             img = Image.FromFile("avto/silicone_5.jpg");
@@ -104,11 +104,11 @@ namespace Расчет_моющих_средств
             pictureBox96.Image = img;
             img = Image.FromFile("avto/witrum_5.jpg");
             pictureBox93.Image = img;
-            //img = Image.FromFile("");
-            //pictureBox94.Image = img;
+            img = Image.FromFile("avto/superKonc.jpg");
+            pictureBox94.Image = img;
 
             #endregion
-            
+
             #region Отображение картинок АПК
 
             img = Image.FromFile("apk/algalit.jpg");
@@ -199,8 +199,8 @@ namespace Расчет_моющих_средств
             pictureBox51.Image = img;
             img = Image.FromFile("klining/blank_1.jpg");
             pictureBox52.Image = img;
-            //img = Image.FromFile("klining/breez_0.5.jpg");
-            //pictureBox53.Image = img;
+            img = Image.FromFile("klining/block.jpg");
+            pictureBox53.Image = img;
             img = Image.FromFile("klining/breez_0.5.jpg");
             pictureBox54.Image = img;
             img = Image.FromFile("klining/comfort_1.jpg");
@@ -217,8 +217,8 @@ namespace Расчет_моющих_средств
             pictureBox58.Image = img;
             img = Image.FromFile("klining/fay_5.jpg");
             pictureBox59.Image = img;
-            //img = Image.FromFile("klining/blank_1.jpg");
-            //pictureBox60.Image = img;
+            img = Image.FromFile("klining/fog.jpg");
+            pictureBox60.Image = img;
             img = Image.FromFile("klining/fortis_1.jpg");
             pictureBox48.Image = img;
             img = Image.FromFile("klining/fumigel_1.jpg");
