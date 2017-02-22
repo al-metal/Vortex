@@ -73,6 +73,8 @@ namespace Расчет_моющих_средств
         #endregion
 
         #region Проблема
+
+            #region Кухня
         string[] kuhPosuda = new string[3]
         {
             "Для замачивания" ,
@@ -117,10 +119,51 @@ namespace Расчет_моющих_средств
             "Жидкое мыло" ,
             "Антисептик"
         };
+        #endregion
+
+            #region Санузел
+        string[] sanuselUnitaz = new string[7]
+        {
+            "Ржавчина",
+            "Мочевой, водный камень",
+            "Известковый налет",
+            "Плесень, грибок",
+            "Потожировые загрязнения",
+            "Органика, микробы",
+            "Дезинфекция"
+        };
+
+        string[] sanuselVanna = new string[4]
+        {
+            "Потожировые и мыльные",
+            "Известковый налет",
+            "Ржавые подтеки",
+            "Отбеливание и дезинфекция"
+        };
+        string[] sanuselMoyka = new string[4]
+        {
+            "Стены, двери",
+            "Напольные покрытия",
+            "Мусорные баки",
+            "Плафоны"
+        };
+        string[] sanuselTrub = new string[1]
+        {
+            "Устранение засоров"
+        };
+
+        string[] sanuselRuki = new string[2]
+        {
+            "Жидкое мыло",
+            "Антисептик"
+        };
+        #endregion
 
         #endregion
 
         #region Средства
+
+        #region Кухня
         string[] kuhPosudaZamach = new string[2]
         {
             "Marvel" ,
@@ -254,6 +297,121 @@ namespace Расчет_моющих_средств
         {
             "Joy Sept"
         };
+        #endregion
+
+        #region санузел
+
+        string[] sanuselUnitazRjav = new string[1]
+        {
+            "Breeze"
+        };
+
+        string[] sanuselUnitazVodkamen = new string[1]
+        {
+            "Breeze"
+        };
+
+        string[] sanuselUnitazIzvestnalet = new string[1]
+        {
+            "Breeze"
+        };
+
+        string[] sanuselUnitazPlesen = new string[1]
+        {
+            "Fumigel"
+        };
+
+        string[] sanuselUnitazPotojir = new string[2]
+        {
+            "Breeze",
+            "Fumigel"
+        };
+
+        string[] sanuselUnitazOrganika = new string[2]
+        {
+            "Breeze",
+            "Fumigel"
+        };
+
+        string[] sanuselUnitazDezinfek = new string[1]
+        {
+            "Fumigel"
+        };
+
+        string[] sanuselVannaPot = new string[2]
+        {
+            "Breeze",
+            "Fumigel"
+        };
+
+        string[] sanuselVannaIzvestNalet = new string[1]
+        {
+            "Breeze"
+        };
+
+        string[] sanuselVannaRjavpodtek = new string[1]
+        {
+            "Breeze"
+        };
+
+        string[] sanuselVannaOtbel = new string[1]
+        {
+            "Fumigel"
+        };
+
+        string[] sanuselOkna = new string[1]
+        {
+            "Magic"
+        };
+
+        string[] sanuselMoykaSten = new string[2]
+        {
+            "Optima",
+            "Optima Gel"
+        };
+
+        string[] sanuselMoykaPol = new string[2]
+        {
+            "Comfort",
+            "Comfort Extra"
+        };
+
+        string[] sanuselMoykaBaki = new string[3]
+        {
+            "Optima",
+            "Optima Gel",
+            "Fumigel"
+        };
+
+        string[] sanuselMoykaPlafon = new string[3]
+        {
+            "Twist",
+            "Optima",
+            "Optima Gel"
+        };
+
+        string[] sanuselTrubZasor = new string[1]
+        {
+            "Draft"
+        };
+
+        string[] sanuselZapah = new string[1]
+        {
+            "Block"
+        };
+
+        string[] sanuselRukiMylo = new string[3]
+        {
+            "Joy",
+            "Joy Platinum",
+            "Fay"
+        };
+        string[] sanuselRukiAntisept = new string[1]
+        {
+            "Joy Sept"
+        };
+
+        #endregion
 
         #endregion
 
@@ -306,6 +464,8 @@ namespace Расчет_моющих_средств
         private void comboBox2_SelectedIndexChanged(object sender, EventArgs e)
         {
             comboBox3.Enabled = true;
+
+            #region Кухня
             if (comboBox1.SelectedIndex == 0 && comboBox2.SelectedIndex == 0)
             {
                 ItemsAddCB3(kuhPosuda);
@@ -362,10 +522,42 @@ namespace Расчет_моющих_средств
             {
                 ItemsAddCB3(kuhRuki);
             }
+            #endregion 
+
+            if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0)
+            {
+                ItemsAddCB3(sanuselUnitaz);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 1)
+            {
+                ItemsAddCB3(sanuselVanna);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 2)
+            {
+                ResultShowNoneCB3(sanuselOkna);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 3)
+            {
+                ItemsAddCB3(sanuselMoyka);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 4)
+            {
+                ItemsAddCB3(sanuselTrub);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 5)
+            {
+                ResultShowNoneCB3(sanuselZapah);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 6)
+            {
+                ItemsAddCB3(sanuselRuki);
+            }
+
         }
 
         private void comboBox3_SelectedIndexChanged(object sender, EventArgs e)
         {
+            #region Кухня
             if (comboBox1.SelectedIndex == 0 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 0)
             {
                 ResultShow(kuhPosudaZamach);
@@ -433,6 +625,80 @@ namespace Расчет_моющих_средств
             else if (comboBox1.SelectedIndex == 0 && comboBox2.SelectedIndex == 13 && comboBox3.SelectedIndex == 1)
             {
                 ResultShow(kuhRukiAntysept);
+            }
+            #endregion
+
+            if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 0)
+            {
+                ResultShow(kuhPosudaZamach);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 1)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 2)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 3)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 4)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 5)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 6)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 1 && comboBox3.SelectedIndex == 0)
+            {
+                ResultShow(kuhPosudaZamach);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 1 && comboBox3.SelectedIndex == 1)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 1 && comboBox3.SelectedIndex == 2)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 1 && comboBox3.SelectedIndex == 3)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 2 && comboBox3.SelectedIndex == 0)
+            {
+                ResultShow(kuhPosudaZamach);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 2 && comboBox3.SelectedIndex == 1)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 2 && comboBox3.SelectedIndex == 2)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 2 && comboBox3.SelectedIndex == 3)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 3 && comboBox3.SelectedIndex == 0)
+            {
+                ResultShow(kuhPosudaGar);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 4 && comboBox3.SelectedIndex == 0)
+            {
+                ResultShow(kuhPosudaZamach);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 4 && comboBox3.SelectedIndex == 1)
+            {
+                ResultShow(kuhPosudaGar);
             }
         }
 
