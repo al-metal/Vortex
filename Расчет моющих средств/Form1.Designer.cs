@@ -119,6 +119,9 @@
             this.label43 = new System.Windows.Forms.Label();
             this.label42 = new System.Windows.Forms.Label();
             this.textBox23 = new System.Windows.Forms.TextBox();
+            this.label55 = new System.Windows.Forms.Label();
+            this.lblVoda = new System.Windows.Forms.Label();
+            this.label56 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.groupBox6.SuspendLayout();
@@ -483,6 +486,8 @@
             // 
             // groupBox5
             // 
+            this.groupBox5.Controls.Add(this.label56);
+            this.groupBox5.Controls.Add(this.lblVoda);
             this.groupBox5.Controls.Add(this.label11);
             this.groupBox5.Controls.Add(this.label17);
             this.groupBox5.Controls.Add(this.label15);
@@ -1044,11 +1049,39 @@
             this.textBox23.Text = "0,5";
             this.textBox23.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox23_KeyPress);
             // 
+            // label55
+            // 
+            this.label55.AutoSize = true;
+            this.label55.Location = new System.Drawing.Point(0, 0);
+            this.label55.Name = "label55";
+            this.label55.Size = new System.Drawing.Size(41, 13);
+            this.label55.TabIndex = 24;
+            this.label55.Text = "label55";
+            // 
+            // lblVoda
+            // 
+            this.lblVoda.AutoSize = true;
+            this.lblVoda.Location = new System.Drawing.Point(44, 64);
+            this.lblVoda.Name = "lblVoda";
+            this.lblVoda.Size = new System.Drawing.Size(13, 13);
+            this.lblVoda.TabIndex = 34;
+            this.lblVoda.Text = "0";
+            // 
+            // label56
+            // 
+            this.label56.AutoSize = true;
+            this.label56.Location = new System.Drawing.Point(6, 64);
+            this.label56.Name = "label56";
+            this.label56.Size = new System.Drawing.Size(32, 13);
+            this.label56.TabIndex = 35;
+            this.label56.Text = "Вода";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(694, 455);
+            this.Controls.Add(this.label55);
             this.Controls.Add(this.tabControl1);
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
@@ -1072,6 +1105,7 @@
             this.tabPage1.ResumeLayout(false);
             this.tabPage1.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -1167,6 +1201,9 @@
         private System.Windows.Forms.Label label50;
         private System.Windows.Forms.Label label49;
         private System.Windows.Forms.Label label13;
+        private System.Windows.Forms.Label lblVoda;
+        private System.Windows.Forms.Label label55;
+        private System.Windows.Forms.Label label56;
     }
 }
 

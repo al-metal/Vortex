@@ -111,6 +111,36 @@ namespace Расчет_моющих_средств
                     label14.Text = voda.ToString();
                     label11.Text = "мг - экв/л";
                 }
+                ReturnVoda();
+            }
+        }
+
+        private void ReturnVoda()
+        {
+            double vod = Convert.ToDouble(label14.Text);
+            if (0 <= vod && vod < 1.5)
+            {
+                lblVoda.Text = "очень мягкая";
+            }
+            else if (1.5 <= vod && vod < 3)
+            {
+                lblVoda.Text = "мягкая";
+            }
+            else if (3 <= vod && vod < 6)
+            {
+                lblVoda.Text = "умеренной жесткости";
+            }
+            else if (6 <= vod && vod <= 12)
+            {
+                lblVoda.Text = "жесткая";
+            }
+            else if (vod > 12)
+            {
+                lblVoda.Text = "очень жесткая";
+            }
+            else
+            {
+                lblVoda.Text = "";
             }
         }
 
@@ -136,6 +166,7 @@ namespace Расчет_моющих_средств
                     label14.Text = voda.ToString();
                     label11.Text = "мг - экв/л";
                 }
+                ReturnVoda();
             }
         }
 
