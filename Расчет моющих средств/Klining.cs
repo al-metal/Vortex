@@ -522,7 +522,9 @@ namespace Расчет_моющих_средств
             {
                 ItemsAddCB3(kuhRuki);
             }
-            #endregion 
+            #endregion
+
+            #region Санузел
 
             if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0)
             {
@@ -552,6 +554,7 @@ namespace Расчет_моющих_средств
             {
                 ItemsAddCB3(sanuselRuki);
             }
+            #endregion
 
         }
 
@@ -628,78 +631,82 @@ namespace Расчет_моющих_средств
             }
             #endregion
 
+            #region Санузел
+
             if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 0)
             {
-                ResultShow(kuhPosudaZamach);
+                ResultShow(sanuselUnitazRjav);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 1)
             {
-                ResultShow(kuhPosudaGar);
+                ResultShow(sanuselUnitazVodkamen);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 2)
             {
-                ResultShow(kuhPosudaGar);
+                ResultShow(sanuselUnitazIzvestnalet);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 3)
             {
-                ResultShow(kuhPosudaGar);
+                ResultShow(sanuselUnitazPlesen);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 4)
             {
-                ResultShow(kuhPosudaGar);
+                ResultShow(sanuselUnitazPotojir);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 5)
             {
-                ResultShow(kuhPosudaGar);
+                ResultShow(sanuselUnitazOrganika);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 0 && comboBox3.SelectedIndex == 6)
             {
-                ResultShow(kuhPosudaGar);
+                ResultShow(sanuselUnitazDezinfek);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 1 && comboBox3.SelectedIndex == 0)
             {
-                ResultShow(kuhPosudaZamach);
+                ResultShow(sanuselVannaPot);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 1 && comboBox3.SelectedIndex == 1)
             {
-                ResultShow(kuhPosudaGar);
+                ResultShow(sanuselVannaIzvestNalet);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 1 && comboBox3.SelectedIndex == 2)
             {
-                ResultShow(kuhPosudaGar);
+                ResultShow(sanuselVannaRjavpodtek);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 1 && comboBox3.SelectedIndex == 3)
             {
-                ResultShow(kuhPosudaGar);
-            }
-            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 2 && comboBox3.SelectedIndex == 0)
-            {
-                ResultShow(kuhPosudaZamach);
-            }
-            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 2 && comboBox3.SelectedIndex == 1)
-            {
-                ResultShow(kuhPosudaGar);
-            }
-            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 2 && comboBox3.SelectedIndex == 2)
-            {
-                ResultShow(kuhPosudaGar);
-            }
-            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 2 && comboBox3.SelectedIndex == 3)
-            {
-                ResultShow(kuhPosudaGar);
+                ResultShow(sanuselVannaOtbel);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 3 && comboBox3.SelectedIndex == 0)
             {
-                ResultShow(kuhPosudaGar);
+                ResultShow(sanuselMoykaSten);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 3 && comboBox3.SelectedIndex == 1)
+            {
+                ResultShow(sanuselMoykaPol);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 3 && comboBox3.SelectedIndex == 2)
+            {
+                ResultShow(sanuselMoykaBaki);
+            }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 3 && comboBox3.SelectedIndex == 3)
+            {
+                ResultShow(sanuselMoykaPlafon);
             }
             else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 4 && comboBox3.SelectedIndex == 0)
             {
-                ResultShow(kuhPosudaZamach);
+                ResultShow(sanuselTrubZasor);
             }
-            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 4 && comboBox3.SelectedIndex == 1)
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 6 && comboBox3.SelectedIndex == 0)
             {
-                ResultShow(kuhPosudaGar);
+                ResultShow(sanuselRukiMylo);
             }
+            else if (comboBox1.SelectedIndex == 1 && comboBox2.SelectedIndex == 6 && comboBox3.SelectedIndex == 1)
+            {
+                ResultShow(sanuselRukiAntisept);
+            }
+            #endregion
+
         }
 
 
