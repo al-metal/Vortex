@@ -393,5 +393,30 @@ namespace Расчет_моющих_средств
                 label62.Text = Math.Round(res5, 0).ToString();
             }
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            if(tbCountStado.Text != "" && lblVanna.Text != "" && tbCountObrabotki.Text != "" && tbPercent.Text != "" && tbCountDay.Text != "" && tbKuporosKg.Text != "")
+            {
+                double countStado = Convert.ToDouble(tbCountStado.Text);
+                double vanna = Convert.ToDouble(lblVanna.Text);
+                double countObrabotki = Convert.ToDouble(tbCountObrabotki.Text);
+                double percent = Convert.ToDouble(tbPercent.Text);
+                double countDay = Convert.ToDouble(tbCountDay.Text);
+                double kuporosKg = Convert.ToDouble(tbKuporosKg.Text);
+
+                double res1 = (countStado / vanna) * ((vanna * percent) / 100) * countDay * countObrabotki;
+                double res2 = res1 * kuporosKg;
+                double res3 = res2 / countStado;
+
+                lblTrebuemKuporosKg.Text = Math.Round(res1).ToString();
+                lblStoimPeriod.Text = Math.Round(res2).ToString();
+                lblStoimGolova.Text = Math.Round(res3).ToString();
+            }
+            else
+            {
+                MessageBox.Show("Введите все данные");
+            }
+        }
     }
 }

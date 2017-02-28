@@ -219,9 +219,30 @@
             this.label42 = new System.Windows.Forms.Label();
             this.label35 = new System.Windows.Forms.Label();
             this.label38 = new System.Windows.Forms.Label();
+            this.btnMedKuporos = new System.Windows.Forms.Button();
+            this.label32 = new System.Windows.Forms.Label();
+            this.label47 = new System.Windows.Forms.Label();
+            this.tbCountStado = new System.Windows.Forms.TextBox();
+            this.lblVanna = new System.Windows.Forms.Label();
+            this.lblTrebuemKuporosKg = new System.Windows.Forms.Label();
+            this.label59 = new System.Windows.Forms.Label();
+            this.label61 = new System.Windows.Forms.Label();
+            this.tbCountDay = new System.Windows.Forms.TextBox();
+            this.label112 = new System.Windows.Forms.Label();
+            this.tbPercent = new System.Windows.Forms.TextBox();
+            this.label116 = new System.Windows.Forms.Label();
+            this.label120 = new System.Windows.Forms.Label();
+            this.tbCountObrabotki = new System.Windows.Forms.TextBox();
+            this.label122 = new System.Windows.Forms.Label();
+            this.tbKuporosKg = new System.Windows.Forms.TextBox();
+            this.lblStoimGolova = new System.Windows.Forms.Label();
+            this.label136 = new System.Windows.Forms.Label();
+            this.lblStoimPeriod = new System.Windows.Forms.Label();
+            this.label140 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage4.SuspendLayout();
+            this.tabPage3.SuspendLayout();
             this.tabPage2.SuspendLayout();
             this.groupBox4.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -815,6 +836,26 @@
             // 
             // tabPage3
             // 
+            this.tabPage3.Controls.Add(this.lblStoimGolova);
+            this.tabPage3.Controls.Add(this.label136);
+            this.tabPage3.Controls.Add(this.lblStoimPeriod);
+            this.tabPage3.Controls.Add(this.label140);
+            this.tabPage3.Controls.Add(this.label122);
+            this.tabPage3.Controls.Add(this.tbKuporosKg);
+            this.tabPage3.Controls.Add(this.label120);
+            this.tabPage3.Controls.Add(this.tbCountObrabotki);
+            this.tabPage3.Controls.Add(this.btnMedKuporos);
+            this.tabPage3.Controls.Add(this.label32);
+            this.tabPage3.Controls.Add(this.label47);
+            this.tabPage3.Controls.Add(this.tbCountStado);
+            this.tabPage3.Controls.Add(this.lblVanna);
+            this.tabPage3.Controls.Add(this.lblTrebuemKuporosKg);
+            this.tabPage3.Controls.Add(this.label59);
+            this.tabPage3.Controls.Add(this.label61);
+            this.tabPage3.Controls.Add(this.tbCountDay);
+            this.tabPage3.Controls.Add(this.label112);
+            this.tabPage3.Controls.Add(this.tbPercent);
+            this.tabPage3.Controls.Add(this.label116);
             this.tabPage3.Location = new System.Drawing.Point(4, 22);
             this.tabPage3.Name = "tabPage3";
             this.tabPage3.Size = new System.Drawing.Size(845, 772);
@@ -2182,6 +2223,181 @@
             this.label38.TabIndex = 84;
             this.label38.Text = "Объем ванны";
             // 
+            // btnMedKuporos
+            // 
+            this.btnMedKuporos.Location = new System.Drawing.Point(8, 226);
+            this.btnMedKuporos.Name = "btnMedKuporos";
+            this.btnMedKuporos.Size = new System.Drawing.Size(144, 23);
+            this.btnMedKuporos.TabIndex = 96;
+            this.btnMedKuporos.Text = "Рассчитать";
+            this.btnMedKuporos.UseVisualStyleBackColor = true;
+            this.btnMedKuporos.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label32.Location = new System.Drawing.Point(8, 15);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(77, 13);
+            this.label32.TabIndex = 101;
+            this.label32.Text = "Объем ванны";
+            // 
+            // label47
+            // 
+            this.label47.AutoSize = true;
+            this.label47.Location = new System.Drawing.Point(8, 35);
+            this.label47.Name = "label47";
+            this.label47.Size = new System.Drawing.Size(142, 13);
+            this.label47.TabIndex = 99;
+            this.label47.Text = "Количество дойного стада";
+            // 
+            // tbCountStado
+            // 
+            this.tbCountStado.Location = new System.Drawing.Point(299, 32);
+            this.tbCountStado.Name = "tbCountStado";
+            this.tbCountStado.Size = new System.Drawing.Size(45, 20);
+            this.tbCountStado.TabIndex = 100;
+            // 
+            // lblVanna
+            // 
+            this.lblVanna.AutoSize = true;
+            this.lblVanna.Location = new System.Drawing.Point(296, 15);
+            this.lblVanna.Name = "lblVanna";
+            this.lblVanna.Size = new System.Drawing.Size(25, 13);
+            this.lblVanna.TabIndex = 102;
+            this.lblVanna.Text = "200";
+            // 
+            // lblTrebuemKuporosKg
+            // 
+            this.lblTrebuemKuporosKg.AutoSize = true;
+            this.lblTrebuemKuporosKg.Location = new System.Drawing.Point(297, 130);
+            this.lblTrebuemKuporosKg.Name = "lblTrebuemKuporosKg";
+            this.lblTrebuemKuporosKg.Size = new System.Drawing.Size(13, 13);
+            this.lblTrebuemKuporosKg.TabIndex = 111;
+            this.lblTrebuemKuporosKg.Text = "0";
+            // 
+            // label59
+            // 
+            this.label59.AutoSize = true;
+            this.label59.Location = new System.Drawing.Point(8, 58);
+            this.label59.Name = "label59";
+            this.label59.Size = new System.Drawing.Size(185, 13);
+            this.label59.TabIndex = 103;
+            this.label59.Text = "Продолжительность обработки, дн";
+            // 
+            // label61
+            // 
+            this.label61.AutoSize = true;
+            this.label61.Location = new System.Drawing.Point(9, 130);
+            this.label61.Name = "label61";
+            this.label61.Size = new System.Drawing.Size(242, 13);
+            this.label61.TabIndex = 110;
+            this.label61.Text = "Количество требуемого Медного купороса, кг";
+            // 
+            // tbCountDay
+            // 
+            this.tbCountDay.Location = new System.Drawing.Point(299, 58);
+            this.tbCountDay.Name = "tbCountDay";
+            this.tbCountDay.Size = new System.Drawing.Size(45, 20);
+            this.tbCountDay.TabIndex = 104;
+            // 
+            // label112
+            // 
+            this.label112.AutoSize = true;
+            this.label112.Location = new System.Drawing.Point(8, 84);
+            this.label112.Name = "label112";
+            this.label112.Size = new System.Drawing.Size(106, 13);
+            this.label112.TabIndex = 105;
+            this.label112.Text = "Медный купорос, %";
+            // 
+            // tbPercent
+            // 
+            this.tbPercent.Location = new System.Drawing.Point(299, 81);
+            this.tbPercent.Name = "tbPercent";
+            this.tbPercent.Size = new System.Drawing.Size(45, 20);
+            this.tbPercent.TabIndex = 106;
+            this.tbPercent.Text = "2";
+            // 
+            // label116
+            // 
+            this.label116.AutoSize = true;
+            this.label116.Location = new System.Drawing.Point(258, 84);
+            this.label116.Name = "label116";
+            this.label116.Size = new System.Drawing.Size(13, 13);
+            this.label116.TabIndex = 107;
+            this.label116.Text = "0";
+            this.label116.Visible = false;
+            // 
+            // label120
+            // 
+            this.label120.AutoSize = true;
+            this.label120.Location = new System.Drawing.Point(8, 107);
+            this.label120.Name = "label120";
+            this.label120.Size = new System.Drawing.Size(158, 13);
+            this.label120.TabIndex = 113;
+            this.label120.Text = "Количество обработок в день";
+            // 
+            // tbCountObrabotki
+            // 
+            this.tbCountObrabotki.Location = new System.Drawing.Point(299, 107);
+            this.tbCountObrabotki.Name = "tbCountObrabotki";
+            this.tbCountObrabotki.Size = new System.Drawing.Size(45, 20);
+            this.tbCountObrabotki.TabIndex = 114;
+            // 
+            // label122
+            // 
+            this.label122.AutoSize = true;
+            this.label122.Location = new System.Drawing.Point(8, 152);
+            this.label122.Name = "label122";
+            this.label122.Size = new System.Drawing.Size(181, 13);
+            this.label122.TabIndex = 115;
+            this.label122.Text = "Стоимость 1 кг медного купороса";
+            // 
+            // tbKuporosKg
+            // 
+            this.tbKuporosKg.Location = new System.Drawing.Point(299, 152);
+            this.tbKuporosKg.Name = "tbKuporosKg";
+            this.tbKuporosKg.Size = new System.Drawing.Size(45, 20);
+            this.tbKuporosKg.TabIndex = 116;
+            // 
+            // lblStoimGolova
+            // 
+            this.lblStoimGolova.AutoSize = true;
+            this.lblStoimGolova.Location = new System.Drawing.Point(296, 201);
+            this.lblStoimGolova.Name = "lblStoimGolova";
+            this.lblStoimGolova.Size = new System.Drawing.Size(13, 13);
+            this.lblStoimGolova.TabIndex = 120;
+            this.lblStoimGolova.Text = "0";
+            // 
+            // label136
+            // 
+            this.label136.AutoSize = true;
+            this.label136.Location = new System.Drawing.Point(8, 201);
+            this.label136.Name = "label136";
+            this.label136.Size = new System.Drawing.Size(244, 13);
+            this.label136.TabIndex = 119;
+            this.label136.Text = "Стоимость обработки 1 головы за период, руб";
+            // 
+            // lblStoimPeriod
+            // 
+            this.lblStoimPeriod.AutoSize = true;
+            this.lblStoimPeriod.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.lblStoimPeriod.Location = new System.Drawing.Point(296, 175);
+            this.lblStoimPeriod.Name = "lblStoimPeriod";
+            this.lblStoimPeriod.Size = new System.Drawing.Size(14, 13);
+            this.lblStoimPeriod.TabIndex = 118;
+            this.lblStoimPeriod.Text = "0";
+            // 
+            // label140
+            // 
+            this.label140.AutoSize = true;
+            this.label140.Location = new System.Drawing.Point(8, 175);
+            this.label140.Name = "label140";
+            this.label140.Size = new System.Drawing.Size(195, 13);
+            this.label140.TabIndex = 117;
+            this.label140.Text = "Стоимость обработки за период, руб";
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -2198,6 +2414,8 @@
             this.tabPage1.PerformLayout();
             this.tabPage4.ResumeLayout(false);
             this.tabPage4.PerformLayout();
+            this.tabPage3.ResumeLayout(false);
+            this.tabPage3.PerformLayout();
             this.tabPage2.ResumeLayout(false);
             this.groupBox4.ResumeLayout(false);
             this.groupBox4.PerformLayout();
@@ -2400,5 +2618,25 @@
         private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.Label label50;
         private System.Windows.Forms.TabPage tabPage3;
+        private System.Windows.Forms.Label lblStoimGolova;
+        private System.Windows.Forms.Label label136;
+        private System.Windows.Forms.Label lblStoimPeriod;
+        private System.Windows.Forms.Label label140;
+        private System.Windows.Forms.Label label122;
+        private System.Windows.Forms.TextBox tbKuporosKg;
+        private System.Windows.Forms.Label label120;
+        private System.Windows.Forms.TextBox tbCountObrabotki;
+        private System.Windows.Forms.Button btnMedKuporos;
+        private System.Windows.Forms.Label label32;
+        private System.Windows.Forms.Label label47;
+        private System.Windows.Forms.TextBox tbCountStado;
+        private System.Windows.Forms.Label lblVanna;
+        private System.Windows.Forms.Label lblTrebuemKuporosKg;
+        private System.Windows.Forms.Label label59;
+        private System.Windows.Forms.Label label61;
+        private System.Windows.Forms.TextBox tbCountDay;
+        private System.Windows.Forms.Label label112;
+        private System.Windows.Forms.TextBox tbPercent;
+        private System.Windows.Forms.Label label116;
     }
 }
