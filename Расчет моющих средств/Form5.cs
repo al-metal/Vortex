@@ -22,44 +22,19 @@ namespace Расчет_моющих_средств
             vortex.Show();
         }
 
-        private void radioButton1_CheckedChanged(object sender, EventArgs e)
-        {
-            if (radioButton1.Checked)
-            {
-                textBox1.Visible = false;
-                comboBox1.Visible = true;
-                textBox3.Text = "0,25";
-                textBox6.Text = "";
-                textBox5.Text = "";
-                comboBox1.SelectedIndex = -1;
-            }
-            else
-            {
-                textBox1.Visible = true;
-                comboBox1.Visible = false;
-                textBox3.Text = "0,5";
-                textBox6.Text = "0,5";
-                textBox5.Text = "1";
-            }
-        }
-
-        private void Form5_Load(object sender, EventArgs e)
-        {
-            radioButton1.Checked = true;
-            comboBox2.SelectedIndex = 0;
-        }
-
         private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
             if(comboBox1.SelectedIndex == 0)
             {
                 textBox6.Text = "0,25";
                 textBox5.Text = "20";
+                textBox3.Text = "0.25";
             }
             if (comboBox1.SelectedIndex == 1)
             {
                 textBox6.Text = "0,35";
                 textBox5.Text = "30";
+                textBox3.Text = "0.25";
             }
         }
 
