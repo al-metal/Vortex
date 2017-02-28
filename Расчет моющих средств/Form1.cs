@@ -183,70 +183,6 @@ namespace Расчет_моющих_средств
             string ksilanSuper = "";
 
             #region 1 str
-            if (voda <= 5)
-            {
-                biotekC = "Biotec C, 0,3%";
-                ksilanK = "Ksilan K, 0,3%";
-            }
-            else if (voda <= 6.5)
-            {
-                biotekC = "Biotec C, 0,5%";
-                ksilanK = "Ksilan K, 0,5%";
-            }
-            else if (voda <= 8)
-            {
-                biotekC = "Biotec C, 1%";
-                ksilanK = "Ksilan K, 1%";
-            }
-            else
-            {
-                biotekC = "Biotec C не используется";
-                ksilanK = "Ksilan K не используется";
-            }
-            #endregion
-
-            #region 2 str
-            if (voda <= 5)
-            {
-                biotek = "Biotec, 0,3%";
-                ksilan = "Ksilan, 0,3%";
-            }
-            else if (voda <= 6.5)
-            {
-                biotek = "Biotec, 0,5%";
-                ksilan = "Ksilan, 0,5%";
-            }
-            else if (voda <= 8)
-            {
-                biotek = "Biotec, 0,7%";
-                ksilan = "Ksilan, 0,7%";
-            }
-            else
-            {
-                biotek = "Biotec не используется";
-                ksilan = "Ksilan не используется";
-            }
-            #endregion
-
-            #region 3 str
-            if (voda <= 10)
-            {
-                biotekSuper = "Biotec Super, 0,3%";
-                ksilanSuper = "Ksilan Super, 0,3%";
-            }
-            else if (voda <= 12)
-            {
-                biotekSuper = "Biotec Super, 0,4%";
-                ksilanSuper = "Ksilan Super, 0,4%";
-            }
-            else
-            {
-                biotekSuper = "Biotec Super не используется";
-                ksilanSuper = "Ksilan Super не используется";
-            }
-            #endregion
-
-            #region 4 str
             if (voda <= 1)
             {
                 biotekM = "Biotec M, 0,4%";
@@ -273,15 +209,80 @@ namespace Расчет_моющих_средств
                 ksilanM = "Ksilan M не используется";
             }
             #endregion
-            
-            label12.Text = biotekC;
-            label13.Text = ksilanK;
-            label49.Text = biotek;
-            label50.Text = ksilan;
-            label51.Text = biotekM;
-            label52.Text = ksilanM;
+
+            #region 2 str
+            if (voda <= 5)
+            {
+                biotekC = "Biotec C, 0,3%";
+                ksilanK = "Ksilan K, 0,3%";
+            }
+            else if (voda <= 6.5)
+            {
+                biotekC = "Biotec C, 0,5%";
+                ksilanK = "Ksilan K, 0,5%";
+            }
+            else if (voda <= 8)
+            {
+                biotekC = "Biotec C, 1%";
+                ksilanK = "Ksilan K, 1%";
+            }
+            else
+            {
+                biotekC = "Biotec C не используется";
+                ksilanK = "Ksilan K не используется";
+            }
+            #endregion
+
+            #region 3 str
+            if (voda <= 5)
+            {
+                biotek = "Biotec, 0,3%";
+                ksilan = "Ksilan, 0,3%";
+            }
+            else if (voda <= 6.5)
+            {
+                biotek = "Biotec, 0,5%";
+                ksilan = "Ksilan, 0,5%";
+            }
+            else if (voda <= 8)
+            {
+                biotek = "Biotec, 0,7%";
+                ksilan = "Ksilan, 0,7%";
+            }
+            else
+            {
+                biotek = "Biotec не используется";
+                ksilan = "Ksilan не используется";
+            }
+            #endregion
+
+            #region 4 str
+            if (voda <= 10)
+            {
+                biotekSuper = "Biotec Super, 0,3%";
+                ksilanSuper = "Ksilan Super, 0,3%";
+            }
+            else if (voda <= 12)
+            {
+                biotekSuper = "Biotec Super, 0,4%";
+                ksilanSuper = "Ksilan Super, 0,4%";
+            }
+            else
+            {
+                biotekSuper = "Biotec Super не используется";
+                ksilanSuper = "Ksilan Super не используется";
+            }
+            #endregion
+
+            label12.Text = biotekM;
+            label13.Text = ksilanM;
+            label49.Text = biotekC;
+            label50.Text = ksilanK;
+            label51.Text = biotek;
+            label52.Text = ksilan;
             label53.Text = biotekSuper;
             label54.Text = ksilanSuper;
+
         }
         #endregion
 
