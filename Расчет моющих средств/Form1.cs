@@ -74,6 +74,13 @@ namespace Расчет_моющих_средств
             lblonv1.Text = res1.ToString();
             lblonv2.Text = res2.ToString();
             lblonv3.Text = res3.ToString();
+            double stoimSheloch = res2 * Convert.ToDouble(tbPriceSheloch.Text);
+            double stoimKislot = res3 * Convert.ToDouble(tbPriceKislot.Text);
+            double stoimSredstv = stoimKislot + stoimSheloch;
+
+            lblStoimKislot.Text = Math.Round(stoimKislot).ToString();
+            lblStoimSheloch.Text = Math.Round(stoimSheloch).ToString();
+            lblStoimSredstv.Text = Math.Round(stoimSredstv).ToString();
 
         }
 

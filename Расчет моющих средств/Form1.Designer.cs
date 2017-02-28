@@ -121,6 +121,16 @@
             this.textBox23 = new System.Windows.Forms.TextBox();
             this.lblVoda = new System.Windows.Forms.Label();
             this.label56 = new System.Windows.Forms.Label();
+            this.tbPriceSheloch = new System.Windows.Forms.TextBox();
+            this.label55 = new System.Windows.Forms.Label();
+            this.tbPriceKislot = new System.Windows.Forms.TextBox();
+            this.label57 = new System.Windows.Forms.Label();
+            this.label58 = new System.Windows.Forms.Label();
+            this.lblStoimKislot = new System.Windows.Forms.Label();
+            this.label60 = new System.Windows.Forms.Label();
+            this.lblStoimSheloch = new System.Windows.Forms.Label();
+            this.label62 = new System.Windows.Forms.Label();
+            this.lblStoimSredstv = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.groupBox6.SuspendLayout();
@@ -314,7 +324,7 @@
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(333, 137);
+            this.button1.Location = new System.Drawing.Point(276, 210);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 22;
@@ -612,6 +622,7 @@
             // label47
             // 
             this.label47.AutoSize = true;
+            this.label47.ForeColor = System.Drawing.SystemColors.AppWorkspace;
             this.label47.Location = new System.Drawing.Point(6, 375);
             this.label47.Name = "label47";
             this.label47.Size = new System.Drawing.Size(13, 13);
@@ -621,6 +632,7 @@
             // label36
             // 
             this.label36.AutoSize = true;
+            this.label36.ForeColor = System.Drawing.SystemColors.AppWorkspace;
             this.label36.Location = new System.Drawing.Point(6, 327);
             this.label36.Name = "label36";
             this.label36.Size = new System.Drawing.Size(13, 13);
@@ -650,9 +662,9 @@
             this.label39.AutoSize = true;
             this.label39.Location = new System.Drawing.Point(6, 309);
             this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(162, 13);
+            this.label39.Size = new System.Drawing.Size(173, 13);
             this.label39.TabIndex = 53;
-            this.label39.Text = "Стоимость одной промывки, л";
+            this.label39.Text = "Стоимость одной промывки, руб";
             // 
             // label32
             // 
@@ -804,9 +816,11 @@
             // label45
             // 
             this.label45.AutoSize = true;
+            this.label45.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label45.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.label45.Location = new System.Drawing.Point(6, 375);
             this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(13, 13);
+            this.label45.Size = new System.Drawing.Size(14, 13);
             this.label45.TabIndex = 50;
             this.label45.Text = "0";
             // 
@@ -822,9 +836,11 @@
             // label37
             // 
             this.label37.AutoSize = true;
+            this.label37.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label37.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(192)))), ((int)(((byte)(0)))));
             this.label37.Location = new System.Drawing.Point(6, 327);
             this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(13, 13);
+            this.label37.Size = new System.Drawing.Size(14, 13);
             this.label37.TabIndex = 48;
             this.label37.Text = "0";
             // 
@@ -833,9 +849,9 @@
             this.label38.AutoSize = true;
             this.label38.Location = new System.Drawing.Point(6, 309);
             this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(162, 13);
+            this.label38.Size = new System.Drawing.Size(173, 13);
             this.label38.TabIndex = 47;
-            this.label38.Text = "Стоимость одной промывки, л";
+            this.label38.Text = "Стоимость одной промывки, руб";
             // 
             // textBox20
             // 
@@ -979,6 +995,16 @@
             // 
             // tabPage1
             // 
+            this.tabPage1.Controls.Add(this.label62);
+            this.tabPage1.Controls.Add(this.lblStoimSredstv);
+            this.tabPage1.Controls.Add(this.label60);
+            this.tabPage1.Controls.Add(this.lblStoimSheloch);
+            this.tabPage1.Controls.Add(this.label58);
+            this.tabPage1.Controls.Add(this.lblStoimKislot);
+            this.tabPage1.Controls.Add(this.tbPriceKislot);
+            this.tabPage1.Controls.Add(this.label57);
+            this.tabPage1.Controls.Add(this.tbPriceSheloch);
+            this.tabPage1.Controls.Add(this.label55);
             this.tabPage1.Controls.Add(this.label44);
             this.tabPage1.Controls.Add(this.label43);
             this.tabPage1.Controls.Add(this.label42);
@@ -1024,7 +1050,7 @@
             // label43
             // 
             this.label43.AutoSize = true;
-            this.label43.Location = new System.Drawing.Point(8, 249);
+            this.label43.Location = new System.Drawing.Point(6, 292);
             this.label43.Name = "label43";
             this.label43.Size = new System.Drawing.Size(179, 13);
             this.label43.TabIndex = 25;
@@ -1033,7 +1059,7 @@
             // label42
             // 
             this.label42.AutoSize = true;
-            this.label42.Location = new System.Drawing.Point(8, 85);
+            this.label42.Location = new System.Drawing.Point(6, 85);
             this.label42.Name = "label42";
             this.label42.Size = new System.Drawing.Size(120, 13);
             this.label42.TabIndex = 23;
@@ -1065,6 +1091,94 @@
             this.label56.Size = new System.Drawing.Size(32, 13);
             this.label56.TabIndex = 35;
             this.label56.Text = "Вода";
+            // 
+            // tbPriceSheloch
+            // 
+            this.tbPriceSheloch.Location = new System.Drawing.Point(167, 238);
+            this.tbPriceSheloch.Name = "tbPriceSheloch";
+            this.tbPriceSheloch.Size = new System.Drawing.Size(100, 20);
+            this.tbPriceSheloch.TabIndex = 28;
+            this.tbPriceSheloch.Text = "100";
+            // 
+            // label55
+            // 
+            this.label55.AutoSize = true;
+            this.label55.Location = new System.Drawing.Point(6, 241);
+            this.label55.Name = "label55";
+            this.label55.Size = new System.Drawing.Size(150, 13);
+            this.label55.TabIndex = 27;
+            this.label55.Text = "Стоимость щелоч. средства";
+            // 
+            // tbPriceKislot
+            // 
+            this.tbPriceKislot.Location = new System.Drawing.Point(167, 264);
+            this.tbPriceKislot.Name = "tbPriceKislot";
+            this.tbPriceKislot.Size = new System.Drawing.Size(100, 20);
+            this.tbPriceKislot.TabIndex = 30;
+            this.tbPriceKislot.Text = "100";
+            // 
+            // label57
+            // 
+            this.label57.AutoSize = true;
+            this.label57.Location = new System.Drawing.Point(6, 267);
+            this.label57.Name = "label57";
+            this.label57.Size = new System.Drawing.Size(153, 13);
+            this.label57.TabIndex = 29;
+            this.label57.Text = "Стоимость кислот. средства";
+            // 
+            // label58
+            // 
+            this.label58.AutoSize = true;
+            this.label58.Location = new System.Drawing.Point(273, 111);
+            this.label58.Name = "label58";
+            this.label58.Size = new System.Drawing.Size(196, 13);
+            this.label58.TabIndex = 31;
+            this.label58.Text = "Стоимость кислотного средства, руб";
+            // 
+            // lblStoimKislot
+            // 
+            this.lblStoimKislot.AutoSize = true;
+            this.lblStoimKislot.Location = new System.Drawing.Point(470, 111);
+            this.lblStoimKislot.Name = "lblStoimKislot";
+            this.lblStoimKislot.Size = new System.Drawing.Size(13, 13);
+            this.lblStoimKislot.TabIndex = 32;
+            this.lblStoimKislot.Text = "0";
+            // 
+            // label60
+            // 
+            this.label60.AutoSize = true;
+            this.label60.Location = new System.Drawing.Point(273, 137);
+            this.label60.Name = "label60";
+            this.label60.Size = new System.Drawing.Size(193, 13);
+            this.label60.TabIndex = 33;
+            this.label60.Text = "Стоимость щелочного средства, руб";
+            // 
+            // lblStoimSheloch
+            // 
+            this.lblStoimSheloch.AutoSize = true;
+            this.lblStoimSheloch.Location = new System.Drawing.Point(470, 137);
+            this.lblStoimSheloch.Name = "lblStoimSheloch";
+            this.lblStoimSheloch.Size = new System.Drawing.Size(13, 13);
+            this.lblStoimSheloch.TabIndex = 34;
+            this.lblStoimSheloch.Text = "0";
+            // 
+            // label62
+            // 
+            this.label62.AutoSize = true;
+            this.label62.Location = new System.Drawing.Point(273, 163);
+            this.label62.Name = "label62";
+            this.label62.Size = new System.Drawing.Size(166, 13);
+            this.label62.TabIndex = 35;
+            this.label62.Text = "Общая стоимость средств, руб";
+            // 
+            // lblStoimSredstv
+            // 
+            this.lblStoimSredstv.AutoSize = true;
+            this.lblStoimSredstv.Location = new System.Drawing.Point(470, 163);
+            this.lblStoimSredstv.Name = "lblStoimSredstv";
+            this.lblStoimSredstv.Size = new System.Drawing.Size(13, 13);
+            this.lblStoimSredstv.TabIndex = 36;
+            this.lblStoimSredstv.Text = "0";
             // 
             // Form1
             // 
@@ -1191,6 +1305,16 @@
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label lblVoda;
         private System.Windows.Forms.Label label56;
+        private System.Windows.Forms.Label label62;
+        private System.Windows.Forms.Label lblStoimSredstv;
+        private System.Windows.Forms.Label label60;
+        private System.Windows.Forms.Label lblStoimSheloch;
+        private System.Windows.Forms.Label label58;
+        private System.Windows.Forms.Label lblStoimKislot;
+        private System.Windows.Forms.TextBox tbPriceKislot;
+        private System.Windows.Forms.Label label57;
+        private System.Windows.Forms.TextBox tbPriceSheloch;
+        private System.Windows.Forms.Label label55;
     }
 }
 
