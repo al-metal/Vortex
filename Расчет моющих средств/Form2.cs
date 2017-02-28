@@ -69,32 +69,6 @@ namespace Расчет_моющих_средств
             vortex.Show();
         }
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            if (textBox7.Text != "" && textBox8.Text != "" && textBox11.Text != "" && textBox10.Text != "")
-            {
-                double stado = Convert.ToDouble(textBox7.Text.Replace('.', ','));
-                double vanna = 200;
-                double day = Convert.ToDouble(textBox8.Text.Replace('.', ','));
-                double percentDesimix = Convert.ToDouble(textBox11.Text.Replace('.', ','));
-                double percentKuporos = Convert.ToDouble(textBox10.Text.Replace('.', ','));
-
-                double res1 = (vanna * percentDesimix) / 100;
-                double res2 = (vanna * percentKuporos) / 100;
-                double res3 = (day / 7) * 6;
-                double res4 = (stado * res3) / 500;
-                double res5 = res1 * res4;
-                double res6 = res2 * res4;
-
-                label50.Text = Math.Round(res1, 0).ToString();
-                label47.Text = Math.Round(res2, 0).ToString();
-                label56.Text = Math.Round(res3, 0).ToString();
-                label53.Text = Math.Round(res4, 0).ToString();
-                label62.Text = Math.Round(res5, 0).ToString();
-                label59.Text = Math.Round(res6, 0).ToString();
-            }
-        }
-
         private void Form2_Load(object sender, EventArgs e)
         {
 
@@ -398,5 +372,26 @@ namespace Расчет_моющих_средств
             KeyPress(e);
         }
         #endregion
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            if (textBox7.Text != "" && textBox8.Text != "" && textBox11.Text != "")
+            {
+                double stado = Convert.ToDouble(textBox7.Text.Replace('.', ','));
+                double vanna = 200;
+                double day = Convert.ToDouble(textBox8.Text.Replace('.', ','));
+                double percentDesimix = Convert.ToDouble(textBox11.Text.Replace('.', ','));
+
+                double res1 = (vanna * percentDesimix) / 100;
+                double res3 = (day / 7) * 6;
+                double res4 = (stado * res3) / 500;
+                double res5 = res1 * res4;
+
+                label50.Text = Math.Round(res1, 0).ToString();
+                label56.Text = Math.Round(res3, 0).ToString();
+                label53.Text = Math.Round(res4, 0).ToString();
+                label62.Text = Math.Round(res5, 0).ToString();
+            }
+        }
     }
 }
