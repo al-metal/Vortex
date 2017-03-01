@@ -90,5 +90,11 @@ namespace Расчет_моющих_средств
             Klining klining = new Klining();
             klining.Show();
         }
+
+        private void оПрограммеToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            About about = new About();
+            about.ShowDialog();
+        }
     }
 }
