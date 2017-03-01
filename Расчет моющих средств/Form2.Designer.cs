@@ -32,41 +32,41 @@
             this.tabPage1 = new System.Windows.Forms.TabPage();
             this.label110 = new System.Windows.Forms.Label();
             this.label34 = new System.Windows.Forms.Label();
+            this.label4 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.label1 = new System.Windows.Forms.Label();
             this.label15 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.label17 = new System.Windows.Forms.Label();
+            this.label3 = new System.Windows.Forms.Label();
             this.label19 = new System.Windows.Forms.Label();
+            this.textBox1 = new System.Windows.Forms.TextBox();
             this.label21 = new System.Windows.Forms.Label();
+            this.label5 = new System.Windows.Forms.Label();
             this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textBox2 = new System.Windows.Forms.TextBox();
             this.label23 = new System.Windows.Forms.Label();
+            this.label6 = new System.Windows.Forms.Label();
             this.textBox5 = new System.Windows.Forms.TextBox();
+            this.label8 = new System.Windows.Forms.Label();
             this.label16 = new System.Windows.Forms.Label();
+            this.textBox3 = new System.Windows.Forms.TextBox();
             this.label18 = new System.Windows.Forms.Label();
+            this.label7 = new System.Windows.Forms.Label();
             this.label20 = new System.Windows.Forms.Label();
+            this.label10 = new System.Windows.Forms.Label();
             this.label22 = new System.Windows.Forms.Label();
+            this.label9 = new System.Windows.Forms.Label();
             this.label24 = new System.Windows.Forms.Label();
+            this.label12 = new System.Windows.Forms.Label();
             this.label28 = new System.Windows.Forms.Label();
+            this.label11 = new System.Windows.Forms.Label();
             this.label29 = new System.Windows.Forms.Label();
+            this.label14 = new System.Windows.Forms.Label();
             this.label26 = new System.Windows.Forms.Label();
+            this.label13 = new System.Windows.Forms.Label();
             this.label27 = new System.Windows.Forms.Label();
             this.label25 = new System.Windows.Forms.Label();
-            this.label13 = new System.Windows.Forms.Label();
-            this.label14 = new System.Windows.Forms.Label();
-            this.label11 = new System.Windows.Forms.Label();
-            this.label12 = new System.Windows.Forms.Label();
-            this.label9 = new System.Windows.Forms.Label();
-            this.label10 = new System.Windows.Forms.Label();
-            this.label7 = new System.Windows.Forms.Label();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.label8 = new System.Windows.Forms.Label();
-            this.label6 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.label5 = new System.Windows.Forms.Label();
-            this.label4 = new System.Windows.Forms.Label();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label3 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label1 = new System.Windows.Forms.Label();
             this.tabPage4 = new System.Windows.Forms.TabPage();
             this.label30 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
@@ -86,73 +86,27 @@
             this.textBox11 = new System.Windows.Forms.TextBox();
             this.label50 = new System.Windows.Forms.Label();
             this.tabPage3 = new System.Windows.Forms.TabPage();
+            this.lblStoimGolova = new System.Windows.Forms.Label();
+            this.label136 = new System.Windows.Forms.Label();
+            this.lblStoimPeriod = new System.Windows.Forms.Label();
+            this.label140 = new System.Windows.Forms.Label();
+            this.label122 = new System.Windows.Forms.Label();
+            this.tbKuporosKg = new System.Windows.Forms.TextBox();
+            this.label120 = new System.Windows.Forms.Label();
+            this.tbCountObrabotki = new System.Windows.Forms.TextBox();
+            this.btnMedKuporos = new System.Windows.Forms.Button();
+            this.label32 = new System.Windows.Forms.Label();
+            this.label47 = new System.Windows.Forms.Label();
+            this.tbCountStado = new System.Windows.Forms.TextBox();
+            this.lblVanna = new System.Windows.Forms.Label();
+            this.lblTrebuemKuporosKg = new System.Windows.Forms.Label();
+            this.label59 = new System.Windows.Forms.Label();
+            this.label61 = new System.Windows.Forms.Label();
+            this.tbCountDay = new System.Windows.Forms.TextBox();
+            this.label112 = new System.Windows.Forms.Label();
+            this.tbPercent = new System.Windows.Forms.TextBox();
+            this.label116 = new System.Windows.Forms.Label();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.groupBox4 = new System.Windows.Forms.GroupBox();
-            this.label132 = new System.Windows.Forms.Label();
-            this.label133 = new System.Windows.Forms.Label();
-            this.label134 = new System.Windows.Forms.Label();
-            this.label135 = new System.Windows.Forms.Label();
-            this.lblres28 = new System.Windows.Forms.Label();
-            this.label137 = new System.Windows.Forms.Label();
-            this.lblres27 = new System.Windows.Forms.Label();
-            this.label139 = new System.Windows.Forms.Label();
-            this.lblres26 = new System.Windows.Forms.Label();
-            this.label141 = new System.Windows.Forms.Label();
-            this.lblres25 = new System.Windows.Forms.Label();
-            this.label143 = new System.Windows.Forms.Label();
-            this.textBox28 = new System.Windows.Forms.TextBox();
-            this.label144 = new System.Windows.Forms.Label();
-            this.textBox29 = new System.Windows.Forms.TextBox();
-            this.label145 = new System.Windows.Forms.Label();
-            this.lblres24 = new System.Windows.Forms.Label();
-            this.label147 = new System.Windows.Forms.Label();
-            this.lblres23 = new System.Windows.Forms.Label();
-            this.label149 = new System.Windows.Forms.Label();
-            this.tbres22 = new System.Windows.Forms.TextBox();
-            this.label150 = new System.Windows.Forms.Label();
-            this.lblres21 = new System.Windows.Forms.Label();
-            this.label152 = new System.Windows.Forms.Label();
-            this.textBox31 = new System.Windows.Forms.TextBox();
-            this.label153 = new System.Windows.Forms.Label();
-            this.textBox32 = new System.Windows.Forms.TextBox();
-            this.label154 = new System.Windows.Forms.Label();
-            this.textBox33 = new System.Windows.Forms.TextBox();
-            this.label155 = new System.Windows.Forms.Label();
-            this.label156 = new System.Windows.Forms.Label();
-            this.label157 = new System.Windows.Forms.Label();
-            this.label54 = new System.Windows.Forms.Label();
-            this.label66 = new System.Windows.Forms.Label();
-            this.label67 = new System.Windows.Forms.Label();
-            this.label70 = new System.Windows.Forms.Label();
-            this.button4 = new System.Windows.Forms.Button();
-            this.label73 = new System.Windows.Forms.Label();
-            this.label75 = new System.Windows.Forms.Label();
-            this.label76 = new System.Windows.Forms.Label();
-            this.label78 = new System.Windows.Forms.Label();
-            this.label79 = new System.Windows.Forms.Label();
-            this.label82 = new System.Windows.Forms.Label();
-            this.label85 = new System.Windows.Forms.Label();
-            this.label88 = new System.Windows.Forms.Label();
-            this.textBox6 = new System.Windows.Forms.TextBox();
-            this.label91 = new System.Windows.Forms.Label();
-            this.textBox15 = new System.Windows.Forms.TextBox();
-            this.label93 = new System.Windows.Forms.Label();
-            this.label94 = new System.Windows.Forms.Label();
-            this.label95 = new System.Windows.Forms.Label();
-            this.label96 = new System.Windows.Forms.Label();
-            this.label97 = new System.Windows.Forms.Label();
-            this.textBox16 = new System.Windows.Forms.TextBox();
-            this.label98 = new System.Windows.Forms.Label();
-            this.label99 = new System.Windows.Forms.Label();
-            this.label100 = new System.Windows.Forms.Label();
-            this.textBox19 = new System.Windows.Forms.TextBox();
-            this.label101 = new System.Windows.Forms.Label();
-            this.textBox20 = new System.Windows.Forms.TextBox();
-            this.label102 = new System.Windows.Forms.Label();
-            this.textBox21 = new System.Windows.Forms.TextBox();
-            this.label103 = new System.Windows.Forms.Label();
-            this.label104 = new System.Windows.Forms.Label();
-            this.label105 = new System.Windows.Forms.Label();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.label106 = new System.Windows.Forms.Label();
             this.label107 = new System.Windows.Forms.Label();
@@ -219,33 +173,81 @@
             this.label42 = new System.Windows.Forms.Label();
             this.label35 = new System.Windows.Forms.Label();
             this.label38 = new System.Windows.Forms.Label();
-            this.btnMedKuporos = new System.Windows.Forms.Button();
-            this.label32 = new System.Windows.Forms.Label();
-            this.label47 = new System.Windows.Forms.Label();
-            this.tbCountStado = new System.Windows.Forms.TextBox();
-            this.lblVanna = new System.Windows.Forms.Label();
-            this.lblTrebuemKuporosKg = new System.Windows.Forms.Label();
-            this.label59 = new System.Windows.Forms.Label();
-            this.label61 = new System.Windows.Forms.Label();
-            this.tbCountDay = new System.Windows.Forms.TextBox();
-            this.label112 = new System.Windows.Forms.Label();
-            this.tbPercent = new System.Windows.Forms.TextBox();
-            this.label116 = new System.Windows.Forms.Label();
-            this.label120 = new System.Windows.Forms.Label();
-            this.tbCountObrabotki = new System.Windows.Forms.TextBox();
-            this.label122 = new System.Windows.Forms.Label();
-            this.tbKuporosKg = new System.Windows.Forms.TextBox();
-            this.lblStoimGolova = new System.Windows.Forms.Label();
-            this.label136 = new System.Windows.Forms.Label();
-            this.lblStoimPeriod = new System.Windows.Forms.Label();
-            this.label140 = new System.Windows.Forms.Label();
+            this.tabPage5 = new System.Windows.Forms.TabPage();
+            this.groupBox4 = new System.Windows.Forms.GroupBox();
+            this.label132 = new System.Windows.Forms.Label();
+            this.label133 = new System.Windows.Forms.Label();
+            this.label134 = new System.Windows.Forms.Label();
+            this.label135 = new System.Windows.Forms.Label();
+            this.lblres28 = new System.Windows.Forms.Label();
+            this.label137 = new System.Windows.Forms.Label();
+            this.lblres27 = new System.Windows.Forms.Label();
+            this.label139 = new System.Windows.Forms.Label();
+            this.lblres26 = new System.Windows.Forms.Label();
+            this.label141 = new System.Windows.Forms.Label();
+            this.lblres25 = new System.Windows.Forms.Label();
+            this.label143 = new System.Windows.Forms.Label();
+            this.textBox28 = new System.Windows.Forms.TextBox();
+            this.label144 = new System.Windows.Forms.Label();
+            this.textBox29 = new System.Windows.Forms.TextBox();
+            this.label145 = new System.Windows.Forms.Label();
+            this.lblres24 = new System.Windows.Forms.Label();
+            this.label147 = new System.Windows.Forms.Label();
+            this.lblres23 = new System.Windows.Forms.Label();
+            this.label149 = new System.Windows.Forms.Label();
+            this.tbres22 = new System.Windows.Forms.TextBox();
+            this.label150 = new System.Windows.Forms.Label();
+            this.lblres21 = new System.Windows.Forms.Label();
+            this.label152 = new System.Windows.Forms.Label();
+            this.textBox31 = new System.Windows.Forms.TextBox();
+            this.label153 = new System.Windows.Forms.Label();
+            this.textBox32 = new System.Windows.Forms.TextBox();
+            this.label154 = new System.Windows.Forms.Label();
+            this.textBox33 = new System.Windows.Forms.TextBox();
+            this.label155 = new System.Windows.Forms.Label();
+            this.label156 = new System.Windows.Forms.Label();
+            this.label157 = new System.Windows.Forms.Label();
+            this.label54 = new System.Windows.Forms.Label();
+            this.label66 = new System.Windows.Forms.Label();
+            this.label67 = new System.Windows.Forms.Label();
+            this.label70 = new System.Windows.Forms.Label();
+            this.button4 = new System.Windows.Forms.Button();
+            this.label73 = new System.Windows.Forms.Label();
+            this.label75 = new System.Windows.Forms.Label();
+            this.label76 = new System.Windows.Forms.Label();
+            this.label78 = new System.Windows.Forms.Label();
+            this.label79 = new System.Windows.Forms.Label();
+            this.label82 = new System.Windows.Forms.Label();
+            this.label85 = new System.Windows.Forms.Label();
+            this.label88 = new System.Windows.Forms.Label();
+            this.textBox6 = new System.Windows.Forms.TextBox();
+            this.label91 = new System.Windows.Forms.Label();
+            this.textBox15 = new System.Windows.Forms.TextBox();
+            this.label93 = new System.Windows.Forms.Label();
+            this.label94 = new System.Windows.Forms.Label();
+            this.label95 = new System.Windows.Forms.Label();
+            this.label96 = new System.Windows.Forms.Label();
+            this.label97 = new System.Windows.Forms.Label();
+            this.textBox16 = new System.Windows.Forms.TextBox();
+            this.label98 = new System.Windows.Forms.Label();
+            this.label99 = new System.Windows.Forms.Label();
+            this.label100 = new System.Windows.Forms.Label();
+            this.textBox19 = new System.Windows.Forms.TextBox();
+            this.label101 = new System.Windows.Forms.Label();
+            this.textBox20 = new System.Windows.Forms.TextBox();
+            this.label102 = new System.Windows.Forms.Label();
+            this.textBox21 = new System.Windows.Forms.TextBox();
+            this.label103 = new System.Windows.Forms.Label();
+            this.label104 = new System.Windows.Forms.Label();
+            this.label105 = new System.Windows.Forms.Label();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage4.SuspendLayout();
             this.tabPage3.SuspendLayout();
             this.tabPage2.SuspendLayout();
-            this.groupBox4.SuspendLayout();
             this.groupBox3.SuspendLayout();
+            this.tabPage5.SuspendLayout();
+            this.groupBox4.SuspendLayout();
             this.SuspendLayout();
             // 
             // tabControl1
@@ -254,11 +256,12 @@
             this.tabControl1.Controls.Add(this.tabPage4);
             this.tabControl1.Controls.Add(this.tabPage3);
             this.tabControl1.Controls.Add(this.tabPage2);
+            this.tabControl1.Controls.Add(this.tabPage5);
             this.tabControl1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tabControl1.Location = new System.Drawing.Point(0, 0);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(853, 798);
+            this.tabControl1.Size = new System.Drawing.Size(853, 487);
             this.tabControl1.TabIndex = 0;
             // 
             // tabPage1
@@ -303,7 +306,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(845, 772);
+            this.tabPage1.Size = new System.Drawing.Size(845, 461);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Программа \"Оздоровление\"";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -328,6 +331,16 @@
             this.label34.TabIndex = 59;
             this.label34.Text = "Через 200 литров может проходить 500 голов*";
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label4.Location = new System.Drawing.Point(10, 78);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(393, 13);
+            this.label4.TabIndex = 4;
+            this.label4.Text = "Первые 3 недели использование 6 дней в неделю 2 раза в день";
+            // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(5, 427);
@@ -338,6 +351,16 @@
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.Location = new System.Drawing.Point(10, 33);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(77, 13);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "Объем ванны";
+            // 
             // label15
             // 
             this.label15.AutoSize = true;
@@ -346,6 +369,15 @@
             this.label15.Size = new System.Drawing.Size(13, 13);
             this.label15.TabIndex = 53;
             this.label15.Text = "0";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(294, 34);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(25, 13);
+            this.label2.TabIndex = 1;
+            this.label2.Text = "200";
             // 
             // label17
             // 
@@ -356,6 +388,15 @@
             this.label17.TabIndex = 52;
             this.label17.Text = "0";
             // 
+            // label3
+            // 
+            this.label3.AutoSize = true;
+            this.label3.Location = new System.Drawing.Point(9, 53);
+            this.label3.Name = "label3";
+            this.label3.Size = new System.Drawing.Size(142, 13);
+            this.label3.TabIndex = 2;
+            this.label3.Text = "Количество дойного стада";
+            // 
             // label19
             // 
             this.label19.AutoSize = true;
@@ -364,6 +405,14 @@
             this.label19.Size = new System.Drawing.Size(13, 13);
             this.label19.TabIndex = 51;
             this.label19.Text = "0";
+            // 
+            // textBox1
+            // 
+            this.textBox1.Location = new System.Drawing.Point(297, 50);
+            this.textBox1.Name = "textBox1";
+            this.textBox1.Size = new System.Drawing.Size(45, 20);
+            this.textBox1.TabIndex = 3;
+            this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // label21
             // 
@@ -375,6 +424,15 @@
             this.label21.Text = "0";
             this.label21.Visible = false;
             // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(10, 104);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(74, 13);
+            this.label5.TabIndex = 5;
+            this.label5.Text = "Дезимикс, %";
+            // 
             // textBox4
             // 
             this.textBox4.Location = new System.Drawing.Point(297, 290);
@@ -383,6 +441,15 @@
             this.textBox4.TabIndex = 49;
             this.textBox4.Text = "2";
             this.textBox4.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox4_KeyPress);
+            // 
+            // textBox2
+            // 
+            this.textBox2.Location = new System.Drawing.Point(297, 101);
+            this.textBox2.Name = "textBox2";
+            this.textBox2.Size = new System.Drawing.Size(45, 20);
+            this.textBox2.TabIndex = 6;
+            this.textBox2.Text = "2";
+            this.textBox2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox2_KeyPress);
             // 
             // label23
             // 
@@ -394,6 +461,16 @@
             this.label23.Text = "0";
             this.label23.Visible = false;
             // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Location = new System.Drawing.Point(269, 101);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(13, 13);
+            this.label6.TabIndex = 7;
+            this.label6.Text = "0";
+            this.label6.Visible = false;
+            // 
             // textBox5
             // 
             this.textBox5.Location = new System.Drawing.Point(297, 264);
@@ -402,6 +479,15 @@
             this.textBox5.TabIndex = 47;
             this.textBox5.Text = "2";
             this.textBox5.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox5_KeyPress);
+            // 
+            // label8
+            // 
+            this.label8.AutoSize = true;
+            this.label8.Location = new System.Drawing.Point(10, 130);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(106, 13);
+            this.label8.TabIndex = 8;
+            this.label8.Text = "Медный купорос, %";
             // 
             // label16
             // 
@@ -412,6 +498,15 @@
             this.label16.TabIndex = 46;
             this.label16.Text = "Количество требуемого Медного купороса, кг";
             // 
+            // textBox3
+            // 
+            this.textBox3.Location = new System.Drawing.Point(297, 127);
+            this.textBox3.Name = "textBox3";
+            this.textBox3.Size = new System.Drawing.Size(45, 20);
+            this.textBox3.TabIndex = 9;
+            this.textBox3.Text = "2";
+            this.textBox3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox3_KeyPress);
+            // 
             // label18
             // 
             this.label18.AutoSize = true;
@@ -420,6 +515,16 @@
             this.label18.Size = new System.Drawing.Size(201, 13);
             this.label18.TabIndex = 45;
             this.label18.Text = "Количество требуемого Дезимикс, кг";
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.Location = new System.Drawing.Point(269, 127);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(13, 13);
+            this.label7.TabIndex = 10;
+            this.label7.Text = "0";
+            this.label7.Visible = false;
             // 
             // label20
             // 
@@ -430,6 +535,15 @@
             this.label20.TabIndex = 44;
             this.label20.Text = "Количество требуемых ванн, шт";
             // 
+            // label10
+            // 
+            this.label10.AutoSize = true;
+            this.label10.Location = new System.Drawing.Point(10, 156);
+            this.label10.Name = "label10";
+            this.label10.Size = new System.Drawing.Size(170, 13);
+            this.label10.TabIndex = 11;
+            this.label10.Text = "Количество требуемых ванн, шт";
+            // 
             // label22
             // 
             this.label22.AutoSize = true;
@@ -439,6 +553,15 @@
             this.label22.TabIndex = 43;
             this.label22.Text = "Медный купорос, %";
             // 
+            // label9
+            // 
+            this.label9.AutoSize = true;
+            this.label9.Location = new System.Drawing.Point(293, 156);
+            this.label9.Name = "label9";
+            this.label9.Size = new System.Drawing.Size(13, 13);
+            this.label9.TabIndex = 13;
+            this.label9.Text = "0";
+            // 
             // label24
             // 
             this.label24.AutoSize = true;
@@ -447,6 +570,15 @@
             this.label24.Size = new System.Drawing.Size(74, 13);
             this.label24.TabIndex = 42;
             this.label24.Text = "Дезимикс, %";
+            // 
+            // label12
+            // 
+            this.label12.AutoSize = true;
+            this.label12.Location = new System.Drawing.Point(10, 182);
+            this.label12.Name = "label12";
+            this.label12.Size = new System.Drawing.Size(201, 13);
+            this.label12.TabIndex = 14;
+            this.label12.Text = "Количество требуемого Дезимикс, кг";
             // 
             // label28
             // 
@@ -458,6 +590,15 @@
             this.label28.TabIndex = 41;
             this.label28.Text = "0";
             // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Location = new System.Drawing.Point(293, 182);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(13, 13);
+            this.label11.TabIndex = 16;
+            this.label11.Text = "0";
+            // 
             // label29
             // 
             this.label29.AutoSize = true;
@@ -468,6 +609,15 @@
             this.label29.TabIndex = 39;
             this.label29.Text = "Медный купорос, кг";
             // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.Location = new System.Drawing.Point(10, 208);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(242, 13);
+            this.label14.TabIndex = 17;
+            this.label14.Text = "Количество требуемого Медного купороса, кг";
+            // 
             // label26
             // 
             this.label26.AutoSize = true;
@@ -477,6 +627,15 @@
             this.label26.Size = new System.Drawing.Size(14, 13);
             this.label26.TabIndex = 38;
             this.label26.Text = "0";
+            // 
+            // label13
+            // 
+            this.label13.AutoSize = true;
+            this.label13.Location = new System.Drawing.Point(293, 208);
+            this.label13.Name = "label13";
+            this.label13.Size = new System.Drawing.Size(13, 13);
+            this.label13.TabIndex = 19;
+            this.label13.Text = "0";
             // 
             // label27
             // 
@@ -497,162 +656,6 @@
             this.label25.Size = new System.Drawing.Size(420, 13);
             this.label25.TabIndex = 20;
             this.label25.Text = "Следующие 7 недель  - использование 3 дня в неделю 2 раза в день";
-            // 
-            // label13
-            // 
-            this.label13.AutoSize = true;
-            this.label13.Location = new System.Drawing.Point(293, 208);
-            this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(13, 13);
-            this.label13.TabIndex = 19;
-            this.label13.Text = "0";
-            // 
-            // label14
-            // 
-            this.label14.AutoSize = true;
-            this.label14.Location = new System.Drawing.Point(10, 208);
-            this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(242, 13);
-            this.label14.TabIndex = 17;
-            this.label14.Text = "Количество требуемого Медного купороса, кг";
-            // 
-            // label11
-            // 
-            this.label11.AutoSize = true;
-            this.label11.Location = new System.Drawing.Point(293, 182);
-            this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(13, 13);
-            this.label11.TabIndex = 16;
-            this.label11.Text = "0";
-            // 
-            // label12
-            // 
-            this.label12.AutoSize = true;
-            this.label12.Location = new System.Drawing.Point(10, 182);
-            this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(201, 13);
-            this.label12.TabIndex = 14;
-            this.label12.Text = "Количество требуемого Дезимикс, кг";
-            // 
-            // label9
-            // 
-            this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(293, 156);
-            this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(13, 13);
-            this.label9.TabIndex = 13;
-            this.label9.Text = "0";
-            // 
-            // label10
-            // 
-            this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(10, 156);
-            this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(170, 13);
-            this.label10.TabIndex = 11;
-            this.label10.Text = "Количество требуемых ванн, шт";
-            // 
-            // label7
-            // 
-            this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(269, 127);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(13, 13);
-            this.label7.TabIndex = 10;
-            this.label7.Text = "0";
-            this.label7.Visible = false;
-            // 
-            // textBox3
-            // 
-            this.textBox3.Location = new System.Drawing.Point(297, 127);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(45, 20);
-            this.textBox3.TabIndex = 9;
-            this.textBox3.Text = "2";
-            this.textBox3.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox3_KeyPress);
-            // 
-            // label8
-            // 
-            this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(10, 130);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(106, 13);
-            this.label8.TabIndex = 8;
-            this.label8.Text = "Медный купорос, %";
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(269, 101);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(13, 13);
-            this.label6.TabIndex = 7;
-            this.label6.Text = "0";
-            this.label6.Visible = false;
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(297, 101);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(45, 20);
-            this.textBox2.TabIndex = 6;
-            this.textBox2.Text = "2";
-            this.textBox2.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox2_KeyPress);
-            // 
-            // label5
-            // 
-            this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(10, 104);
-            this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(74, 13);
-            this.label5.TabIndex = 5;
-            this.label5.Text = "Дезимикс, %";
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label4.Location = new System.Drawing.Point(10, 78);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(393, 13);
-            this.label4.TabIndex = 4;
-            this.label4.Text = "Первые 3 недели использование 6 дней в неделю 2 раза в день";
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(297, 50);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(45, 20);
-            this.textBox1.TabIndex = 3;
-            this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(9, 53);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(142, 13);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "Количество дойного стада";
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(294, 34);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(25, 13);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "200";
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label1.Location = new System.Drawing.Point(10, 33);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(77, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "Объем ванны";
             // 
             // tabPage4
             // 
@@ -675,7 +678,7 @@
             this.tabPage4.Controls.Add(this.label50);
             this.tabPage4.Location = new System.Drawing.Point(4, 22);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(845, 772);
+            this.tabPage4.Size = new System.Drawing.Size(845, 461);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "Программа \"Профилактика\"";
             this.tabPage4.UseVisualStyleBackColor = true;
@@ -858,696 +861,196 @@
             this.tabPage3.Controls.Add(this.label116);
             this.tabPage3.Location = new System.Drawing.Point(4, 22);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(845, 772);
+            this.tabPage3.Size = new System.Drawing.Size(845, 461);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Медный купорос";
             this.tabPage3.UseVisualStyleBackColor = true;
             // 
+            // lblStoimGolova
+            // 
+            this.lblStoimGolova.AutoSize = true;
+            this.lblStoimGolova.Location = new System.Drawing.Point(296, 201);
+            this.lblStoimGolova.Name = "lblStoimGolova";
+            this.lblStoimGolova.Size = new System.Drawing.Size(13, 13);
+            this.lblStoimGolova.TabIndex = 120;
+            this.lblStoimGolova.Text = "0";
+            // 
+            // label136
+            // 
+            this.label136.AutoSize = true;
+            this.label136.Location = new System.Drawing.Point(8, 201);
+            this.label136.Name = "label136";
+            this.label136.Size = new System.Drawing.Size(244, 13);
+            this.label136.TabIndex = 119;
+            this.label136.Text = "Стоимость обработки 1 головы за период, руб";
+            // 
+            // lblStoimPeriod
+            // 
+            this.lblStoimPeriod.AutoSize = true;
+            this.lblStoimPeriod.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.lblStoimPeriod.Location = new System.Drawing.Point(296, 175);
+            this.lblStoimPeriod.Name = "lblStoimPeriod";
+            this.lblStoimPeriod.Size = new System.Drawing.Size(14, 13);
+            this.lblStoimPeriod.TabIndex = 118;
+            this.lblStoimPeriod.Text = "0";
+            // 
+            // label140
+            // 
+            this.label140.AutoSize = true;
+            this.label140.Location = new System.Drawing.Point(8, 175);
+            this.label140.Name = "label140";
+            this.label140.Size = new System.Drawing.Size(195, 13);
+            this.label140.TabIndex = 117;
+            this.label140.Text = "Стоимость обработки за период, руб";
+            // 
+            // label122
+            // 
+            this.label122.AutoSize = true;
+            this.label122.Location = new System.Drawing.Point(8, 152);
+            this.label122.Name = "label122";
+            this.label122.Size = new System.Drawing.Size(181, 13);
+            this.label122.TabIndex = 115;
+            this.label122.Text = "Стоимость 1 кг медного купороса";
+            // 
+            // tbKuporosKg
+            // 
+            this.tbKuporosKg.Location = new System.Drawing.Point(299, 152);
+            this.tbKuporosKg.Name = "tbKuporosKg";
+            this.tbKuporosKg.Size = new System.Drawing.Size(45, 20);
+            this.tbKuporosKg.TabIndex = 116;
+            // 
+            // label120
+            // 
+            this.label120.AutoSize = true;
+            this.label120.Location = new System.Drawing.Point(8, 107);
+            this.label120.Name = "label120";
+            this.label120.Size = new System.Drawing.Size(158, 13);
+            this.label120.TabIndex = 113;
+            this.label120.Text = "Количество обработок в день";
+            // 
+            // tbCountObrabotki
+            // 
+            this.tbCountObrabotki.Location = new System.Drawing.Point(299, 107);
+            this.tbCountObrabotki.Name = "tbCountObrabotki";
+            this.tbCountObrabotki.Size = new System.Drawing.Size(45, 20);
+            this.tbCountObrabotki.TabIndex = 114;
+            // 
+            // btnMedKuporos
+            // 
+            this.btnMedKuporos.Location = new System.Drawing.Point(8, 226);
+            this.btnMedKuporos.Name = "btnMedKuporos";
+            this.btnMedKuporos.Size = new System.Drawing.Size(144, 23);
+            this.btnMedKuporos.TabIndex = 96;
+            this.btnMedKuporos.Text = "Рассчитать";
+            this.btnMedKuporos.UseVisualStyleBackColor = true;
+            this.btnMedKuporos.Click += new System.EventHandler(this.button5_Click);
+            // 
+            // label32
+            // 
+            this.label32.AutoSize = true;
+            this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label32.Location = new System.Drawing.Point(8, 15);
+            this.label32.Name = "label32";
+            this.label32.Size = new System.Drawing.Size(77, 13);
+            this.label32.TabIndex = 101;
+            this.label32.Text = "Объем ванны";
+            // 
+            // label47
+            // 
+            this.label47.AutoSize = true;
+            this.label47.Location = new System.Drawing.Point(8, 35);
+            this.label47.Name = "label47";
+            this.label47.Size = new System.Drawing.Size(142, 13);
+            this.label47.TabIndex = 99;
+            this.label47.Text = "Количество дойного стада";
+            // 
+            // tbCountStado
+            // 
+            this.tbCountStado.Location = new System.Drawing.Point(299, 32);
+            this.tbCountStado.Name = "tbCountStado";
+            this.tbCountStado.Size = new System.Drawing.Size(45, 20);
+            this.tbCountStado.TabIndex = 100;
+            // 
+            // lblVanna
+            // 
+            this.lblVanna.AutoSize = true;
+            this.lblVanna.Location = new System.Drawing.Point(296, 15);
+            this.lblVanna.Name = "lblVanna";
+            this.lblVanna.Size = new System.Drawing.Size(25, 13);
+            this.lblVanna.TabIndex = 102;
+            this.lblVanna.Text = "200";
+            // 
+            // lblTrebuemKuporosKg
+            // 
+            this.lblTrebuemKuporosKg.AutoSize = true;
+            this.lblTrebuemKuporosKg.Location = new System.Drawing.Point(297, 130);
+            this.lblTrebuemKuporosKg.Name = "lblTrebuemKuporosKg";
+            this.lblTrebuemKuporosKg.Size = new System.Drawing.Size(13, 13);
+            this.lblTrebuemKuporosKg.TabIndex = 111;
+            this.lblTrebuemKuporosKg.Text = "0";
+            // 
+            // label59
+            // 
+            this.label59.AutoSize = true;
+            this.label59.Location = new System.Drawing.Point(8, 58);
+            this.label59.Name = "label59";
+            this.label59.Size = new System.Drawing.Size(185, 13);
+            this.label59.TabIndex = 103;
+            this.label59.Text = "Продолжительность обработки, дн";
+            // 
+            // label61
+            // 
+            this.label61.AutoSize = true;
+            this.label61.Location = new System.Drawing.Point(9, 130);
+            this.label61.Name = "label61";
+            this.label61.Size = new System.Drawing.Size(242, 13);
+            this.label61.TabIndex = 110;
+            this.label61.Text = "Количество требуемого Медного купороса, кг";
+            // 
+            // tbCountDay
+            // 
+            this.tbCountDay.Location = new System.Drawing.Point(299, 58);
+            this.tbCountDay.Name = "tbCountDay";
+            this.tbCountDay.Size = new System.Drawing.Size(45, 20);
+            this.tbCountDay.TabIndex = 104;
+            // 
+            // label112
+            // 
+            this.label112.AutoSize = true;
+            this.label112.Location = new System.Drawing.Point(8, 84);
+            this.label112.Name = "label112";
+            this.label112.Size = new System.Drawing.Size(106, 13);
+            this.label112.TabIndex = 105;
+            this.label112.Text = "Медный купорос, %";
+            // 
+            // tbPercent
+            // 
+            this.tbPercent.Location = new System.Drawing.Point(299, 81);
+            this.tbPercent.Name = "tbPercent";
+            this.tbPercent.Size = new System.Drawing.Size(45, 20);
+            this.tbPercent.TabIndex = 106;
+            this.tbPercent.Text = "2";
+            // 
+            // label116
+            // 
+            this.label116.AutoSize = true;
+            this.label116.Location = new System.Drawing.Point(258, 84);
+            this.label116.Name = "label116";
+            this.label116.Size = new System.Drawing.Size(13, 13);
+            this.label116.TabIndex = 107;
+            this.label116.Text = "0";
+            this.label116.Visible = false;
+            // 
             // tabPage2
             // 
-            this.tabPage2.Controls.Add(this.groupBox4);
             this.tabPage2.Controls.Add(this.groupBox3);
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(845, 772);
+            this.tabPage2.Size = new System.Drawing.Size(845, 461);
             this.tabPage2.TabIndex = 1;
-            this.tabPage2.Text = "DESITUB";
+            this.tabPage2.Text = "DESITUB Профилактика";
             this.tabPage2.UseVisualStyleBackColor = true;
-            // 
-            // groupBox4
-            // 
-            this.groupBox4.Controls.Add(this.label132);
-            this.groupBox4.Controls.Add(this.label133);
-            this.groupBox4.Controls.Add(this.label134);
-            this.groupBox4.Controls.Add(this.label135);
-            this.groupBox4.Controls.Add(this.lblres28);
-            this.groupBox4.Controls.Add(this.label137);
-            this.groupBox4.Controls.Add(this.lblres27);
-            this.groupBox4.Controls.Add(this.label139);
-            this.groupBox4.Controls.Add(this.lblres26);
-            this.groupBox4.Controls.Add(this.label141);
-            this.groupBox4.Controls.Add(this.lblres25);
-            this.groupBox4.Controls.Add(this.label143);
-            this.groupBox4.Controls.Add(this.textBox28);
-            this.groupBox4.Controls.Add(this.label144);
-            this.groupBox4.Controls.Add(this.textBox29);
-            this.groupBox4.Controls.Add(this.label145);
-            this.groupBox4.Controls.Add(this.lblres24);
-            this.groupBox4.Controls.Add(this.label147);
-            this.groupBox4.Controls.Add(this.lblres23);
-            this.groupBox4.Controls.Add(this.label149);
-            this.groupBox4.Controls.Add(this.tbres22);
-            this.groupBox4.Controls.Add(this.label150);
-            this.groupBox4.Controls.Add(this.lblres21);
-            this.groupBox4.Controls.Add(this.label152);
-            this.groupBox4.Controls.Add(this.textBox31);
-            this.groupBox4.Controls.Add(this.label153);
-            this.groupBox4.Controls.Add(this.textBox32);
-            this.groupBox4.Controls.Add(this.label154);
-            this.groupBox4.Controls.Add(this.textBox33);
-            this.groupBox4.Controls.Add(this.label155);
-            this.groupBox4.Controls.Add(this.label156);
-            this.groupBox4.Controls.Add(this.label157);
-            this.groupBox4.Controls.Add(this.label54);
-            this.groupBox4.Controls.Add(this.label66);
-            this.groupBox4.Controls.Add(this.label67);
-            this.groupBox4.Controls.Add(this.label70);
-            this.groupBox4.Controls.Add(this.button4);
-            this.groupBox4.Controls.Add(this.label73);
-            this.groupBox4.Controls.Add(this.label75);
-            this.groupBox4.Controls.Add(this.label76);
-            this.groupBox4.Controls.Add(this.label78);
-            this.groupBox4.Controls.Add(this.label79);
-            this.groupBox4.Controls.Add(this.label82);
-            this.groupBox4.Controls.Add(this.label85);
-            this.groupBox4.Controls.Add(this.label88);
-            this.groupBox4.Controls.Add(this.textBox6);
-            this.groupBox4.Controls.Add(this.label91);
-            this.groupBox4.Controls.Add(this.textBox15);
-            this.groupBox4.Controls.Add(this.label93);
-            this.groupBox4.Controls.Add(this.label94);
-            this.groupBox4.Controls.Add(this.label95);
-            this.groupBox4.Controls.Add(this.label96);
-            this.groupBox4.Controls.Add(this.label97);
-            this.groupBox4.Controls.Add(this.textBox16);
-            this.groupBox4.Controls.Add(this.label98);
-            this.groupBox4.Controls.Add(this.label99);
-            this.groupBox4.Controls.Add(this.label100);
-            this.groupBox4.Controls.Add(this.textBox19);
-            this.groupBox4.Controls.Add(this.label101);
-            this.groupBox4.Controls.Add(this.textBox20);
-            this.groupBox4.Controls.Add(this.label102);
-            this.groupBox4.Controls.Add(this.textBox21);
-            this.groupBox4.Controls.Add(this.label103);
-            this.groupBox4.Controls.Add(this.label104);
-            this.groupBox4.Controls.Add(this.label105);
-            this.groupBox4.Location = new System.Drawing.Point(8, 394);
-            this.groupBox4.Name = "groupBox4";
-            this.groupBox4.Size = new System.Drawing.Size(850, 381);
-            this.groupBox4.TabIndex = 1;
-            this.groupBox4.TabStop = false;
-            this.groupBox4.Text = "Усиленная профилактика 5 дней в неделю 2 раза в день";
-            // 
-            // label132
-            // 
-            this.label132.AutoSize = true;
-            this.label132.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label132.Location = new System.Drawing.Point(759, 328);
-            this.label132.Name = "label132";
-            this.label132.Size = new System.Drawing.Size(14, 13);
-            this.label132.TabIndex = 205;
-            this.label132.Text = "₽";
-            // 
-            // label133
-            // 
-            this.label133.AutoSize = true;
-            this.label133.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label133.Location = new System.Drawing.Point(759, 302);
-            this.label133.Name = "label133";
-            this.label133.Size = new System.Drawing.Size(14, 13);
-            this.label133.TabIndex = 204;
-            this.label133.Text = "₽";
-            // 
-            // label134
-            // 
-            this.label134.AutoSize = true;
-            this.label134.Location = new System.Drawing.Point(759, 276);
-            this.label134.Name = "label134";
-            this.label134.Size = new System.Drawing.Size(13, 13);
-            this.label134.TabIndex = 203;
-            this.label134.Text = "₽";
-            // 
-            // label135
-            // 
-            this.label135.AutoSize = true;
-            this.label135.Location = new System.Drawing.Point(759, 250);
-            this.label135.Name = "label135";
-            this.label135.Size = new System.Drawing.Size(13, 13);
-            this.label135.TabIndex = 202;
-            this.label135.Text = "₽";
-            // 
-            // lblres28
-            // 
-            this.lblres28.AutoSize = true;
-            this.lblres28.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.lblres28.Location = new System.Drawing.Point(780, 328);
-            this.lblres28.Name = "lblres28";
-            this.lblres28.Size = new System.Drawing.Size(14, 13);
-            this.lblres28.TabIndex = 201;
-            this.lblres28.Text = "0";
-            // 
-            // label137
-            // 
-            this.label137.AutoSize = true;
-            this.label137.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label137.Location = new System.Drawing.Point(462, 328);
-            this.label137.Name = "label137";
-            this.label137.Size = new System.Drawing.Size(264, 13);
-            this.label137.TabIndex = 200;
-            this.label137.Text = "Стоимость обработки 1 коровы  за период";
-            // 
-            // lblres27
-            // 
-            this.lblres27.AutoSize = true;
-            this.lblres27.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.lblres27.Location = new System.Drawing.Point(780, 302);
-            this.lblres27.Name = "lblres27";
-            this.lblres27.Size = new System.Drawing.Size(14, 13);
-            this.lblres27.TabIndex = 199;
-            this.lblres27.Text = "0";
-            // 
-            // label139
-            // 
-            this.label139.AutoSize = true;
-            this.label139.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label139.Location = new System.Drawing.Point(462, 302);
-            this.label139.Name = "label139";
-            this.label139.Size = new System.Drawing.Size(239, 13);
-            this.label139.TabIndex = 198;
-            this.label139.Text = "Стоимость обработки 1 коровы в день";
-            // 
-            // lblres26
-            // 
-            this.lblres26.AutoSize = true;
-            this.lblres26.Location = new System.Drawing.Point(780, 276);
-            this.lblres26.Name = "lblres26";
-            this.lblres26.Size = new System.Drawing.Size(13, 13);
-            this.lblres26.TabIndex = 197;
-            this.lblres26.Text = "0";
-            // 
-            // label141
-            // 
-            this.label141.AutoSize = true;
-            this.label141.Location = new System.Drawing.Point(462, 276);
-            this.label141.Name = "label141";
-            this.label141.Size = new System.Drawing.Size(155, 13);
-            this.label141.TabIndex = 196;
-            this.label141.Text = "Общая стоимость обработки";
-            // 
-            // lblres25
-            // 
-            this.lblres25.AutoSize = true;
-            this.lblres25.Location = new System.Drawing.Point(780, 250);
-            this.lblres25.Name = "lblres25";
-            this.lblres25.Size = new System.Drawing.Size(13, 13);
-            this.lblres25.TabIndex = 195;
-            this.lblres25.Text = "0";
-            // 
-            // label143
-            // 
-            this.label143.AutoSize = true;
-            this.label143.Location = new System.Drawing.Point(462, 250);
-            this.label143.Name = "label143";
-            this.label143.Size = new System.Drawing.Size(85, 13);
-            this.label143.TabIndex = 194;
-            this.label143.Text = "Стоимость 1 кг";
-            // 
-            // textBox28
-            // 
-            this.textBox28.Location = new System.Drawing.Point(709, 221);
-            this.textBox28.Name = "textBox28";
-            this.textBox28.Size = new System.Drawing.Size(45, 20);
-            this.textBox28.TabIndex = 193;
-            this.textBox28.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox28_KeyPress);
-            // 
-            // label144
-            // 
-            this.label144.AutoSize = true;
-            this.label144.Location = new System.Drawing.Point(462, 224);
-            this.label144.Name = "label144";
-            this.label144.Size = new System.Drawing.Size(50, 13);
-            this.label144.TabIndex = 192;
-            this.label144.Text = "Весовка";
-            // 
-            // textBox29
-            // 
-            this.textBox29.Location = new System.Drawing.Point(709, 195);
-            this.textBox29.Name = "textBox29";
-            this.textBox29.Size = new System.Drawing.Size(45, 20);
-            this.textBox29.TabIndex = 191;
-            this.textBox29.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox29_KeyPress);
-            // 
-            // label145
-            // 
-            this.label145.AutoSize = true;
-            this.label145.Location = new System.Drawing.Point(462, 198);
-            this.label145.Name = "label145";
-            this.label145.Size = new System.Drawing.Size(114, 13);
-            this.label145.TabIndex = 190;
-            this.label145.Text = "Стоимость канистры";
-            // 
-            // lblres24
-            // 
-            this.lblres24.AutoSize = true;
-            this.lblres24.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.lblres24.Location = new System.Drawing.Point(780, 172);
-            this.lblres24.Name = "lblres24";
-            this.lblres24.Size = new System.Drawing.Size(14, 13);
-            this.lblres24.TabIndex = 189;
-            this.lblres24.Text = "0";
-            // 
-            // label147
-            // 
-            this.label147.AutoSize = true;
-            this.label147.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label147.Location = new System.Drawing.Point(462, 172);
-            this.label147.Name = "label147";
-            this.label147.Size = new System.Drawing.Size(225, 13);
-            this.label147.TabIndex = 188;
-            this.label147.Text = "Количество требуемого Дезитаб, кг";
-            // 
-            // lblres23
-            // 
-            this.lblres23.AutoSize = true;
-            this.lblres23.Location = new System.Drawing.Point(780, 146);
-            this.lblres23.Name = "lblres23";
-            this.lblres23.Size = new System.Drawing.Size(13, 13);
-            this.lblres23.TabIndex = 187;
-            this.lblres23.Text = "0";
-            // 
-            // label149
-            // 
-            this.label149.AutoSize = true;
-            this.label149.Location = new System.Drawing.Point(462, 146);
-            this.label149.Name = "label149";
-            this.label149.Size = new System.Drawing.Size(93, 13);
-            this.label149.TabIndex = 186;
-            this.label149.Text = "Количество ванн";
-            // 
-            // tbres22
-            // 
-            this.tbres22.Enabled = false;
-            this.tbres22.Location = new System.Drawing.Point(709, 117);
-            this.tbres22.Name = "tbres22";
-            this.tbres22.Size = new System.Drawing.Size(45, 20);
-            this.tbres22.TabIndex = 185;
-            this.tbres22.Text = "1";
-            this.tbres22.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.tbres22_KeyPress);
-            // 
-            // label150
-            // 
-            this.label150.AutoSize = true;
-            this.label150.Location = new System.Drawing.Point(462, 120);
-            this.label150.Name = "label150";
-            this.label150.Size = new System.Drawing.Size(176, 13);
-            this.label150.TabIndex = 184;
-            this.label150.Text = "Количество обработок за период";
-            // 
-            // lblres21
-            // 
-            this.lblres21.AutoSize = true;
-            this.lblres21.Location = new System.Drawing.Point(780, 94);
-            this.lblres21.Name = "lblres21";
-            this.lblres21.Size = new System.Drawing.Size(13, 13);
-            this.lblres21.TabIndex = 183;
-            this.lblres21.Text = "0";
-            // 
-            // label152
-            // 
-            this.label152.AutoSize = true;
-            this.label152.Location = new System.Drawing.Point(759, 94);
-            this.label152.Name = "label152";
-            this.label152.Size = new System.Drawing.Size(15, 13);
-            this.label152.TabIndex = 182;
-            this.label152.Text = "%";
-            // 
-            // textBox31
-            // 
-            this.textBox31.Location = new System.Drawing.Point(709, 91);
-            this.textBox31.Name = "textBox31";
-            this.textBox31.Size = new System.Drawing.Size(45, 20);
-            this.textBox31.TabIndex = 181;
-            this.textBox31.Text = "2";
-            this.textBox31.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox31_KeyPress);
-            // 
-            // label153
-            // 
-            this.label153.AutoSize = true;
-            this.label153.Location = new System.Drawing.Point(462, 94);
-            this.label153.Name = "label153";
-            this.label153.Size = new System.Drawing.Size(96, 13);
-            this.label153.TabIndex = 180;
-            this.label153.Text = "% использования";
-            // 
-            // textBox32
-            // 
-            this.textBox32.Location = new System.Drawing.Point(709, 65);
-            this.textBox32.Name = "textBox32";
-            this.textBox32.Size = new System.Drawing.Size(45, 20);
-            this.textBox32.TabIndex = 179;
-            this.textBox32.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox32_KeyPress);
-            // 
-            // label154
-            // 
-            this.label154.AutoSize = true;
-            this.label154.Location = new System.Drawing.Point(462, 68);
-            this.label154.Name = "label154";
-            this.label154.Size = new System.Drawing.Size(197, 13);
-            this.label154.TabIndex = 178;
-            this.label154.Text = "Продолжительность обработки, дней";
-            // 
-            // textBox33
-            // 
-            this.textBox33.Location = new System.Drawing.Point(709, 39);
-            this.textBox33.Name = "textBox33";
-            this.textBox33.Size = new System.Drawing.Size(45, 20);
-            this.textBox33.TabIndex = 177;
-            this.textBox33.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox33_KeyPress);
-            // 
-            // label155
-            // 
-            this.label155.AutoSize = true;
-            this.label155.Location = new System.Drawing.Point(462, 42);
-            this.label155.Name = "label155";
-            this.label155.Size = new System.Drawing.Size(142, 13);
-            this.label155.TabIndex = 176;
-            this.label155.Text = "Количество дойного стада";
-            // 
-            // label156
-            // 
-            this.label156.AutoSize = true;
-            this.label156.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label156.Location = new System.Drawing.Point(706, 16);
-            this.label156.Name = "label156";
-            this.label156.Size = new System.Drawing.Size(25, 13);
-            this.label156.TabIndex = 175;
-            this.label156.Text = "200";
-            // 
-            // label157
-            // 
-            this.label157.AutoSize = true;
-            this.label157.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label157.Location = new System.Drawing.Point(462, 16);
-            this.label157.Name = "label157";
-            this.label157.Size = new System.Drawing.Size(77, 13);
-            this.label157.TabIndex = 174;
-            this.label157.Text = "Объем ванны";
-            // 
-            // label54
-            // 
-            this.label54.AutoSize = true;
-            this.label54.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label54.Location = new System.Drawing.Point(305, 328);
-            this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(14, 13);
-            this.label54.TabIndex = 173;
-            this.label54.Text = "₽";
-            // 
-            // label66
-            // 
-            this.label66.AutoSize = true;
-            this.label66.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label66.Location = new System.Drawing.Point(305, 302);
-            this.label66.Name = "label66";
-            this.label66.Size = new System.Drawing.Size(14, 13);
-            this.label66.TabIndex = 172;
-            this.label66.Text = "₽";
-            // 
-            // label67
-            // 
-            this.label67.AutoSize = true;
-            this.label67.Location = new System.Drawing.Point(305, 276);
-            this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(13, 13);
-            this.label67.TabIndex = 171;
-            this.label67.Text = "₽";
-            // 
-            // label70
-            // 
-            this.label70.AutoSize = true;
-            this.label70.Location = new System.Drawing.Point(305, 250);
-            this.label70.Name = "label70";
-            this.label70.Size = new System.Drawing.Size(13, 13);
-            this.label70.TabIndex = 170;
-            this.label70.Text = "₽";
-            // 
-            // button4
-            // 
-            this.button4.Location = new System.Drawing.Point(366, 323);
-            this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(75, 23);
-            this.button4.TabIndex = 169;
-            this.button4.Text = "Рассчитать";
-            this.button4.UseVisualStyleBackColor = true;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
-            // 
-            // label73
-            // 
-            this.label73.AutoSize = true;
-            this.label73.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label73.Location = new System.Drawing.Point(326, 328);
-            this.label73.Name = "label73";
-            this.label73.Size = new System.Drawing.Size(14, 13);
-            this.label73.TabIndex = 168;
-            this.label73.Text = "0";
-            // 
-            // label75
-            // 
-            this.label75.AutoSize = true;
-            this.label75.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label75.Location = new System.Drawing.Point(8, 328);
-            this.label75.Name = "label75";
-            this.label75.Size = new System.Drawing.Size(264, 13);
-            this.label75.TabIndex = 167;
-            this.label75.Text = "Стоимость обработки 1 коровы  за период";
-            // 
-            // label76
-            // 
-            this.label76.AutoSize = true;
-            this.label76.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label76.Location = new System.Drawing.Point(326, 302);
-            this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(14, 13);
-            this.label76.TabIndex = 166;
-            this.label76.Text = "0";
-            // 
-            // label78
-            // 
-            this.label78.AutoSize = true;
-            this.label78.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label78.Location = new System.Drawing.Point(8, 302);
-            this.label78.Name = "label78";
-            this.label78.Size = new System.Drawing.Size(239, 13);
-            this.label78.TabIndex = 165;
-            this.label78.Text = "Стоимость обработки 1 коровы в день";
-            // 
-            // label79
-            // 
-            this.label79.AutoSize = true;
-            this.label79.Location = new System.Drawing.Point(326, 276);
-            this.label79.Name = "label79";
-            this.label79.Size = new System.Drawing.Size(13, 13);
-            this.label79.TabIndex = 164;
-            this.label79.Text = "0";
-            // 
-            // label82
-            // 
-            this.label82.AutoSize = true;
-            this.label82.Location = new System.Drawing.Point(8, 276);
-            this.label82.Name = "label82";
-            this.label82.Size = new System.Drawing.Size(155, 13);
-            this.label82.TabIndex = 163;
-            this.label82.Text = "Общая стоимость обработки";
-            // 
-            // label85
-            // 
-            this.label85.AutoSize = true;
-            this.label85.Location = new System.Drawing.Point(326, 250);
-            this.label85.Name = "label85";
-            this.label85.Size = new System.Drawing.Size(13, 13);
-            this.label85.TabIndex = 162;
-            this.label85.Text = "0";
-            // 
-            // label88
-            // 
-            this.label88.AutoSize = true;
-            this.label88.Location = new System.Drawing.Point(8, 250);
-            this.label88.Name = "label88";
-            this.label88.Size = new System.Drawing.Size(85, 13);
-            this.label88.TabIndex = 161;
-            this.label88.Text = "Стоимость 1 кг";
-            // 
-            // textBox6
-            // 
-            this.textBox6.Location = new System.Drawing.Point(255, 221);
-            this.textBox6.Name = "textBox6";
-            this.textBox6.Size = new System.Drawing.Size(45, 20);
-            this.textBox6.TabIndex = 160;
-            this.textBox6.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox6_KeyPress);
-            // 
-            // label91
-            // 
-            this.label91.AutoSize = true;
-            this.label91.Location = new System.Drawing.Point(8, 224);
-            this.label91.Name = "label91";
-            this.label91.Size = new System.Drawing.Size(50, 13);
-            this.label91.TabIndex = 159;
-            this.label91.Text = "Весовка";
-            // 
-            // textBox15
-            // 
-            this.textBox15.Location = new System.Drawing.Point(255, 195);
-            this.textBox15.Name = "textBox15";
-            this.textBox15.Size = new System.Drawing.Size(45, 20);
-            this.textBox15.TabIndex = 158;
-            this.textBox15.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox15_KeyPress);
-            // 
-            // label93
-            // 
-            this.label93.AutoSize = true;
-            this.label93.Location = new System.Drawing.Point(8, 198);
-            this.label93.Name = "label93";
-            this.label93.Size = new System.Drawing.Size(114, 13);
-            this.label93.TabIndex = 157;
-            this.label93.Text = "Стоимость канистры";
-            // 
-            // label94
-            // 
-            this.label94.AutoSize = true;
-            this.label94.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label94.Location = new System.Drawing.Point(326, 172);
-            this.label94.Name = "label94";
-            this.label94.Size = new System.Drawing.Size(14, 13);
-            this.label94.TabIndex = 156;
-            this.label94.Text = "0";
-            // 
-            // label95
-            // 
-            this.label95.AutoSize = true;
-            this.label95.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label95.Location = new System.Drawing.Point(8, 172);
-            this.label95.Name = "label95";
-            this.label95.Size = new System.Drawing.Size(225, 13);
-            this.label95.TabIndex = 155;
-            this.label95.Text = "Количество требуемого Дезитаб, кг";
-            // 
-            // label96
-            // 
-            this.label96.AutoSize = true;
-            this.label96.Location = new System.Drawing.Point(326, 146);
-            this.label96.Name = "label96";
-            this.label96.Size = new System.Drawing.Size(13, 13);
-            this.label96.TabIndex = 154;
-            this.label96.Text = "0";
-            // 
-            // label97
-            // 
-            this.label97.AutoSize = true;
-            this.label97.Location = new System.Drawing.Point(8, 146);
-            this.label97.Name = "label97";
-            this.label97.Size = new System.Drawing.Size(93, 13);
-            this.label97.TabIndex = 153;
-            this.label97.Text = "Количество ванн";
-            // 
-            // textBox16
-            // 
-            this.textBox16.Enabled = false;
-            this.textBox16.Location = new System.Drawing.Point(255, 117);
-            this.textBox16.Name = "textBox16";
-            this.textBox16.Size = new System.Drawing.Size(45, 20);
-            this.textBox16.TabIndex = 152;
-            this.textBox16.Text = "1";
-            this.textBox16.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox16_KeyPress);
-            // 
-            // label98
-            // 
-            this.label98.AutoSize = true;
-            this.label98.Location = new System.Drawing.Point(8, 120);
-            this.label98.Name = "label98";
-            this.label98.Size = new System.Drawing.Size(176, 13);
-            this.label98.TabIndex = 151;
-            this.label98.Text = "Количество обработок за период";
-            // 
-            // label99
-            // 
-            this.label99.AutoSize = true;
-            this.label99.Location = new System.Drawing.Point(326, 94);
-            this.label99.Name = "label99";
-            this.label99.Size = new System.Drawing.Size(13, 13);
-            this.label99.TabIndex = 150;
-            this.label99.Text = "0";
-            // 
-            // label100
-            // 
-            this.label100.AutoSize = true;
-            this.label100.Location = new System.Drawing.Point(305, 94);
-            this.label100.Name = "label100";
-            this.label100.Size = new System.Drawing.Size(15, 13);
-            this.label100.TabIndex = 149;
-            this.label100.Text = "%";
-            // 
-            // textBox19
-            // 
-            this.textBox19.Location = new System.Drawing.Point(255, 91);
-            this.textBox19.Name = "textBox19";
-            this.textBox19.Size = new System.Drawing.Size(45, 20);
-            this.textBox19.TabIndex = 148;
-            this.textBox19.Text = "2";
-            this.textBox19.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox19_KeyPress);
-            // 
-            // label101
-            // 
-            this.label101.AutoSize = true;
-            this.label101.Location = new System.Drawing.Point(8, 94);
-            this.label101.Name = "label101";
-            this.label101.Size = new System.Drawing.Size(96, 13);
-            this.label101.TabIndex = 147;
-            this.label101.Text = "% использования";
-            // 
-            // textBox20
-            // 
-            this.textBox20.Location = new System.Drawing.Point(255, 65);
-            this.textBox20.Name = "textBox20";
-            this.textBox20.Size = new System.Drawing.Size(45, 20);
-            this.textBox20.TabIndex = 146;
-            this.textBox20.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox20_KeyPress);
-            // 
-            // label102
-            // 
-            this.label102.AutoSize = true;
-            this.label102.Location = new System.Drawing.Point(8, 68);
-            this.label102.Name = "label102";
-            this.label102.Size = new System.Drawing.Size(197, 13);
-            this.label102.TabIndex = 145;
-            this.label102.Text = "Продолжительность обработки, дней";
-            // 
-            // textBox21
-            // 
-            this.textBox21.Location = new System.Drawing.Point(255, 39);
-            this.textBox21.Name = "textBox21";
-            this.textBox21.Size = new System.Drawing.Size(45, 20);
-            this.textBox21.TabIndex = 144;
-            this.textBox21.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox21_KeyPress);
-            // 
-            // label103
-            // 
-            this.label103.AutoSize = true;
-            this.label103.Location = new System.Drawing.Point(8, 42);
-            this.label103.Name = "label103";
-            this.label103.Size = new System.Drawing.Size(142, 13);
-            this.label103.TabIndex = 143;
-            this.label103.Text = "Количество дойного стада";
-            // 
-            // label104
-            // 
-            this.label104.AutoSize = true;
-            this.label104.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label104.Location = new System.Drawing.Point(252, 16);
-            this.label104.Name = "label104";
-            this.label104.Size = new System.Drawing.Size(25, 13);
-            this.label104.TabIndex = 142;
-            this.label104.Text = "200";
-            // 
-            // label105
-            // 
-            this.label105.AutoSize = true;
-            this.label105.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label105.Location = new System.Drawing.Point(8, 16);
-            this.label105.Name = "label105";
-            this.label105.Size = new System.Drawing.Size(77, 13);
-            this.label105.TabIndex = 141;
-            this.label105.Text = "Объем ванны";
             // 
             // groupBox3
             // 
@@ -2223,186 +1726,682 @@
             this.label38.TabIndex = 84;
             this.label38.Text = "Объем ванны";
             // 
-            // btnMedKuporos
+            // tabPage5
             // 
-            this.btnMedKuporos.Location = new System.Drawing.Point(8, 226);
-            this.btnMedKuporos.Name = "btnMedKuporos";
-            this.btnMedKuporos.Size = new System.Drawing.Size(144, 23);
-            this.btnMedKuporos.TabIndex = 96;
-            this.btnMedKuporos.Text = "Рассчитать";
-            this.btnMedKuporos.UseVisualStyleBackColor = true;
-            this.btnMedKuporos.Click += new System.EventHandler(this.button5_Click);
+            this.tabPage5.Controls.Add(this.groupBox4);
+            this.tabPage5.Location = new System.Drawing.Point(4, 22);
+            this.tabPage5.Name = "tabPage5";
+            this.tabPage5.Size = new System.Drawing.Size(845, 461);
+            this.tabPage5.TabIndex = 4;
+            this.tabPage5.Text = "DESITUB Усиленная профилактика";
+            this.tabPage5.UseVisualStyleBackColor = true;
             // 
-            // label32
+            // groupBox4
             // 
-            this.label32.AutoSize = true;
-            this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.label32.Location = new System.Drawing.Point(8, 15);
-            this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(77, 13);
-            this.label32.TabIndex = 101;
-            this.label32.Text = "Объем ванны";
+            this.groupBox4.Controls.Add(this.label132);
+            this.groupBox4.Controls.Add(this.label133);
+            this.groupBox4.Controls.Add(this.label134);
+            this.groupBox4.Controls.Add(this.label135);
+            this.groupBox4.Controls.Add(this.lblres28);
+            this.groupBox4.Controls.Add(this.label137);
+            this.groupBox4.Controls.Add(this.lblres27);
+            this.groupBox4.Controls.Add(this.label139);
+            this.groupBox4.Controls.Add(this.lblres26);
+            this.groupBox4.Controls.Add(this.label141);
+            this.groupBox4.Controls.Add(this.lblres25);
+            this.groupBox4.Controls.Add(this.label143);
+            this.groupBox4.Controls.Add(this.textBox28);
+            this.groupBox4.Controls.Add(this.label144);
+            this.groupBox4.Controls.Add(this.textBox29);
+            this.groupBox4.Controls.Add(this.label145);
+            this.groupBox4.Controls.Add(this.lblres24);
+            this.groupBox4.Controls.Add(this.label147);
+            this.groupBox4.Controls.Add(this.lblres23);
+            this.groupBox4.Controls.Add(this.label149);
+            this.groupBox4.Controls.Add(this.tbres22);
+            this.groupBox4.Controls.Add(this.label150);
+            this.groupBox4.Controls.Add(this.lblres21);
+            this.groupBox4.Controls.Add(this.label152);
+            this.groupBox4.Controls.Add(this.textBox31);
+            this.groupBox4.Controls.Add(this.label153);
+            this.groupBox4.Controls.Add(this.textBox32);
+            this.groupBox4.Controls.Add(this.label154);
+            this.groupBox4.Controls.Add(this.textBox33);
+            this.groupBox4.Controls.Add(this.label155);
+            this.groupBox4.Controls.Add(this.label156);
+            this.groupBox4.Controls.Add(this.label157);
+            this.groupBox4.Controls.Add(this.label54);
+            this.groupBox4.Controls.Add(this.label66);
+            this.groupBox4.Controls.Add(this.label67);
+            this.groupBox4.Controls.Add(this.label70);
+            this.groupBox4.Controls.Add(this.button4);
+            this.groupBox4.Controls.Add(this.label73);
+            this.groupBox4.Controls.Add(this.label75);
+            this.groupBox4.Controls.Add(this.label76);
+            this.groupBox4.Controls.Add(this.label78);
+            this.groupBox4.Controls.Add(this.label79);
+            this.groupBox4.Controls.Add(this.label82);
+            this.groupBox4.Controls.Add(this.label85);
+            this.groupBox4.Controls.Add(this.label88);
+            this.groupBox4.Controls.Add(this.textBox6);
+            this.groupBox4.Controls.Add(this.label91);
+            this.groupBox4.Controls.Add(this.textBox15);
+            this.groupBox4.Controls.Add(this.label93);
+            this.groupBox4.Controls.Add(this.label94);
+            this.groupBox4.Controls.Add(this.label95);
+            this.groupBox4.Controls.Add(this.label96);
+            this.groupBox4.Controls.Add(this.label97);
+            this.groupBox4.Controls.Add(this.textBox16);
+            this.groupBox4.Controls.Add(this.label98);
+            this.groupBox4.Controls.Add(this.label99);
+            this.groupBox4.Controls.Add(this.label100);
+            this.groupBox4.Controls.Add(this.textBox19);
+            this.groupBox4.Controls.Add(this.label101);
+            this.groupBox4.Controls.Add(this.textBox20);
+            this.groupBox4.Controls.Add(this.label102);
+            this.groupBox4.Controls.Add(this.textBox21);
+            this.groupBox4.Controls.Add(this.label103);
+            this.groupBox4.Controls.Add(this.label104);
+            this.groupBox4.Controls.Add(this.label105);
+            this.groupBox4.Location = new System.Drawing.Point(8, 11);
+            this.groupBox4.Name = "groupBox4";
+            this.groupBox4.Size = new System.Drawing.Size(850, 381);
+            this.groupBox4.TabIndex = 2;
+            this.groupBox4.TabStop = false;
+            this.groupBox4.Text = "Усиленная профилактика 5 дней в неделю 2 раза в день";
             // 
-            // label47
+            // label132
             // 
-            this.label47.AutoSize = true;
-            this.label47.Location = new System.Drawing.Point(8, 35);
-            this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(142, 13);
-            this.label47.TabIndex = 99;
-            this.label47.Text = "Количество дойного стада";
+            this.label132.AutoSize = true;
+            this.label132.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label132.Location = new System.Drawing.Point(759, 328);
+            this.label132.Name = "label132";
+            this.label132.Size = new System.Drawing.Size(14, 13);
+            this.label132.TabIndex = 205;
+            this.label132.Text = "₽";
             // 
-            // tbCountStado
+            // label133
             // 
-            this.tbCountStado.Location = new System.Drawing.Point(299, 32);
-            this.tbCountStado.Name = "tbCountStado";
-            this.tbCountStado.Size = new System.Drawing.Size(45, 20);
-            this.tbCountStado.TabIndex = 100;
+            this.label133.AutoSize = true;
+            this.label133.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label133.Location = new System.Drawing.Point(759, 302);
+            this.label133.Name = "label133";
+            this.label133.Size = new System.Drawing.Size(14, 13);
+            this.label133.TabIndex = 204;
+            this.label133.Text = "₽";
             // 
-            // lblVanna
+            // label134
             // 
-            this.lblVanna.AutoSize = true;
-            this.lblVanna.Location = new System.Drawing.Point(296, 15);
-            this.lblVanna.Name = "lblVanna";
-            this.lblVanna.Size = new System.Drawing.Size(25, 13);
-            this.lblVanna.TabIndex = 102;
-            this.lblVanna.Text = "200";
+            this.label134.AutoSize = true;
+            this.label134.Location = new System.Drawing.Point(759, 276);
+            this.label134.Name = "label134";
+            this.label134.Size = new System.Drawing.Size(13, 13);
+            this.label134.TabIndex = 203;
+            this.label134.Text = "₽";
             // 
-            // lblTrebuemKuporosKg
+            // label135
             // 
-            this.lblTrebuemKuporosKg.AutoSize = true;
-            this.lblTrebuemKuporosKg.Location = new System.Drawing.Point(297, 130);
-            this.lblTrebuemKuporosKg.Name = "lblTrebuemKuporosKg";
-            this.lblTrebuemKuporosKg.Size = new System.Drawing.Size(13, 13);
-            this.lblTrebuemKuporosKg.TabIndex = 111;
-            this.lblTrebuemKuporosKg.Text = "0";
+            this.label135.AutoSize = true;
+            this.label135.Location = new System.Drawing.Point(759, 250);
+            this.label135.Name = "label135";
+            this.label135.Size = new System.Drawing.Size(13, 13);
+            this.label135.TabIndex = 202;
+            this.label135.Text = "₽";
             // 
-            // label59
+            // lblres28
             // 
-            this.label59.AutoSize = true;
-            this.label59.Location = new System.Drawing.Point(8, 58);
-            this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(185, 13);
-            this.label59.TabIndex = 103;
-            this.label59.Text = "Продолжительность обработки, дн";
+            this.lblres28.AutoSize = true;
+            this.lblres28.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.lblres28.Location = new System.Drawing.Point(780, 328);
+            this.lblres28.Name = "lblres28";
+            this.lblres28.Size = new System.Drawing.Size(14, 13);
+            this.lblres28.TabIndex = 201;
+            this.lblres28.Text = "0";
             // 
-            // label61
+            // label137
             // 
-            this.label61.AutoSize = true;
-            this.label61.Location = new System.Drawing.Point(9, 130);
-            this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(242, 13);
-            this.label61.TabIndex = 110;
-            this.label61.Text = "Количество требуемого Медного купороса, кг";
+            this.label137.AutoSize = true;
+            this.label137.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label137.Location = new System.Drawing.Point(462, 328);
+            this.label137.Name = "label137";
+            this.label137.Size = new System.Drawing.Size(264, 13);
+            this.label137.TabIndex = 200;
+            this.label137.Text = "Стоимость обработки 1 коровы  за период";
             // 
-            // tbCountDay
+            // lblres27
             // 
-            this.tbCountDay.Location = new System.Drawing.Point(299, 58);
-            this.tbCountDay.Name = "tbCountDay";
-            this.tbCountDay.Size = new System.Drawing.Size(45, 20);
-            this.tbCountDay.TabIndex = 104;
+            this.lblres27.AutoSize = true;
+            this.lblres27.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.lblres27.Location = new System.Drawing.Point(780, 302);
+            this.lblres27.Name = "lblres27";
+            this.lblres27.Size = new System.Drawing.Size(14, 13);
+            this.lblres27.TabIndex = 199;
+            this.lblres27.Text = "0";
             // 
-            // label112
+            // label139
             // 
-            this.label112.AutoSize = true;
-            this.label112.Location = new System.Drawing.Point(8, 84);
-            this.label112.Name = "label112";
-            this.label112.Size = new System.Drawing.Size(106, 13);
-            this.label112.TabIndex = 105;
-            this.label112.Text = "Медный купорос, %";
+            this.label139.AutoSize = true;
+            this.label139.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label139.Location = new System.Drawing.Point(462, 302);
+            this.label139.Name = "label139";
+            this.label139.Size = new System.Drawing.Size(239, 13);
+            this.label139.TabIndex = 198;
+            this.label139.Text = "Стоимость обработки 1 коровы в день";
             // 
-            // tbPercent
+            // lblres26
             // 
-            this.tbPercent.Location = new System.Drawing.Point(299, 81);
-            this.tbPercent.Name = "tbPercent";
-            this.tbPercent.Size = new System.Drawing.Size(45, 20);
-            this.tbPercent.TabIndex = 106;
-            this.tbPercent.Text = "2";
+            this.lblres26.AutoSize = true;
+            this.lblres26.Location = new System.Drawing.Point(780, 276);
+            this.lblres26.Name = "lblres26";
+            this.lblres26.Size = new System.Drawing.Size(13, 13);
+            this.lblres26.TabIndex = 197;
+            this.lblres26.Text = "0";
             // 
-            // label116
+            // label141
             // 
-            this.label116.AutoSize = true;
-            this.label116.Location = new System.Drawing.Point(258, 84);
-            this.label116.Name = "label116";
-            this.label116.Size = new System.Drawing.Size(13, 13);
-            this.label116.TabIndex = 107;
-            this.label116.Text = "0";
-            this.label116.Visible = false;
+            this.label141.AutoSize = true;
+            this.label141.Location = new System.Drawing.Point(462, 276);
+            this.label141.Name = "label141";
+            this.label141.Size = new System.Drawing.Size(155, 13);
+            this.label141.TabIndex = 196;
+            this.label141.Text = "Общая стоимость обработки";
             // 
-            // label120
+            // lblres25
             // 
-            this.label120.AutoSize = true;
-            this.label120.Location = new System.Drawing.Point(8, 107);
-            this.label120.Name = "label120";
-            this.label120.Size = new System.Drawing.Size(158, 13);
-            this.label120.TabIndex = 113;
-            this.label120.Text = "Количество обработок в день";
+            this.lblres25.AutoSize = true;
+            this.lblres25.Location = new System.Drawing.Point(780, 250);
+            this.lblres25.Name = "lblres25";
+            this.lblres25.Size = new System.Drawing.Size(13, 13);
+            this.lblres25.TabIndex = 195;
+            this.lblres25.Text = "0";
             // 
-            // tbCountObrabotki
+            // label143
             // 
-            this.tbCountObrabotki.Location = new System.Drawing.Point(299, 107);
-            this.tbCountObrabotki.Name = "tbCountObrabotki";
-            this.tbCountObrabotki.Size = new System.Drawing.Size(45, 20);
-            this.tbCountObrabotki.TabIndex = 114;
+            this.label143.AutoSize = true;
+            this.label143.Location = new System.Drawing.Point(462, 250);
+            this.label143.Name = "label143";
+            this.label143.Size = new System.Drawing.Size(85, 13);
+            this.label143.TabIndex = 194;
+            this.label143.Text = "Стоимость 1 кг";
             // 
-            // label122
+            // textBox28
             // 
-            this.label122.AutoSize = true;
-            this.label122.Location = new System.Drawing.Point(8, 152);
-            this.label122.Name = "label122";
-            this.label122.Size = new System.Drawing.Size(181, 13);
-            this.label122.TabIndex = 115;
-            this.label122.Text = "Стоимость 1 кг медного купороса";
+            this.textBox28.Location = new System.Drawing.Point(709, 221);
+            this.textBox28.Name = "textBox28";
+            this.textBox28.Size = new System.Drawing.Size(45, 20);
+            this.textBox28.TabIndex = 193;
             // 
-            // tbKuporosKg
+            // label144
             // 
-            this.tbKuporosKg.Location = new System.Drawing.Point(299, 152);
-            this.tbKuporosKg.Name = "tbKuporosKg";
-            this.tbKuporosKg.Size = new System.Drawing.Size(45, 20);
-            this.tbKuporosKg.TabIndex = 116;
+            this.label144.AutoSize = true;
+            this.label144.Location = new System.Drawing.Point(462, 224);
+            this.label144.Name = "label144";
+            this.label144.Size = new System.Drawing.Size(50, 13);
+            this.label144.TabIndex = 192;
+            this.label144.Text = "Весовка";
             // 
-            // lblStoimGolova
+            // textBox29
             // 
-            this.lblStoimGolova.AutoSize = true;
-            this.lblStoimGolova.Location = new System.Drawing.Point(296, 201);
-            this.lblStoimGolova.Name = "lblStoimGolova";
-            this.lblStoimGolova.Size = new System.Drawing.Size(13, 13);
-            this.lblStoimGolova.TabIndex = 120;
-            this.lblStoimGolova.Text = "0";
+            this.textBox29.Location = new System.Drawing.Point(709, 195);
+            this.textBox29.Name = "textBox29";
+            this.textBox29.Size = new System.Drawing.Size(45, 20);
+            this.textBox29.TabIndex = 191;
             // 
-            // label136
+            // label145
             // 
-            this.label136.AutoSize = true;
-            this.label136.Location = new System.Drawing.Point(8, 201);
-            this.label136.Name = "label136";
-            this.label136.Size = new System.Drawing.Size(244, 13);
-            this.label136.TabIndex = 119;
-            this.label136.Text = "Стоимость обработки 1 головы за период, руб";
+            this.label145.AutoSize = true;
+            this.label145.Location = new System.Drawing.Point(462, 198);
+            this.label145.Name = "label145";
+            this.label145.Size = new System.Drawing.Size(114, 13);
+            this.label145.TabIndex = 190;
+            this.label145.Text = "Стоимость канистры";
             // 
-            // lblStoimPeriod
+            // lblres24
             // 
-            this.lblStoimPeriod.AutoSize = true;
-            this.lblStoimPeriod.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.lblStoimPeriod.Location = new System.Drawing.Point(296, 175);
-            this.lblStoimPeriod.Name = "lblStoimPeriod";
-            this.lblStoimPeriod.Size = new System.Drawing.Size(14, 13);
-            this.lblStoimPeriod.TabIndex = 118;
-            this.lblStoimPeriod.Text = "0";
+            this.lblres24.AutoSize = true;
+            this.lblres24.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.lblres24.Location = new System.Drawing.Point(780, 172);
+            this.lblres24.Name = "lblres24";
+            this.lblres24.Size = new System.Drawing.Size(14, 13);
+            this.lblres24.TabIndex = 189;
+            this.lblres24.Text = "0";
             // 
-            // label140
+            // label147
             // 
-            this.label140.AutoSize = true;
-            this.label140.Location = new System.Drawing.Point(8, 175);
-            this.label140.Name = "label140";
-            this.label140.Size = new System.Drawing.Size(195, 13);
-            this.label140.TabIndex = 117;
-            this.label140.Text = "Стоимость обработки за период, руб";
+            this.label147.AutoSize = true;
+            this.label147.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label147.Location = new System.Drawing.Point(462, 172);
+            this.label147.Name = "label147";
+            this.label147.Size = new System.Drawing.Size(225, 13);
+            this.label147.TabIndex = 188;
+            this.label147.Text = "Количество требуемого Дезитаб, кг";
+            // 
+            // lblres23
+            // 
+            this.lblres23.AutoSize = true;
+            this.lblres23.Location = new System.Drawing.Point(780, 146);
+            this.lblres23.Name = "lblres23";
+            this.lblres23.Size = new System.Drawing.Size(13, 13);
+            this.lblres23.TabIndex = 187;
+            this.lblres23.Text = "0";
+            // 
+            // label149
+            // 
+            this.label149.AutoSize = true;
+            this.label149.Location = new System.Drawing.Point(462, 146);
+            this.label149.Name = "label149";
+            this.label149.Size = new System.Drawing.Size(93, 13);
+            this.label149.TabIndex = 186;
+            this.label149.Text = "Количество ванн";
+            // 
+            // tbres22
+            // 
+            this.tbres22.Enabled = false;
+            this.tbres22.Location = new System.Drawing.Point(709, 117);
+            this.tbres22.Name = "tbres22";
+            this.tbres22.Size = new System.Drawing.Size(45, 20);
+            this.tbres22.TabIndex = 185;
+            this.tbres22.Text = "1";
+            // 
+            // label150
+            // 
+            this.label150.AutoSize = true;
+            this.label150.Location = new System.Drawing.Point(462, 120);
+            this.label150.Name = "label150";
+            this.label150.Size = new System.Drawing.Size(176, 13);
+            this.label150.TabIndex = 184;
+            this.label150.Text = "Количество обработок за период";
+            // 
+            // lblres21
+            // 
+            this.lblres21.AutoSize = true;
+            this.lblres21.Location = new System.Drawing.Point(780, 94);
+            this.lblres21.Name = "lblres21";
+            this.lblres21.Size = new System.Drawing.Size(13, 13);
+            this.lblres21.TabIndex = 183;
+            this.lblres21.Text = "0";
+            // 
+            // label152
+            // 
+            this.label152.AutoSize = true;
+            this.label152.Location = new System.Drawing.Point(759, 94);
+            this.label152.Name = "label152";
+            this.label152.Size = new System.Drawing.Size(15, 13);
+            this.label152.TabIndex = 182;
+            this.label152.Text = "%";
+            // 
+            // textBox31
+            // 
+            this.textBox31.Location = new System.Drawing.Point(709, 91);
+            this.textBox31.Name = "textBox31";
+            this.textBox31.Size = new System.Drawing.Size(45, 20);
+            this.textBox31.TabIndex = 181;
+            this.textBox31.Text = "2";
+            // 
+            // label153
+            // 
+            this.label153.AutoSize = true;
+            this.label153.Location = new System.Drawing.Point(462, 94);
+            this.label153.Name = "label153";
+            this.label153.Size = new System.Drawing.Size(96, 13);
+            this.label153.TabIndex = 180;
+            this.label153.Text = "% использования";
+            // 
+            // textBox32
+            // 
+            this.textBox32.Location = new System.Drawing.Point(709, 65);
+            this.textBox32.Name = "textBox32";
+            this.textBox32.Size = new System.Drawing.Size(45, 20);
+            this.textBox32.TabIndex = 179;
+            // 
+            // label154
+            // 
+            this.label154.AutoSize = true;
+            this.label154.Location = new System.Drawing.Point(462, 68);
+            this.label154.Name = "label154";
+            this.label154.Size = new System.Drawing.Size(197, 13);
+            this.label154.TabIndex = 178;
+            this.label154.Text = "Продолжительность обработки, дней";
+            // 
+            // textBox33
+            // 
+            this.textBox33.Location = new System.Drawing.Point(709, 39);
+            this.textBox33.Name = "textBox33";
+            this.textBox33.Size = new System.Drawing.Size(45, 20);
+            this.textBox33.TabIndex = 177;
+            // 
+            // label155
+            // 
+            this.label155.AutoSize = true;
+            this.label155.Location = new System.Drawing.Point(462, 42);
+            this.label155.Name = "label155";
+            this.label155.Size = new System.Drawing.Size(142, 13);
+            this.label155.TabIndex = 176;
+            this.label155.Text = "Количество дойного стада";
+            // 
+            // label156
+            // 
+            this.label156.AutoSize = true;
+            this.label156.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label156.Location = new System.Drawing.Point(706, 16);
+            this.label156.Name = "label156";
+            this.label156.Size = new System.Drawing.Size(25, 13);
+            this.label156.TabIndex = 175;
+            this.label156.Text = "200";
+            // 
+            // label157
+            // 
+            this.label157.AutoSize = true;
+            this.label157.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label157.Location = new System.Drawing.Point(462, 16);
+            this.label157.Name = "label157";
+            this.label157.Size = new System.Drawing.Size(77, 13);
+            this.label157.TabIndex = 174;
+            this.label157.Text = "Объем ванны";
+            // 
+            // label54
+            // 
+            this.label54.AutoSize = true;
+            this.label54.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label54.Location = new System.Drawing.Point(305, 328);
+            this.label54.Name = "label54";
+            this.label54.Size = new System.Drawing.Size(14, 13);
+            this.label54.TabIndex = 173;
+            this.label54.Text = "₽";
+            // 
+            // label66
+            // 
+            this.label66.AutoSize = true;
+            this.label66.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label66.Location = new System.Drawing.Point(305, 302);
+            this.label66.Name = "label66";
+            this.label66.Size = new System.Drawing.Size(14, 13);
+            this.label66.TabIndex = 172;
+            this.label66.Text = "₽";
+            // 
+            // label67
+            // 
+            this.label67.AutoSize = true;
+            this.label67.Location = new System.Drawing.Point(305, 276);
+            this.label67.Name = "label67";
+            this.label67.Size = new System.Drawing.Size(13, 13);
+            this.label67.TabIndex = 171;
+            this.label67.Text = "₽";
+            // 
+            // label70
+            // 
+            this.label70.AutoSize = true;
+            this.label70.Location = new System.Drawing.Point(305, 250);
+            this.label70.Name = "label70";
+            this.label70.Size = new System.Drawing.Size(13, 13);
+            this.label70.TabIndex = 170;
+            this.label70.Text = "₽";
+            // 
+            // button4
+            // 
+            this.button4.Location = new System.Drawing.Point(366, 323);
+            this.button4.Name = "button4";
+            this.button4.Size = new System.Drawing.Size(75, 23);
+            this.button4.TabIndex = 169;
+            this.button4.Text = "Рассчитать";
+            this.button4.UseVisualStyleBackColor = true;
+            // 
+            // label73
+            // 
+            this.label73.AutoSize = true;
+            this.label73.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label73.Location = new System.Drawing.Point(326, 328);
+            this.label73.Name = "label73";
+            this.label73.Size = new System.Drawing.Size(14, 13);
+            this.label73.TabIndex = 168;
+            this.label73.Text = "0";
+            // 
+            // label75
+            // 
+            this.label75.AutoSize = true;
+            this.label75.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label75.Location = new System.Drawing.Point(8, 328);
+            this.label75.Name = "label75";
+            this.label75.Size = new System.Drawing.Size(264, 13);
+            this.label75.TabIndex = 167;
+            this.label75.Text = "Стоимость обработки 1 коровы  за период";
+            // 
+            // label76
+            // 
+            this.label76.AutoSize = true;
+            this.label76.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label76.Location = new System.Drawing.Point(326, 302);
+            this.label76.Name = "label76";
+            this.label76.Size = new System.Drawing.Size(14, 13);
+            this.label76.TabIndex = 166;
+            this.label76.Text = "0";
+            // 
+            // label78
+            // 
+            this.label78.AutoSize = true;
+            this.label78.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label78.Location = new System.Drawing.Point(8, 302);
+            this.label78.Name = "label78";
+            this.label78.Size = new System.Drawing.Size(239, 13);
+            this.label78.TabIndex = 165;
+            this.label78.Text = "Стоимость обработки 1 коровы в день";
+            // 
+            // label79
+            // 
+            this.label79.AutoSize = true;
+            this.label79.Location = new System.Drawing.Point(326, 276);
+            this.label79.Name = "label79";
+            this.label79.Size = new System.Drawing.Size(13, 13);
+            this.label79.TabIndex = 164;
+            this.label79.Text = "0";
+            // 
+            // label82
+            // 
+            this.label82.AutoSize = true;
+            this.label82.Location = new System.Drawing.Point(8, 276);
+            this.label82.Name = "label82";
+            this.label82.Size = new System.Drawing.Size(155, 13);
+            this.label82.TabIndex = 163;
+            this.label82.Text = "Общая стоимость обработки";
+            // 
+            // label85
+            // 
+            this.label85.AutoSize = true;
+            this.label85.Location = new System.Drawing.Point(326, 250);
+            this.label85.Name = "label85";
+            this.label85.Size = new System.Drawing.Size(13, 13);
+            this.label85.TabIndex = 162;
+            this.label85.Text = "0";
+            // 
+            // label88
+            // 
+            this.label88.AutoSize = true;
+            this.label88.Location = new System.Drawing.Point(8, 250);
+            this.label88.Name = "label88";
+            this.label88.Size = new System.Drawing.Size(85, 13);
+            this.label88.TabIndex = 161;
+            this.label88.Text = "Стоимость 1 кг";
+            // 
+            // textBox6
+            // 
+            this.textBox6.Location = new System.Drawing.Point(255, 221);
+            this.textBox6.Name = "textBox6";
+            this.textBox6.Size = new System.Drawing.Size(45, 20);
+            this.textBox6.TabIndex = 160;
+            // 
+            // label91
+            // 
+            this.label91.AutoSize = true;
+            this.label91.Location = new System.Drawing.Point(8, 224);
+            this.label91.Name = "label91";
+            this.label91.Size = new System.Drawing.Size(50, 13);
+            this.label91.TabIndex = 159;
+            this.label91.Text = "Весовка";
+            // 
+            // textBox15
+            // 
+            this.textBox15.Location = new System.Drawing.Point(255, 195);
+            this.textBox15.Name = "textBox15";
+            this.textBox15.Size = new System.Drawing.Size(45, 20);
+            this.textBox15.TabIndex = 158;
+            // 
+            // label93
+            // 
+            this.label93.AutoSize = true;
+            this.label93.Location = new System.Drawing.Point(8, 198);
+            this.label93.Name = "label93";
+            this.label93.Size = new System.Drawing.Size(114, 13);
+            this.label93.TabIndex = 157;
+            this.label93.Text = "Стоимость канистры";
+            // 
+            // label94
+            // 
+            this.label94.AutoSize = true;
+            this.label94.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label94.Location = new System.Drawing.Point(326, 172);
+            this.label94.Name = "label94";
+            this.label94.Size = new System.Drawing.Size(14, 13);
+            this.label94.TabIndex = 156;
+            this.label94.Text = "0";
+            // 
+            // label95
+            // 
+            this.label95.AutoSize = true;
+            this.label95.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label95.Location = new System.Drawing.Point(8, 172);
+            this.label95.Name = "label95";
+            this.label95.Size = new System.Drawing.Size(225, 13);
+            this.label95.TabIndex = 155;
+            this.label95.Text = "Количество требуемого Дезитаб, кг";
+            // 
+            // label96
+            // 
+            this.label96.AutoSize = true;
+            this.label96.Location = new System.Drawing.Point(326, 146);
+            this.label96.Name = "label96";
+            this.label96.Size = new System.Drawing.Size(13, 13);
+            this.label96.TabIndex = 154;
+            this.label96.Text = "0";
+            // 
+            // label97
+            // 
+            this.label97.AutoSize = true;
+            this.label97.Location = new System.Drawing.Point(8, 146);
+            this.label97.Name = "label97";
+            this.label97.Size = new System.Drawing.Size(93, 13);
+            this.label97.TabIndex = 153;
+            this.label97.Text = "Количество ванн";
+            // 
+            // textBox16
+            // 
+            this.textBox16.Enabled = false;
+            this.textBox16.Location = new System.Drawing.Point(255, 117);
+            this.textBox16.Name = "textBox16";
+            this.textBox16.Size = new System.Drawing.Size(45, 20);
+            this.textBox16.TabIndex = 152;
+            this.textBox16.Text = "1";
+            // 
+            // label98
+            // 
+            this.label98.AutoSize = true;
+            this.label98.Location = new System.Drawing.Point(8, 120);
+            this.label98.Name = "label98";
+            this.label98.Size = new System.Drawing.Size(176, 13);
+            this.label98.TabIndex = 151;
+            this.label98.Text = "Количество обработок за период";
+            // 
+            // label99
+            // 
+            this.label99.AutoSize = true;
+            this.label99.Location = new System.Drawing.Point(326, 94);
+            this.label99.Name = "label99";
+            this.label99.Size = new System.Drawing.Size(13, 13);
+            this.label99.TabIndex = 150;
+            this.label99.Text = "0";
+            // 
+            // label100
+            // 
+            this.label100.AutoSize = true;
+            this.label100.Location = new System.Drawing.Point(305, 94);
+            this.label100.Name = "label100";
+            this.label100.Size = new System.Drawing.Size(15, 13);
+            this.label100.TabIndex = 149;
+            this.label100.Text = "%";
+            // 
+            // textBox19
+            // 
+            this.textBox19.Location = new System.Drawing.Point(255, 91);
+            this.textBox19.Name = "textBox19";
+            this.textBox19.Size = new System.Drawing.Size(45, 20);
+            this.textBox19.TabIndex = 148;
+            this.textBox19.Text = "2";
+            // 
+            // label101
+            // 
+            this.label101.AutoSize = true;
+            this.label101.Location = new System.Drawing.Point(8, 94);
+            this.label101.Name = "label101";
+            this.label101.Size = new System.Drawing.Size(96, 13);
+            this.label101.TabIndex = 147;
+            this.label101.Text = "% использования";
+            // 
+            // textBox20
+            // 
+            this.textBox20.Location = new System.Drawing.Point(255, 65);
+            this.textBox20.Name = "textBox20";
+            this.textBox20.Size = new System.Drawing.Size(45, 20);
+            this.textBox20.TabIndex = 146;
+            // 
+            // label102
+            // 
+            this.label102.AutoSize = true;
+            this.label102.Location = new System.Drawing.Point(8, 68);
+            this.label102.Name = "label102";
+            this.label102.Size = new System.Drawing.Size(197, 13);
+            this.label102.TabIndex = 145;
+            this.label102.Text = "Продолжительность обработки, дней";
+            // 
+            // textBox21
+            // 
+            this.textBox21.Location = new System.Drawing.Point(255, 39);
+            this.textBox21.Name = "textBox21";
+            this.textBox21.Size = new System.Drawing.Size(45, 20);
+            this.textBox21.TabIndex = 144;
+            // 
+            // label103
+            // 
+            this.label103.AutoSize = true;
+            this.label103.Location = new System.Drawing.Point(8, 42);
+            this.label103.Name = "label103";
+            this.label103.Size = new System.Drawing.Size(142, 13);
+            this.label103.TabIndex = 143;
+            this.label103.Text = "Количество дойного стада";
+            // 
+            // label104
+            // 
+            this.label104.AutoSize = true;
+            this.label104.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label104.Location = new System.Drawing.Point(252, 16);
+            this.label104.Name = "label104";
+            this.label104.Size = new System.Drawing.Size(25, 13);
+            this.label104.TabIndex = 142;
+            this.label104.Text = "200";
+            // 
+            // label105
+            // 
+            this.label105.AutoSize = true;
+            this.label105.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label105.Location = new System.Drawing.Point(8, 16);
+            this.label105.Name = "label105";
+            this.label105.Size = new System.Drawing.Size(77, 13);
+            this.label105.TabIndex = 141;
+            this.label105.Text = "Объем ванны";
             // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(853, 798);
+            this.ClientSize = new System.Drawing.Size(853, 487);
             this.Controls.Add(this.tabControl1);
             this.Name = "Form2";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -2417,10 +2416,11 @@
             this.tabPage3.ResumeLayout(false);
             this.tabPage3.PerformLayout();
             this.tabPage2.ResumeLayout(false);
-            this.groupBox4.ResumeLayout(false);
-            this.groupBox4.PerformLayout();
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
+            this.tabPage5.ResumeLayout(false);
+            this.groupBox4.ResumeLayout(false);
+            this.groupBox4.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -2466,7 +2466,6 @@
         private System.Windows.Forms.Label label23;
         private System.Windows.Forms.TextBox textBox5;
         private System.Windows.Forms.Label label34;
-        private System.Windows.Forms.GroupBox groupBox4;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.Label label90;
         private System.Windows.Forms.Label label92;
@@ -2497,75 +2496,10 @@
         private System.Windows.Forms.Label label35;
         private System.Windows.Forms.Label label38;
         private System.Windows.Forms.Button button3;
-        private System.Windows.Forms.Label label54;
-        private System.Windows.Forms.Label label66;
-        private System.Windows.Forms.Label label67;
-        private System.Windows.Forms.Label label70;
-        private System.Windows.Forms.Button button4;
-        private System.Windows.Forms.Label label73;
-        private System.Windows.Forms.Label label75;
-        private System.Windows.Forms.Label label76;
-        private System.Windows.Forms.Label label78;
-        private System.Windows.Forms.Label label79;
-        private System.Windows.Forms.Label label82;
-        private System.Windows.Forms.Label label85;
-        private System.Windows.Forms.Label label88;
-        private System.Windows.Forms.TextBox textBox6;
-        private System.Windows.Forms.Label label91;
-        private System.Windows.Forms.TextBox textBox15;
-        private System.Windows.Forms.Label label93;
-        private System.Windows.Forms.Label label94;
-        private System.Windows.Forms.Label label95;
-        private System.Windows.Forms.Label label96;
-        private System.Windows.Forms.Label label97;
-        private System.Windows.Forms.TextBox textBox16;
-        private System.Windows.Forms.Label label98;
-        private System.Windows.Forms.Label label99;
-        private System.Windows.Forms.Label label100;
-        private System.Windows.Forms.TextBox textBox19;
-        private System.Windows.Forms.Label label101;
-        private System.Windows.Forms.TextBox textBox20;
-        private System.Windows.Forms.Label label102;
-        private System.Windows.Forms.TextBox textBox21;
-        private System.Windows.Forms.Label label103;
-        private System.Windows.Forms.Label label104;
-        private System.Windows.Forms.Label label105;
         private System.Windows.Forms.Label label44;
         private System.Windows.Forms.Label label41;
         private System.Windows.Forms.Label label39;
         private System.Windows.Forms.Label label37;
-        private System.Windows.Forms.Label label132;
-        private System.Windows.Forms.Label label133;
-        private System.Windows.Forms.Label label134;
-        private System.Windows.Forms.Label label135;
-        private System.Windows.Forms.Label lblres28;
-        private System.Windows.Forms.Label label137;
-        private System.Windows.Forms.Label lblres27;
-        private System.Windows.Forms.Label label139;
-        private System.Windows.Forms.Label lblres26;
-        private System.Windows.Forms.Label label141;
-        private System.Windows.Forms.Label lblres25;
-        private System.Windows.Forms.Label label143;
-        private System.Windows.Forms.TextBox textBox28;
-        private System.Windows.Forms.Label label144;
-        private System.Windows.Forms.TextBox textBox29;
-        private System.Windows.Forms.Label label145;
-        private System.Windows.Forms.Label lblres24;
-        private System.Windows.Forms.Label label147;
-        private System.Windows.Forms.Label lblres23;
-        private System.Windows.Forms.Label label149;
-        private System.Windows.Forms.TextBox tbres22;
-        private System.Windows.Forms.Label label150;
-        private System.Windows.Forms.Label lblres21;
-        private System.Windows.Forms.Label label152;
-        private System.Windows.Forms.TextBox textBox31;
-        private System.Windows.Forms.Label label153;
-        private System.Windows.Forms.TextBox textBox32;
-        private System.Windows.Forms.Label label154;
-        private System.Windows.Forms.TextBox textBox33;
-        private System.Windows.Forms.Label label155;
-        private System.Windows.Forms.Label label156;
-        private System.Windows.Forms.Label label157;
         private System.Windows.Forms.Label label106;
         private System.Windows.Forms.Label label107;
         private System.Windows.Forms.Label label108;
@@ -2638,5 +2572,72 @@
         private System.Windows.Forms.Label label112;
         private System.Windows.Forms.TextBox tbPercent;
         private System.Windows.Forms.Label label116;
+        private System.Windows.Forms.TabPage tabPage5;
+        private System.Windows.Forms.GroupBox groupBox4;
+        private System.Windows.Forms.Label label132;
+        private System.Windows.Forms.Label label133;
+        private System.Windows.Forms.Label label134;
+        private System.Windows.Forms.Label label135;
+        private System.Windows.Forms.Label lblres28;
+        private System.Windows.Forms.Label label137;
+        private System.Windows.Forms.Label lblres27;
+        private System.Windows.Forms.Label label139;
+        private System.Windows.Forms.Label lblres26;
+        private System.Windows.Forms.Label label141;
+        private System.Windows.Forms.Label lblres25;
+        private System.Windows.Forms.Label label143;
+        private System.Windows.Forms.TextBox textBox28;
+        private System.Windows.Forms.Label label144;
+        private System.Windows.Forms.TextBox textBox29;
+        private System.Windows.Forms.Label label145;
+        private System.Windows.Forms.Label lblres24;
+        private System.Windows.Forms.Label label147;
+        private System.Windows.Forms.Label lblres23;
+        private System.Windows.Forms.Label label149;
+        private System.Windows.Forms.TextBox tbres22;
+        private System.Windows.Forms.Label label150;
+        private System.Windows.Forms.Label lblres21;
+        private System.Windows.Forms.Label label152;
+        private System.Windows.Forms.TextBox textBox31;
+        private System.Windows.Forms.Label label153;
+        private System.Windows.Forms.TextBox textBox32;
+        private System.Windows.Forms.Label label154;
+        private System.Windows.Forms.TextBox textBox33;
+        private System.Windows.Forms.Label label155;
+        private System.Windows.Forms.Label label156;
+        private System.Windows.Forms.Label label157;
+        private System.Windows.Forms.Label label54;
+        private System.Windows.Forms.Label label66;
+        private System.Windows.Forms.Label label67;
+        private System.Windows.Forms.Label label70;
+        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Label label73;
+        private System.Windows.Forms.Label label75;
+        private System.Windows.Forms.Label label76;
+        private System.Windows.Forms.Label label78;
+        private System.Windows.Forms.Label label79;
+        private System.Windows.Forms.Label label82;
+        private System.Windows.Forms.Label label85;
+        private System.Windows.Forms.Label label88;
+        private System.Windows.Forms.TextBox textBox6;
+        private System.Windows.Forms.Label label91;
+        private System.Windows.Forms.TextBox textBox15;
+        private System.Windows.Forms.Label label93;
+        private System.Windows.Forms.Label label94;
+        private System.Windows.Forms.Label label95;
+        private System.Windows.Forms.Label label96;
+        private System.Windows.Forms.Label label97;
+        private System.Windows.Forms.TextBox textBox16;
+        private System.Windows.Forms.Label label98;
+        private System.Windows.Forms.Label label99;
+        private System.Windows.Forms.Label label100;
+        private System.Windows.Forms.TextBox textBox19;
+        private System.Windows.Forms.Label label101;
+        private System.Windows.Forms.TextBox textBox20;
+        private System.Windows.Forms.Label label102;
+        private System.Windows.Forms.TextBox textBox21;
+        private System.Windows.Forms.Label label103;
+        private System.Windows.Forms.Label label104;
+        private System.Windows.Forms.Label label105;
     }
 }
