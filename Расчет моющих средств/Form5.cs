@@ -137,5 +137,112 @@ namespace Расчет_моющих_средств
             label57.Text = res2.ToString();
             label60.Text = res3.ToString();
         }
+
+        private void Form5_Load(object sender, EventArgs e)
+        {
+            cbPoverhnost.SelectedIndex = 0;
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            if(tbPloshad.Text != "" && tbKoncentrat.Text != "" && tbRashod.Text != "" && tbEkspoziciya.Text != "" && tbPrice.Text != "" && tbVes.Text != "")
+            {
+                double ploshad = Convert.ToDouble(tbPloshad.Text);
+                double koncentrat = Convert.ToDouble(tbKoncentrat.Text);
+                double rashod = Convert.ToDouble(tbRashod.Text);
+                double ekspoziciya = Convert.ToDouble(tbEkspoziciya.Text);
+                double priсe = Convert.ToDouble(tbPrice.Text);
+                double ves = Convert.ToDouble(tbVes.Text);
+
+                double res1 = priсe / ves;
+                double res2 = ((ploshad * rashod) * koncentrat) / 100;
+                double res3 = res1 * res2;
+
+                lblStoimKg.Text = Math.Round(res1).ToString();
+                lblKolichestvo.Text = Math.Round(res2).ToString();
+                lblStoimObrabotki.Text = Math.Round(res3).ToString();
+            }
+            else
+            {
+                MessageBox.Show("Заполнены не все данные");
+            }
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            if (tbPloshadSrav.Text != "" && tbKoncentratSrav.Text != "" && tbRashodSrav.Text != "" && tbPriceSrav.Text != "" && tbVesSrav.Text != "")
+            {
+                double ploshad = Convert.ToDouble(tbPloshadSrav.Text);
+                double koncentrat = Convert.ToDouble(tbKoncentratSrav.Text);
+                double rashod = Convert.ToDouble(tbRashodSrav.Text);
+                double priсe = Convert.ToDouble(tbPriceSrav.Text);
+                double ves = Convert.ToDouble(tbVesSrav.Text);
+
+                double res1 = priсe / ves;
+                double res2 = ((ploshad * rashod) * koncentrat) / 100;
+                double res3 = res1 * res2;
+
+                lblStoimKgSrav.Text = Math.Round(res1).ToString();
+                lblKolichSrav.Text = Math.Round(res2).ToString();
+                lblStoimObrabotkiSrav.Text = Math.Round(res3).ToString();
+            }
+            else
+            {
+                MessageBox.Show("Заполнены не все данные");
+            }
+        }
+
+        #region Обработка ввода данных
+        private void KeyPress(KeyPressEventArgs e)
+        {
+            char number = e.KeyChar;
+            if (number == '.')
+                number = ',';
+            if ((e.KeyChar <= 47 || e.KeyChar >= 58) && number != 8 && number != 44) //цифры, клавиша BackSpace и запятая а ASCII
+            {
+                e.Handled = true;
+            }
+        }
+
+        private void tbPloshad_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            KeyPress(e);
+        }
+
+        private void tbPrice_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            KeyPress(e);
+        }
+
+        private void tbVes_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            KeyPress(e);
+        }
+
+        private void tbPloshadSrav_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            KeyPress(e);
+        }
+
+        private void tbKoncentratSrav_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            KeyPress(e);
+        }
+
+        private void tbRashodSrav_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            KeyPress(e);
+        }
+
+        private void tbPriceSrav_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            KeyPress(e);
+        }
+
+        private void tbVesSrav_KeyPress(object sender, KeyPressEventArgs e)
+        {
+            KeyPress(e);
+        }
+        #endregion
     }
 }
