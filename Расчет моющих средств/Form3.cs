@@ -118,17 +118,17 @@ namespace Расчет_моющих_средств
         private void comboBox3_SelectedIndexChanged(object sender, EventArgs e)
         {
             if (comboBox3.SelectedIndex == 0)
-                tbRes21.Text = "4";
+                tbRes21.Text = "5.6";
             else if (comboBox3.SelectedIndex == 1)
                 tbRes21.Text = "2.8";
             else if (comboBox3.SelectedIndex == 2)
                 tbRes21.Text = "2.8";
             else if (comboBox3.SelectedIndex == 3)
-                tbRes21.Text = "4";
+                tbRes21.Text = "3.2";
             else if (comboBox3.SelectedIndex == 4)
-                tbRes21.Text = "4";
+                tbRes21.Text = "3.2";
             else if (comboBox3.SelectedIndex == 5)
-                tbRes21.Text = "4";
+                tbRes21.Text = "5.6";
         }
 
         private void button2_Click(object sender, EventArgs e)
